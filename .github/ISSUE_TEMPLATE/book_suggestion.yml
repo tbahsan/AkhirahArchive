@@ -1,0 +1,46 @@
+name: Suggest a Verified Book
+description: Propose a scholarly book or classical commentary for the AkhirahArchive catalog
+title: "[Book Suggestion] "
+labels: ["book-suggestion"]
+body:
+  - type: input
+    id: book_title
+    attributes:
+      label: Book Title & Author
+      placeholder: "e.g., Ashrat al-Sa'ah by Dr. Yusuf al-Wabil"
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Book Language
+      options:
+        - English
+        - Bengali (বাংলা)
+        - Arabic (العربية)
+        - Urdu (اردو)
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Proposed Evidence Tier
+      options:
+        - Tier 2 (Scholarly / Classical Verified)
+        - Tier 2 with Isnad Caution
+        - Tier 2–3 (Mixed / Accessible Commentary)
+        - Tier 3 (Contemporary / Geopolitical Analysis)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Verified Direct URL (IslamHouse, Shamela, Kitabosunnat, Internet Archive, Publisher)
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Brief Summary & Verification Notes
+      placeholder: Why this edition adds value and how its source/chains are verified...

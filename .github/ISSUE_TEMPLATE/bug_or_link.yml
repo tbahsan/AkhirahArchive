@@ -1,0 +1,19 @@
+name: Report Broken Link or Error
+description: Report a dead link, UI bug, or factual/citation error in the library
+title: "[Broken Link / Error] "
+labels: ["bug"]
+body:
+  - type: input
+    id: book_ref
+    attributes:
+      label: Book #ID or Section Name
+      placeholder: "e.g., Book #42 or Geography Map"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What went wrong?
+      placeholder: Share the broken URL, replacement link (if available), or steps to reproduce...
+    validations:
+      required: true

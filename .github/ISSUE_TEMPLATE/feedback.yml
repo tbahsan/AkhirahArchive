@@ -1,0 +1,23 @@
+name: Feature Idea, Translation Fix, or General Feedback
+description: Suggest an improvement, UI refinement, or translation correction (EN / BN / AR / UR)
+title: "[Feedback / Idea] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - UI / UX Enhancement
+        - Translation Improvement (EN / BN / AR / UR)
+        - New Study Module / Content
+        - General Feedback
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Your Suggestion or Feedback
+      placeholder: Share your idea, correction, or feedback clearly...
+    validations:
+      required: true
