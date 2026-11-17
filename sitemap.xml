@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://tbahsan.github.io/AkhirahArchive/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tbahsan.github.io/AkhirahArchive/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tbahsan.github.io/AkhirahArchive/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://tbahsan.github.io/AkhirahArchive/?lang=bn"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tbahsan.github.io/AkhirahArchive/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="ur" href="https://tbahsan.github.io/AkhirahArchive/?lang=ur"/>
-  </url>
-  <url>
-    <loc>https://tbahsan.github.io/AkhirahArchive/?lang=en</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tbahsan.github.io/AkhirahArchive/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tbahsan.github.io/AkhirahArchive/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://tbahsan.github.io/AkhirahArchive/?lang=bn"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tbahsan.github.io/AkhirahArchive/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="ur" href="https://tbahsan.github.io/AkhirahArchive/?lang=ur"/>
-  </url>
-  <url>
-    <loc>https://tbahsan.github.io/AkhirahArchive/?lang=bn</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tbahsan.github.io/AkhirahArchive/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tbahsan.github.io/AkhirahArchive/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://tbahsan.github.io/AkhirahArchive/?lang=bn"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tbahsan.github.io/AkhirahArchive/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="ur" href="https://tbahsan.github.io/AkhirahArchive/?lang=ur"/>
-  </url>
-  <url>
-    <loc>https://tbahsan.github.io/AkhirahArchive/?lang=ar</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tbahsan.github.io/AkhirahArchive/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tbahsan.github.io/AkhirahArchive/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://tbahsan.github.io/AkhirahArchive/?lang=bn"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tbahsan.github.io/AkhirahArchive/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="ur" href="https://tbahsan.github.io/AkhirahArchive/?lang=ur"/>
-  </url>
-  <url>
-    <loc>https://tbahsan.github.io/AkhirahArchive/?lang=ur</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tbahsan.github.io/AkhirahArchive/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tbahsan.github.io/AkhirahArchive/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://tbahsan.github.io/AkhirahArchive/?lang=bn"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://tbahsan.github.io/AkhirahArchive/?lang=ar"/>
-    <xhtml:link rel="alternate" hreflang="ur" href="https://tbahsan.github.io/AkhirahArchive/?lang=ur"/>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=en</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=bn</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ar</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ur</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=fa</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=prs</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ps</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=dv</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=id</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ms</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=tr</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=az</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=kk</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ru</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=uz</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=tk</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ky</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=tg</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=fr</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ha</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=yo</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ig</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=wo</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=bm</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=ff</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=dje</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=so</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=sq</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=bs</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=hr</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/?lang=sr</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/data/books.json</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tbahsan.github.io/AkhirahArchive/data/lectures.json</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>

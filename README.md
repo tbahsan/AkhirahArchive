@@ -1,171 +1,93 @@
-# AkhirahArchive: Islamic Eschatology Digital Library (1900–2026)
+# AkhirahArchive · Islamic Eschatology Digital Library, Global Lectures & Timeline of Qiyamah (v8.0 Global Ummah Edition)
 
-[![Version](https://img.shields.io/badge/version-6.0%20International-0F5C44?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/UI%20%26%20Catalog-EN%20%C2%B7%20BN%20%C2%B7%20AR%20%C2%B7%20UR-1D4A78?style=flat-square)](#4-language-interface--auto-detection)
-[![Books](https://img.shields.io/badge/verified%20books-140-9A7432?style=flat-square)](#catalog-overview)
-[![Issues](https://img.shields.io/github/issues/tbahsan/AkhirahArchive?style=flat-square&color=144D40)](https://github.com/tbahsan/AkhirahArchive/issues)
-[![License: MIT](https://img.shields.io/badge/license-MIT-555555?style=flat-square)](LICENSE)
+[![Live Site](https://img.shields.io/badge/Live%20App-tbahsan.github.io%2FAkhirahArchive-0F4D3F?style=for-the-badge)](https://tbahsan.github.io/AkhirahArchive/)
+[![Books](https://img.shields.io/badge/Verified%20Books-200-1D4A78?style=for-the-badge)](#catalog-summary)
+[![Lectures](https://img.shields.io/badge/Global%20Lectures-42%20Series-9A7432?style=for-the-badge)](#global-lectures)
+[![Timeline](https://img.shields.io/badge/Qiyamah%20Timeline-6%20Eras%20%C2%B7%2026%20Milestones-6D28D9?style=for-the-badge)](#interactive-timeline-of-qiyamahs-signs)
+[![UI Languages](https://img.shields.io/badge/Interface%20Languages-31%20(6%20RTL%20%2B%2025%20LTR)-144D40?style=for-the-badge)](#31-supported-languages)
 
-An open-source, zero-dependency, offline-first multilingual digital library and scholarly reference hub on **Islamic Eschatology** (*Ashrat al-Sa'ah*, *Fitan*, *Barzakh*, and *Akhirah*). Designed to run directly from a single standalone `index.html` file on **GitHub Pages** ([tbahsan.github.io/AkhirahArchive](https://tbahsan.github.io/AkhirahArchive/)) or completely offline in any modern browser.
+> **This project was created with Artificial Intelligence under the direction and maintenance of [Tasneem Bin Ahsan](https://github.com/tbahsan). Users are encouraged to verify references directly against primary texts.**
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [3-Tier Evidentiary Framework](#3-tier-evidentiary-framework)
-- [Key Features](#key-features)
-- [4-Language Interface & Auto-Detection](#4-language-interface--auto-detection)
-- [Catalog Overview](#catalog-overview)
-- [Quick Start & Deployment](#quick-start--deployment)
-- [Repository Structure](#repository-structure)
-- [Multilingual Subject Index & Keywords](#multilingual-subject-index--keywords)
-- [Contributing](#contributing)
-- [Credits & Maintenance](#credits--maintenance)
-- [License](#license)
+**AkhirahArchive** is a free, open-source, single-file, offline-capable Islamic eschatology (Signs of the Hour, *Fitan*, *Malahim*, and the Hereafter) research portal covering scholarship from **1900 to 2026** anchored in a transparent **3-Tier Evidentiary Framework** (Tier 1 Primary Revelation, Tier 2 Scholarly Research & Classical Commentaries, Tier 3 Contemporary/Speculative Discourse).
 
 ---
 
-## Overview
+## What Is New in v8.0 (Global Ummah Edition)
 
-Discussions around the Signs of the Hour (*Ashrat al-Sa'ah*) and End-Times narrations frequently mix authentic revelation, unverified popular traditions, and modern geopolitical speculation. This project addresses that gap by organizing **140 verified books (1900–2026)** and classical commentaries across **English, Bengali, Arabic, and Urdu** under a strict evidentiary classification, paired with primary scripture links, an offline eschatology map, practical du'as, scholarly FAQs, and interactive study tools.
-
----
-
-## 3-Tier Evidentiary Framework
-
-Every source in the library is transparently classified into one of three evidentiary tiers:
-
-| Tier | Category | Description & Usage Guidance |
-| :--- | :--- | :--- |
-| **Tier 1** | **Primary Revelation** | The Noble Qur'an and authentic *Sahih*/*Hasan* Sunnah (linked directly via Quran.com, Sunnah.com, and Dorar.net). Forms the sole binding foundation of belief. |
-| **Tier 2** | **Scholarly Research & Classical Commentaries** | Peer-reviewed academic editions, classical hadith commentaries (*Fath al-Bari*, *Sharh Sahih Muslim*, *Sharh al-Aqidah al-Tahawiyyah*), and verified modern monographs. Historical compilations containing mixed chains are explicitly flagged with **Isnad Caution**. |
-| **Tier 3** | **Contemporary / Speculative Analysis** | Modern geopolitical essays and personal authorial readings of current events. Included for critical awareness and explicitly separated from binding creed. |
+1. **Interactive Master Chronological Timeline of Qiyamah's Signs (`6` Eras · `26` Milestones):**
+   - Full prophetic chronology from **Era I (Fulfilled Minor Signs)** and **Era II (Ongoing & Recurring Signs)** through **Era III (Bridge Signs & Prelude)**, **Era IV (All 10 Major Signs of the Hour)**, **Era V (Cosmic End, Blowing of the Trumpet & Resurrection)**, and **Era VI (Eternal Abodes: Jannah & Jahannam)**.
+   - Color-coded scholarly status badges (**Fulfilled**, **Ongoing / Recurring**, **Chained Sequence**, **Scholarly Ikhtilaf on Order**, **Definitive Qat'i Reality**), direct **Quran.com / Sunnah.com** verification links, sequencing notes, and clickable catalog book cross-reference chips.
+2. **31 Global Ummah UI Languages (6 RTL + 25 LTR):**
+   - Instant quick-bar for **English, Bengali, Arabic, Urdu, Persian (Farsi)** plus a searchable **31-Language Global Ummah Picker Modal** grouped by region with automatic timezone/locale/country detection and intelligent regional fallback chains (never mixing RTL scripts into LTR Cyrillic/Latin interfaces).
+3. **Expanded to 200 Verified Books (+30 Persian & Global Ummah Titles `#171-#200`):**
+   - Added **12 Persian (Farsi)** books (`#171-#182`) and **18 Global Ummah** books (`#183-#200`) across Indonesian, Turkish, French, Russian, Pashto, Hausa, Bosnian, Albanian, Somali, Uzbek, Tajik, Kazakh, and Azerbaijani.
+4. **Expanded to 42 Global Lecture Series (+14 Persian & Global Series `L29-L42`) & 34 Scholar Profiles:**
+   - Added **5 Farsi** series (`L29-L33`) and **9 Global Ummah** series (`L34-L42`) plus **6 new Persian & International Sunni scholar/speaker biographies** (`34` total).
 
 ---
 
-## Key Features
+## <a id="catalog-summary"></a>Catalog Summary (`200` Verified Books)
 
-- **140 Verified Multilingual Books (`#1–#140`):** Searchable and filterable by language, evidentiary tier, access type (free PDF/online read, Archive.org, catalog info), topic, classical status, and reading progress, with a collapsible filter drawer, compact pagination (`12 / 24 / 48 / All`), and card/table views.
-- **Built-in GitHub Issues Feedback Hub:** Visitors can suggest verified books, report broken links (pre-filled directly from any book modal), submit translation fixes, and browse live open issues from [`tbahsan/AkhirahArchive`](https://github.com/tbahsan/AkhirahArchive/issues) directly inside the app, with graceful offline fallback.
-- **Interactive Offline SVG Geography Map:** 10 clickable authentic hadith locations (Makkah & al-Bayda, Madinah & Hijaz, Damascus Eastern Minaret, Bab Ludd, Bayt al-Maqdis & Mount Tur, Dabiq & A'maq, Constantinople, River Euphrates, Isfahan & Khorasan, and Aden/Yemen) with direct hadith references and related books.
-- **Signs & Afterlife Timeline:** 14 Minor Signs (categorized as fulfilled, ongoing, and future), all 10 Major Signs, and the 12-stage journey of the Afterlife from death and *Barzakh* to Paradise and Hellfire.
-- **Practical Action, Protection Du'as & 25 FAQs:** 6 authentic protection du'as (with Arabic script, transliteration, translation, and one-click copy), a persistent daily preparation checklist, and 25 searchable scholarly Q&As.
-- **Verification & Active Study Tools:**
-  - **Ijma vs. Ikhtilaf:** Clear separation between Sunni consensus and legitimate scholarly differences.
-  - **Myth-Buster & Comparative Table:** Fact-checking common viral eschatological misconceptions.
-  - **3-Deck 3D Flip Flashcards:** Glossary terms, 10 Major Signs, and 12 core authentic hadiths.
-  - **12-Question Self-Assessment Quiz:** Instant explanations aligned with authentic sources.
-- **Scholar Profiles, Edition Guides & Extra Sources:** 16 classical and modern scholar bios, 6 critical-edition buying/reading guides, a 4-stage study roadmap, 6 academic theses, and 4 verified lecture series.
-- **Local-First Personal Workspace:** Bookmarks, reading status tracker, personal notes, 3-book side-by-side comparison, custom book additions, CSV/Markdown exports, printable study sheets, JSON backup/restore, and Light/Dark themes, stored strictly in browser `localStorage` with zero user tracking.
+| Language Category | Count | ID Range | Access Highlights |
+| :--- | :---: | :--- | :--- |
+| **English (`en`)** | 49 | `#27-#64`, `#126-#127`, `#148-#156` | Academic & mainstream Sunni monographs |
+| **Arabic (`ar`)** | 42 | `#93-#120`, `#132-#140`, `#164-#170` | Classical *Sharh* works (`Fath al-Bari`, `Tadhkirah`, `Nihayah`) + Shamela/Waqfeya |
+| **Urdu (`ur`)** | 42 | `#65-#92`, `#128-#131`, `#157-#163` | Deobandi, Nadwi & Ahl-e-Hadith scholarship (Rekhta / Archive.org) |
+| **Bengali (`bn`)** | 37 | `#1-#26`, `#121-#125`, `#141-#147` | Bangladesh & West Bengal authentic translations & primers |
+| **Persian / Farsi (`fa`)** | 12 | `#171-#182` | Verified `aqeedeh.com` & `islamhouse.com/fa` Sunni classical/modern editions |
+| **Global Ummah (`global`)** | 18 | `#183-#200` | Indonesian, Turkish (TDV), French, Russian, Pashto, Hausa, Bosnian, Albanian, Somali, Uzbek, Tajik, Kazakh, Azerbaijani |
+| **Total** | **200** | **`#1-#200`** | **142 Free Online Reads/PDFs · 267 Verified Direct Links** |
 
 ---
 
-## 4-Language Interface & Auto-Detection
+## <a id="global-lectures"></a>Global Akhirah Lectures (`42` Series · `92` Verified Links)
 
-The entire interface, book summaries, map labels, du'as, FAQs, flashcards, and quizzes are available in four languages with automatic **LTR / RTL layout mirroring**:
-
-- **English (`en`):** LTR
-- **বাংলা / Bengali (`bn`):** LTR
-- **العربية / Arabic (`ar`):** Full RTL (`dir="rtl"`)
-- **اردو / Urdu (`ur`):** Full RTL (`dir="rtl"`)
-
-### Automatic Default Language Selection
-On first visit, the app automatically selects the best language using a privacy-friendly cascade:
-1. **URL Parameter (`?lang=en|bn|ar|ur`)** or saved manual user preference (`localStorage`).
-2. **Instant Offline Timezone Detection (`Intl`):** e.g., `Asia/Dhaka` → Bengali, `Asia/Karachi` → Urdu, Arab world timezones → Arabic, otherwise browser locale (`navigator.languages`) or English.
-3. **Optional Non-Blocking IP Country Lookup:** When hosted online (e.g., GitHub Pages), a lightweight background country lookup (`get.geojs.io`) refines the default language if no manual preference has been set. Fails silently when offline.
-
-Visitors can switch languages at any time from the header switcher.
+- **Persian / Farsi (`L29-L33`, 5 series):** Shaykh Muhammad Saleh Pardel, Shaykh Muhammad Saleh Ziaei, Mawlana Abdul Hamid, IslamHouse Farsi audio/video archives.
+- **Global Ummah (`L34-L42`, 9 series):** Ustadz Khalid Basalamah & Ustadz Adi Hidayat (Indonesian), Nureddin Yildiz (Turkish), IslamHouse verified archives in French, Russian, Pashto, Hausa, Somali, Bosnian & Albanian.
+- **Urdu (`L01-L07`), Bengali (`L08-L14`), English (`L15-L21`), Arabic (`L22-L28`):** 28 established global speaker archives with strict Tier grading and evidentiary cautions.
 
 ---
 
-## Catalog Overview
+## <a id="31-supported-languages"></a>31 Supported Global Ummah Languages
 
-| Language | Books | Highlights |
-| :--- | :---: | :--- |
-| **English (`en`)** | 40 | Al-Ashqar, Ibn Kathir, Al-Ghazali (Winter ed.), Al-Albani, Brill *Roads to Paradise*, critical methodologies |
-| **Arabic (`ar`)** | 35 | *Fath al-Bari* (Vol. 13), *Sharh Sahih Muslim* (Vol. 18), *Sharh al-Tahawiyyah*, Al-Wabil, Al-Muqaddim, Al-Bayhaqi |
-| **Urdu (`ur`)** | 35 | Anwar Shah Kashmiri, Mufti Muhammad Shafi, Maulana Yusuf Ludhianvi, Kitabosunnat verified editions |
-| **Bengali (`bn`)** | 30 | Dr. Abdullah Jahangir, IslamHouse verified translations, classical & contemporary studies |
-| **Total** | **140** | **94 direct free reads/PDFs · 33 classical works & commentaries** |
-
----
-
-## Quick Start & Deployment
-
-### Option 1: Use Offline Immediately
-Download `index.html` and open it directly in any modern web browser (Chrome, Firefox, Safari, Edge). No server, build step, or internet connection is required for browsing, searching, reading notes, map exploration, flashcards, or quizzes.
-
-### Option 2: Deploy Free on GitHub Pages
-1. Fork or push this repository to your GitHub account.
-2. Go to **Repository Settings → Pages**.
-3. Under **Build and deployment → Source**:
-   - Select **GitHub Actions** (uses the included `.github/workflows/pages.yml` automatically), **or**
-   - Select **Deploy from a branch** → `main` → `/ (root)` and click **Save**.
-4. Your site will be live within ~60 seconds at:
-   `https://tbahsan.github.io/AkhirahArchive/`
-
-### Option 3: Local Preview Server
-```bash
-python3 -m http.server 8080
-# Open http://localhost:8080 in your browser
-```
+| Region | Languages (Code · Direction) |
+| :--- | :--- |
+| **Primary & South Asia** | English (`en` LTR), বাংলা / Bengali (`bn` LTR), العربية / Arabic (`ar` RTL), اردو / Urdu (`ur` RTL), پښتو / Pashto (`ps` RTL), دری / Dari (`prs` RTL), ދިވެހި / Dhivehi (`dv` RTL) |
+| **Persian, Turkic & Central Asia** | فارسی / Persian (`fa` RTL), Türkçe (`tr` LTR), Azərbaycanca (`az` LTR), O'zbekcha (`uz` LTR), Қазақша (`kk` LTR), Кыргызча (`ky` LTR), Türkmençe (`tk` LTR), Тоҷикӣ (`tg` LTR), Русский (`ru` LTR) |
+| **Southeast Asia** | Bahasa Indonesia (`id` LTR), Bahasa Melayu (`ms` LTR) |
+| **West & East Africa** | Hausa (`ha` LTR), Yorùbá (`yo` LTR), Asụsụ Igbo (`ig` LTR), Français (`fr` LTR), Wolof (`wo` LTR), Bamanankan (`bm` LTR), Fulfulde (`ff` LTR), Zarma (`dje` LTR), Soomaali (`so` LTR) |
+| **Balkans & Europe** | Shqip / Albanian (`sq` LTR), Bosanski / Bosnian (`bs` LTR), Hrvatski / Croatian (`hr` LTR), Srpski / Serbian (`sr` LTR) |
 
 ---
 
 ## Repository Structure
 
 ```text
-.
-├── index.html                                    # Standalone v6.0 International web app (zero dependencies, SEO + JSON-LD)
-├── og-preview.png                                # 1200x630 Open Graph / Twitter social preview banner
-├── robots.txt                                    # Search crawler directives
-├── sitemap.xml                                   # Multilingual XML sitemap (EN, BN, AR, UR hreflang)
+AkhirahArchive/
+├── index.html                                  # Standalone zero-dependency v8.0 web app (31 languages)
+├── og-preview.png                              # 1200x630 Open Graph / social preview card (v8.0)
+├── sitemap.xml                                 # Global 31-language + dataset XML sitemap
+├── robots.txt                                  # Search engine indexing rules
+├── google6fb93960a686ec8f.html                 # Google Search Console live verification file
 ├── data/
-│   └── books.json                                # Structured JSON dataset of all 140 verified books (4-language summaries)
+│   ├── books.json                              # Machine-readable catalog of 200 verified books
+│   └── lectures.json                           # Machine-readable catalog of 42 lecture series
 ├── catalog/
-│   └── End_Times_Digital_Library_1900-2026_v5.md # Full scholarly Markdown catalog (§§A–I)
-├── .github/
-│   ├── ISSUE_TEMPLATE/                           # Structured GitHub Issue forms (books, broken links, feedback)
-│   └── workflows/
-│       └── pages.yml                             # Automated GitHub Pages deployment workflow
-├── .nojekyll                                     # Prevents Jekyll processing on GitHub Pages
-├── CONTRIBUTING.md                               # Verification standards & contribution guide
-├── LICENSE                                       # MIT License
-└── README.md                                     # Project documentation
+│   ├── End_Times_Digital_Library_1900-2026_v8.md  # Full v8.0 Markdown catalog (200 books, 42 lectures, 26 timeline milestones)
+│   ├── End_Times_Digital_Library_1900-2026_v7.md  # Archived v7.0 catalog
+│   └── End_Times_Digital_Library_1900-2026_v5.md  # Archived v5.0 catalog
+└── .github/ISSUE_TEMPLATE/                     # Community book/lecture suggestions & broken-link reports
 ```
 
 ---
 
-## Multilingual Subject Index & Keywords
+## Contributing & Community Feedback
 
-To aid global searchability and research discovery across English, Bengali, Arabic, and Urdu, **AkhirahArchive** covers the following core topics and classical references:
-
-- **English:** Islamic eschatology, Signs of the Hour (*Ashrat al-Sa'ah*), Minor Signs, 10 Major Signs of Qiyamah, *Fitan* and *Malahim*, *al-Masih al-Dajjal*, *Imam al-Mahdi*, Descent of *Isa ibn Maryam* (Jesus in Islam), Gog and Magog (*Ya'juj* and *Ma'juj*), *Barzakh* and the life of the grave, Day of Judgment (*Yawm al-Qiyamah*), *Akhirah*, *Jannah* and *Jahannam*, Sahih Bukhari *Kitab al-Fitan*, Sahih Muslim Book 54, *Fath al-Bari*, *Sharh al-Aqidah al-Tahawiyyah*, Hadith verification (*Tahqiq*), Islamic digital library, open-source Islamic reference.
-- **বাংলা (Bengali):** কিয়ামতের আলামত, কিয়ামতের ছোট ও বড় নিদর্শন, আখিরী জামানা, দাজ্জাল, ইমাম মাহদী, ঈসা (আ.)-এর অবতরণ, ইয়াজুজ মাজুজ, ফিতান ও মালাহিম, কবর ও বারযাখ, আখিরাত, জান্নাত ও জাহান্নাম, সহীহ হাদিসভিত্তিক বই, ইসলামিক ডিজিটাল লাইব্রেরি, ড. আব্দুল্লাহ জাহাঙ্গীর, ইবনে কাসীর, আলবানী।
-- **العربية (Arabic):** أشراط الساعة الصغرى والكبرى، علامات يوم القيامة، الفتن والملاحم، المسيح الدجال، المهدي، نزول عيسى عليه السلام، يأجوج ومأجوج، عذاب القبر وعالم البرزخ، البعث والحشر والجنة والنار، فقه أشراط الساعة، فتح الباري، شرح صحيح مسلم، شرح العقيدة الطحاوية، مكتبة إسلامية رقمية.
-- **اردو (Urdu):** علاماتِ قیامت صغریٰ و کبریٰ، قیامت کی نشانیاں، آخری زمانے کے فتن و ملاحم، فتنۂ مسیحِ دجال، امام مہدی، نزولِ عیسیٰ علیہ السلام، یاجوج و ماجوج، عذابِ قبر اور عالمِ برزخ، حشر و آخرت، جنت و جہنم، اسلامی ڈیجیٹل لائبریری، صحیح احادیث، علامہ انور شاہ کشمیری، مفتی محمد شفیع، دکتور یوسف الوابل۔
+Found a broken link, a verified Farsi/regional Sunni book, or a native translation improvement for any of the 31 languages?
+Use the built-in **Suggest Book / Report Issue** button in the app or open an issue directly on [GitHub Issues](https://github.com/tbahsan/AkhirahArchive/issues).
 
 ---
 
-## Contributing
+## Attribution & Disclaimer
 
-Contributions (such as newly verified scholarly editions, broken-link fixes, translation refinements, or UI accessibility enhancements) are warmly welcome. Please review [`CONTRIBUTING.md`](CONTRIBUTING.md) before submitting a Pull Request.
-
----
-
-## Credits & Maintenance
-
-> **This project was created with Artificial Intelligence under the direction and maintenance of [Tasneem Bin Ahsan](https://github.com/tbahsan). Users are encouraged to verify references directly against primary texts.**
-
-- **Maintainer:** Tasneem Bin Ahsan ([github.com/tbahsan](https://github.com/tbahsan))
-- **Built With:** Artificial Intelligence (catalog curation, 4-language localization, scholarly structure, and zero-dependency single-file web architecture)
-
----
-
-## License
-
-This project is open source and licensed under the [MIT License](LICENSE).
-
-All third-party books, translations, and primary texts linked within the catalog remain the intellectual property of their respective authors, publishers, and open Islamic digital archives (IslamHouse, Shamela.ws, Kitabosunnat, Internet Archive, Sunnah.com, Quran.com, and Dorar.net).
+This project was created with Artificial Intelligence under the direction and maintenance of **Tasneem Bin Ahsan** ([github.com/tbahsan](https://github.com/tbahsan)). All books, lectures, and timeline milestones are linked to external primary/library archives for educational verification. Exact knowledge of the Hour belongs to Allah alone (*Surah Al-A'raf* 7:187; *Surah Luqman* 31:34).

@@ -1,0 +1,3111 @@
+{
+  "title": "AkhirahArchive Global Akhirah Lectures & Speaker Archives (v8.0 Global Ummah Edition)",
+  "version": "8.0",
+  "updated": "2026-11-17",
+  "total": 42,
+  "counts_by_language": {
+    "en": 7,
+    "bn": 7,
+    "ar": 7,
+    "ur": 7,
+    "fa": 5,
+    "global": 9
+  },
+  "languages_ui": [
+    "en",
+    "bn",
+    "ar",
+    "ur",
+    "fa",
+    "prs",
+    "ps",
+    "dv",
+    "id",
+    "ms",
+    "tr",
+    "az",
+    "kk",
+    "ru",
+    "uz",
+    "tk",
+    "ky",
+    "tg",
+    "fr",
+    "ha",
+    "yo",
+    "ig",
+    "wo",
+    "bm",
+    "ff",
+    "dje",
+    "so",
+    "sq",
+    "bs",
+    "hr",
+    "sr"
+  ],
+  "credits": "This project was created with Artificial Intelligence under the direction and maintenance of Tasneem Bin Ahsan (https://github.com/tbahsan). Users are encouraged to verify references directly against primary texts.",
+  "maintainer": {
+    "name": "Tasneem Bin Ahsan",
+    "github": "https://github.com/tbahsan",
+    "repository": "https://github.com/tbahsan/AkhirahArchive"
+  },
+  "lectures": [
+    {
+      "id": "L01",
+      "lang": "ur",
+      "tier": "tier2_3",
+      "format": "video",
+      "topics": [
+        "dajjal",
+        "signs",
+        "fitan",
+        "geopolitics"
+      ],
+      "speaker": {
+        "en": "Dr. Israr Ahmed (rahimahullah)",
+        "bn": "ড. ইসরার আহমদ (রহ.)",
+        "ar": "الدكتور إسرار أحمد (رحمه الله)",
+        "ur": "ڈاکٹر اسرار احمدؒ"
+      },
+      "region": {
+        "en": "Pakistan · Tanzeem-e-Islami / Markazi Anjuman Khuddam-ul-Quran",
+        "bn": "পাকিস্তান · তানযীম-এ-ইসলামী / মারকাযী আঞ্জুমান খুদ্দামুল কুরআন",
+        "ar": "باكستان · تنظيم إسلامي / أنجمن خدام القرآن",
+        "ur": "پاکستان · تنظیمِ اسلامی / مرکزی انجمن خدام القرآن"
+      },
+      "title": {
+        "en": "Fitna-e-Dajjal, Qiyam-e-Qiyamat & Surah al-Kahf Special Discourses",
+        "bn": "ফিতনায়ে দাজ্জাল, কিয়ামত-পূর্ব পরিস্থিতি ও সূরা আল-কাহফ বিশেষ বয়ান",
+        "ar": "محاضرات فتنة الدجال، أحوال ما قبل القيامة وسورة الكهف",
+        "ur": "فتنۂ دجال، قیامِ قیامت سے قبل کے حالات اور سورۃ الکہف خصوصی خطابات"
+      },
+      "desc": {
+        "en": "Landmark Urdu lectures examining 'Fitna-e-Dajjal aur Dajjal-e-Akbar' (07-015, 3 hrs), 'Alam-e-Islam par Dajjaliyyat ka Aakhri Hamla' (07-001), 'Kainaat ki Sab Say Bari Haqeeqat Qiyamat' (06-038), and 'Surah al-Kahf aur Fitna-e-Dajjal' (Parts 1-2).",
+        "bn": "ড. ইসরার আহমদের প্রসিদ্ধ বয়ানমালা: ‘ফিতনায়ে দাজ্জাল ও দাজ্জালে আকবর’ (০৭-০১৫), ‘আলমে ইসলামে দাজ্জালিয়্যাতের শেষ আঘাত’ (০৭-০০১), ‘সৃষ্টির সবচেয়ে বড় বাস্তবতা কিয়ামত’ এবং ‘সূরা আল-কাহফ ও ফিতনায়ে দাজ্জাল’ (পর্ব ১-২)।",
+        "ar": "سلسلة خطابات مشهورة بالأردية تشمل: فتنة الدجال والدجال الأكبر، الهجمة الدجالية المعاصرة، حقيقة القيامة الكبرى، وسورة الكهف وفتنة الدجال.",
+        "ur": "ڈاکٹر اسرار احمدؒ کے معروف خطابات: «فتنۂ دجال اور دجالِ اکبر» (07-015)، «عالمِ اسلام پر دجالیت کا آخری حملہ» (07-001)، «کائنات کی سب سے بڑی حقیقت: قیامت» اور «سورۃ الکہف اور فتنۂ دجال» (حصہ اول و دوم)۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Combines deep Qur'anic exegesis and classical hadiths with Dr. Israr's historical-revivalist analysis of global ideologies. Distinguish canonical hadith texts from modern geopolitical projections.",
+        "bn": "স্তর ২-৩: গভীর কুরআনী তাফসীর ও হাদীসের পাশাপাশি এতে ড. ইসরারের ঐতিহাসিক ও ভূরাজনৈতিক বিশ্লেষণ যুক্ত রয়েছে। মূল হাদীসের পাঠ ও আধুনিক ব্যাখ্যা আলাদা করে বিবেচনা করুন।",
+        "ar": "المستوى ٢-٣: يمزج بين التدبر القرآني العميق والتحليل الفكري والسياسي المعاصر للشيخ؛ يُفرَّق فيه بين النص النبوي والتنزيل التاريخي.",
+        "ur": "درجہ ۲-۳: قرآنی تدبر اور صحیح روایات کے ساتھ ڈاکٹر صاحب کے عصری و فکری تجزیات شامل ہیں؛ نصِ شرعی اور عصری تعبیر میں امتیاز ملحوظ رکھیں۔"
+      },
+      "relatedBooks": [
+        157,
+        158,
+        159
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "DrIsrar.com Portal (Urdu)",
+            "bn": "DrIsrar.com পোর্টাল",
+            "ar": "بوابة DrIsrar الرسمية",
+            "ur": "DrIsrar.com آفیشل پورٹل"
+          },
+          "url": "https://www.drisrar.com/?lang=urdu",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Tanzeem Archive (Surah Kahf & Dajjal)",
+            "bn": "তানযীম আর্কাইভ (কাহফ ও দাজ্জাল)",
+            "ar": "أرشيف تنظيم (الكهف والدجال)",
+            "ur": "تنظیم آرکائیو (کہف و دجال)"
+          },
+          "url": "https://tanzeem.org/speakers/dr-israr-ahmad/page/2/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "lang": "ur",
+      "tier": "tier2",
+      "format": "tafsir",
+      "topics": [
+        "afterlife",
+        "signs",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Dr. Israr Ahmed (rahimahullah)",
+        "bn": "ড. ইসরার আহমদ (রহ.)",
+        "ar": "الدكتور إسرار أحمد (رحمه الله)",
+        "ur": "ڈاکٹر اسرار احمدؒ"
+      },
+      "region": {
+        "en": "Pakistan · Complete 108-Part Qur'anic Tafsir (Urdu & English)",
+        "bn": "পাকিস্তান · ১০৮ পর্বের পূর্ণাঙ্গ তাফসীর (উর্দু ও ইংরেজি)",
+        "ar": "باكستان · التفسير الكامل في ١٠٨ محاضرات (أردية وإنجليزية)",
+        "ur": "پاکستان · ۱۰۸ دروس پر مشتمل مکمل دورۂ ترجمۂ قرآن (اردو و انگریزی)"
+      },
+      "title": {
+        "en": "Bayan-ul-Quran: Surah al-Qiyamah, Surah al-Kahf, Surah al-Alaq & Iman bil-Akhirah",
+        "bn": "বয়ানুল কুরআন: সূরা আল-কিয়ামাহ, সূরা আল-কাহফ, সূরা আল-আলাক ও ঈমান বিল আখিরাহ",
+        "ar": "بيان القرآن: تفسير سورة القيامة والكهف والعلق والإيمان بالآخرة",
+        "ur": "بیان القرآن: سورۃ القیامۃ، سورۃ الکہف، سورۃ العلق اور ایمان بالآخرت"
+      },
+      "desc": {
+        "en": "Complete 108-lecture Urdu video/audio series (plus English Bayan-ul-Huda MP3s) walking verse-by-verse through the Meccan surahs on Resurrection, Barzakh, Reckoning, and Jannah.",
+        "bn": "১০৮ পর্বের পূর্ণাঙ্গ উর্দু তাফসীর ও ইংরেজি অডিও সংগ্রহ, যাতে মাক্কী সূরাসমূহের আলোকে পুনরুত্থান, বারযাখ, হিসাব ও জান্নাতের বিস্তারিত তাফসীর করা হয়েছে।",
+        "ar": "سلسلة كاملة من ١٠٨ محاضرات مرئية وصوتية (مع ترجمة إنجليزية صوتية) تتناول السور المكية في البعث والنشور والبرزخ والجنة.",
+        "ur": "۱۰۸ مکمل ویڈیو اور آڈیو دروس (بشمول انگریزی بیان الہدیٰ) جن میں مکی سورتوں کے تناظر میں حشر، برزخ، حساب اور ایمان بالآخرت کی تشریح کی گئی ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Grounded directly in the Qur'anic text and classical Urdu tafsir tradition (Mahmud Hasan, Shabbir Ahmad Usmani, Amin Ahsan Islahi).",
+        "bn": "স্তর ২: সরাসরি কুরআনের আয়াত ও উপমহাদেশীয় ধ্রুপদী তাফসীর ধারার ওপর প্রতিষ্ঠিত।",
+        "ar": "المستوى ٢: يرتكز مباشرة على النص القرآني وتفاسير علماء شبه القارة الكلاسيكية.",
+        "ur": "درجہ ۲: براہِ راست قرآنِ حکیم اور برصغیر کی مستند تفسیری روایت پر مبنی۔"
+      },
+      "relatedBooks": [
+        157,
+        158
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Official Bayan-ul-Quran Hub",
+            "bn": "অফিসিয়াল বয়ানুল কুরআন",
+            "ar": "بوابة بيان القرآن الرسمية",
+            "ur": "آفیشل بیان القرآن پورٹل"
+          },
+          "url": "https://www.tanzeem.org/bayan-ul-quran-by-dr-israr-ahmad/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Audio Archive (Archive.org)",
+            "bn": "অডিও আর্কাইভ (Archive.org)",
+            "ar": "أرشيف الصوتيات · Archive",
+            "ur": "آڈیو آرکائیو · Archive"
+          },
+          "url": "https://archive.org/details/DrIsrarTafsirUrdu",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "YouTube Playlist (108 Parts)",
+            "bn": "ইউটিউব প্লেলিস্ট (১০৮ পর্ব)",
+            "ar": "قائمة يوتيوب (١٠٨ حلقات)",
+            "ur": "یوٹیوب پلے لسٹ (۱۰۸ دروس)"
+          },
+          "url": "https://www.youtube.com/watch?v=FSX71LBLOVg&list=PLN5NkUdaF03i2YxYkzZxO3HjALil8_0Pi",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "lang": "ur",
+      "tier": "tier2_3",
+      "format": "video",
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Maulana Tariq Jameel",
+        "bn": "মাওলানা তারিক জামীল",
+        "ar": "مولانا طارق جميل",
+        "ur": "مولانا طارق جمیل"
+      },
+      "region": {
+        "en": "Pakistan · Official Sermons (Tariq Jamil Official)",
+        "bn": "পাকিস্তান · অফিসিয়াল বয়ান (তারিক জামীল)",
+        "ar": "باكستان · القناة الرسمية لطارق جميل",
+        "ur": "پاکستان · طارق جمیل آفیشل"
+      },
+      "title": {
+        "en": "Maut ke Baad Zindagi, Rooh Kahan Hoti Hai & Qayamat ka Manzar",
+        "bn": "মৃত্যুর পরবর্তী জীবন, রুহের অবস্থান ও কিয়ামতের দৃশ্য (উর্দু বয়ান)",
+        "ar": "الحياة بعد الموت، أين تكون الروح ومشهد يوم القيامة (بالأردية)",
+        "ur": "موت کے بعد زندگی، روح کہاں ہوتی ہے اور قیامت کا منظر (بیانات)"
+      },
+      "desc": {
+        "en": "Heart-softening Urdu reminders on the certainty of death, the soul's journey in Barzakh, scenes of Resurrection, repentance, and longing for Paradise.",
+        "bn": "মৃত্যুর অনিবার্যতা, বারযাখে রুহের অবস্থান, হাশরের দৃশ্য, তাওবা ও জান্নাতের আগ্রহের ওপর হৃদয়স্পর্শী উর্দু বয়ান সংকলন।",
+        "ar": "مواعظ أردية مؤثرة في تذكر الموت، وحال الروح في البرزخ، ومشاهد القيامة، والتوبة والرجاء في الجنة.",
+        "ur": "موت کے بعد کی زندگی، عالمِ برزخ میں روح کا ٹھکانا، قیامت کے مناظر اور توبہ و انابت پر دلوں کو نرم کرنے والے معروف بیانات۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Homiletic and devotional style aimed at softening hearts; verify specific narrations or historical anecdotes against Sahih collections before citing as formal hadith proof.",
+        "bn": "স্তর ২-৩: হৃদয় নরম করার ওয়ায ও নসীহতধর্মী বয়ান; কোনো নির্দিষ্ট হাদীস বা ঘটনা দলীল হিসেবে উদ্ধৃত করার আগে সহীহ কিতাবে যাচাই করে নিন।",
+        "ar": "المستوى ٢-٣: أسلوب وعظي إيماني مؤثر؛ يُستحسن التحقق من أسانيد بعض القصص والروايات الفردية عند الاستدلال العلمي.",
+        "ur": "درجہ ۲-۳: اصلاحی اور وعظ و نصیحت کا انداز ہے؛ کسی خاص واقعے یا روایت کو علمی دلیل بنانے سے قبل کتبِ حدیث سے اس کی سند چیک کر لیں۔"
+      },
+      "relatedBooks": [
+        66,
+        67,
+        82
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Qayamat ka Manzar (Official)",
+            "bn": "কিয়ামতের দৃশ্য (অফিসিয়াল)",
+            "ar": "مشهد القيامة (رسمي)",
+            "ur": "قیامت کا منظر (آفیشل)"
+          },
+          "url": "https://www.youtube.com/watch?v=EjIjMXXAfBM",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Life After Death (Official)",
+            "bn": "মৃত্যুর পর জীবন (অফিসিয়াল)",
+            "ar": "الحياة بعد الموت (رسمي)",
+            "ur": "موت کے بعد زندگی (آفیشل)"
+          },
+          "url": "https://www.youtube.com/watch?v=Lz0Z9r4ifn4",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Rooh Kahan Hoti Hai?",
+            "bn": "রুহ কোথায় থাকে?",
+            "ar": "أين تكون الروح؟",
+            "ur": "روح کہاں ہوتی ہے؟"
+          },
+          "url": "https://www.youtube.com/watch?v=xJZYdFRW2Bk",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L04",
+      "lang": "ur",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Mufti Muhammad Taqi Usmani",
+        "bn": "মুফতী মুহাম্মদ তকী উসমানী",
+        "ar": "المفتي محمد تقي العثماني",
+        "ur": "مفتی محمد تقی عثمانی"
+      },
+      "region": {
+        "en": "Pakistan · Darul Uloom Karachi (Urdu & English)",
+        "bn": "পাকিস্তান · দারুল উলূম করাচি (উর্দু ও ইংরেজি)",
+        "ar": "باكستان · دار العلوم كراتشي (أردية وإنجليزية)",
+        "ur": "پاکستان · دارالعلوم کراچی (اردو و انگریزی)"
+      },
+      "title": {
+        "en": "Fikr-e-Akhirat: Worrying About the Life After Death & Islahi Khutbaat",
+        "bn": "ফিকরে আখিরাত: পরকালীন জীবনের চিন্তা ও ইসলাহী খুতবাত",
+        "ar": "الهمّ بالآخرة والاستعداد لما بعد الموت والخطب الإصلاحية",
+        "ur": "فکرِ آخرت، موت و قبر کی تیاری اور اصلاحی خطبات"
+      },
+      "desc": {
+        "en": "Calm, juristically grounded Friday discourses emphasizing Akhirah awareness as the root of integrity, avoiding negligence, and preparing steady good deeds.",
+        "bn": "আখিরাতের সচেতনতা, গাফলতি ত্যাগ এবং স্থায়ী নেক আমলের মাধ্যমে পরকালীন প্রস্তুতির ওপর প্রজ্ঞাপূর্ণ জুমার বয়ান ও লিখিত খুতবাত।",
+        "ar": "خطب جمعة ودروس رصينة تركز على استحضار الآخرة باعتباره أساس الاستقامة الأخلاقية والاجتناب عن الغفلة.",
+        "ur": "فکرِ آخرت کو اصلاحِ اعمال اور تقویٰ کی بنیاد قرار دینے والے پرحکمت جمعہ کے خطابات اور تحریری مواعظ۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Mainstream Sunni scholarly discourse anchored in Qur'an, authentic Sunnah, and classical spiritual ethics.",
+        "bn": "স্তর ২: কুরআন, সহীহ সুন্নাহ এবং ধ্রুপদী ইসলাহী শিক্ষার ওপর প্রতিষ্ঠিত মূলধারার প্রামাণ্য বয়ান।",
+        "ar": "المستوى ٢: خطاب علمي وتربوي رصين مستند إلى الكتاب والسنة.",
+        "ur": "درجہ ۲: قرآن و سنت اور اسلاف کے معتدل علمی و اصلاحی منہج پر مبنی۔"
+      },
+      "relatedBooks": [
+        161,
+        163,
+        73
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Official Discourse (EN)",
+            "bn": "অফিসিয়াল বয়ান (ইংরেজি)",
+            "ar": "الخطاب الرسمي (إنجليزي)",
+            "ur": "آفیشل خطاب (انگریزی)"
+          },
+          "url": "https://muftitaqiusmani.com/en/worrying-about-the-life-after-death/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Islahi Khutbaat 23 Vols (Archive)",
+            "bn": "ইসলাহী খুতবাত ২৩ খণ্ড",
+            "ar": "الخطب الإصلاحية ٢٣ مجلداً",
+            "ur": "اصلاحی خطبات ۲۳ جلدیں"
+          },
+          "url": "https://archive.org/details/islahi-khutbat-by-mufti-taqi-usmani_202104",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L05",
+      "lang": "ur",
+      "tier": "tier2_3",
+      "format": "video",
+      "topics": [
+        "dajjal",
+        "signs",
+        "fitan"
+      ],
+      "speaker": {
+        "en": "Mufti Tariq Masood",
+        "bn": "মুফতী তারিক মাসউদ",
+        "ar": "المفتي طارق مسعود",
+        "ur": "مفتی طارق مسعود"
+      },
+      "region": {
+        "en": "Pakistan · Jamia Tur Rasheed / Urdu Bayanat",
+        "bn": "পাকিস্তান · জামেয়াতুর রশীদ / উর্দু বয়ান",
+        "ar": "باكستان · محاضرات فقهية ووعظية بالأردية",
+        "ur": "پاکستان · جامعۃ الرشید / اردو بیانات"
+      },
+      "title": {
+        "en": "Dajjal, 30 False Claimants & Minor/Major Signs of Qiyamat",
+        "bn": "দাজ্জাল, ৩০ মিথ্যা নবুওয়তের দাবিদার ও কিয়ামতের ছোট-বড় আলামত",
+        "ar": "الدجال والدجالون الثلاثون وعلامات الساعة الصغرى والكبرى",
+        "ur": "دجال، تیس جھوٹے مدعیان اور علاماتِ قیامت (اردو بیانات)"
+      },
+      "desc": {
+        "en": "Plain-spoken Urdu lectures explaining authentic Prophetic prophecies on the 30 false claimants (dajjalun), the emergence of al-Masih al-Dajjal, and protecting faith from modern fitnah.",
+        "bn": "সহজবোধ্য উর্দু ভাষায় ৩০ মিথ্যাবাদী দাজ্জাল, মূল মসীহ দাজ্জালের আবির্ভাব এবং সমকালীন ফিতনা থেকে ঈমান রক্ষার ওপর আলোচনা।",
+        "ar": "محاضرات أردية ميسرة تشرح أحاديث الدجالين الثلاثين وخروج المسيح الدجال وسبل الوقاية من الفتن المعاصرة.",
+        "ur": "عام فہم اردو زبان میں تیس جھوٹے دجالوں، مسیحِ دجال کے خروج اور آخری زمانے کے فتنوں سے حفاظت پر بیانات۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Conversational pulpit discourse mixing classical Hanafi/hadith citations with informal contemporary illustrations; cross-check hadith wording in primary books.",
+        "bn": "স্তর ২-৩: সাধারণ শ্রোতাদের জন্য কথোপকথনধর্মী বয়ান; নির্দিষ্ট হাদীসের শব্দচয়ন ও সনদ মূল গ্রন্থে মিলিয়ে নিন।",
+        "ar": "المستوى ٢-٣: حديث وعظي شعبي يجمع بين النصوص والأمثلة اليومية المعاصرة؛ يُراجع أصل الحديث عند التوثيق.",
+        "ur": "درجہ ۲-۳: عوامی خطابت کا انداز جس میں روایات کے ساتھ معاصر مثالیں بیان کی جاتی ہیں؛ دقیق حوالوں کی اصل کتب سے تصدیق کریں۔"
+      },
+      "relatedBooks": [
+        65,
+        73,
+        160
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Dajjal & Signs Lecture (YouTube)",
+            "bn": "দাজ্জাল ও আলামত বয়ান (ইউটিউব)",
+            "ar": "محاضرة الدجال والأشراط (يوتيوب)",
+            "ur": "دجال اور علامات بیان (یوٹیوب)"
+          },
+          "url": "https://m.youtube.com/watch?pp=0gcJCTcMAYcqIYzv&v=ZdzaJVakK9Y",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L06",
+      "lang": "ur",
+      "tier": "tier2_3",
+      "format": "tafsir",
+      "topics": [
+        "signs",
+        "afterlife",
+        "methodology"
+      ],
+      "speaker": {
+        "en": "Engineer Muhammad Ali Mirza",
+        "bn": "ইঞ্জিনিয়ার মুহাম্মদ আলী মির্যা",
+        "ar": "المهندس محمد علي ميرزا",
+        "ur": "انجینئر محمد علی مرزا"
+      },
+      "region": {
+        "en": "Pakistan · Research Academy Jhelum (AhleSunnatPak)",
+        "bn": "পাকিস্তান · রিসার্চ একাডেমি ঝিলাম",
+        "ar": "باكستان · أكاديمية البحث جيلوم",
+        "ur": "پاکستان · ریسرچ اکیڈمی جہلم (AhleSunnatPak)"
+      },
+      "title": {
+        "en": "Tafsir of Akhirah Surahs (al-Qiyamah to al-Takwir), Life After Death & Shafa'ah",
+        "bn": "আখিরাত-সংশ্লিষ্ট সূরাসমূহের তাফসীর (আল-কিয়ামাহ থেকে আত-তাকভীর) ও শাফায়াত",
+        "ar": "دروس في سور القيامة والتكوير والنبأ والحياة بعد الموت والشفاعة",
+        "ur": "سورۃ القیامۃ تا سورۃ التکویر کے دروس، موت کے بعد زندگی اور شفاعت"
+      },
+      "desc": {
+        "en": "Indexed Urdu video classes covering Juz 29-30 eschatological surahs (al-Qiyamah, al-Mursalat, al-Naba, al-Takwir) and intercession (Shafa'ah) using on-screen hadith numbering.",
+        "bn": "পারা ২৯-৩০-এর কিয়ামত বিষয়ক সূরাসমূহ (আল-কিয়ামাহ, আল-মুরসালাত, আন-নাবা, আত-তাকভীর) এবং শাফায়াত বিষয়ে পর্দায় হাদীস নম্বর প্রদর্শনসহ উর্দু লেকচার সংগ্রহ।",
+        "ar": "دروس أردية مفهرسة لسور جزء تبارك وعمّ المتعلقة بالقيامة والبعث مع عرض أرقام الأحاديث على الشاشة.",
+        "ur": "سورۃ القیامۃ، المرسلات، النبأ، التکویر اور شفاعت پر اردو دروس کا مرتب آرکائیو، جس میں احادیث کے حوالہ جات پیش کیے جاتے ہیں۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Useful for locating canonical hadith numbers, though his polemical interpretations frequently diverge from classical juristic consensus (Ijma). Always verify against classical sharh (#132-#134).",
+        "bn": "স্তর ২-৩: হাদীসের নম্বর খোঁজার ক্ষেত্রে সহায়ক হলেও তাঁর অনেক বিতর্কমূলক ব্যাখ্যা ধ্রুপদী ফিকহী ঐকমত্যের সঙ্গে ভিন্নমত পোষণ করে। মূল শরাহ (#১৩২-#১৩৪) দিয়ে যাচাই করুন।",
+        "ar": "المستوى ٢-٣: يذكر أرقام الأحاديث لكنه ينفرد أحياناً بآراء سجالية تخالف شروح الأئمة؛ يُرجع إلى الشروح المعتمدة (#132-#134).",
+        "ur": "درجہ ۲-۳: احادیث کے نمبروں کی نشاندہی کے باوجود ان کے بعض منفرد اور مناظرانہ نتائج جمہور ائمہ کی شروحات سے مختلف ہیں؛ بنیادی شروح (#132-#134) سے موازنہ کریں۔"
+      },
+      "relatedBooks": [
+        68,
+        70,
+        132
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Official Tafsir Index (AhleSunnatPak)",
+            "bn": "অফিসিয়াল তাফসীর সূচি",
+            "ar": "الفهرس الرسمي للتفسير",
+            "ur": "آفیشل تفسیر فہرست"
+          },
+          "url": "https://www.ahlesunnatpak.com/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Life After Death & Intercession (YouTube)",
+            "bn": "মৃত্যুর পর জীবন ও শাফায়াত",
+            "ar": "الحياة بعد الموت والشفاعة",
+            "ur": "موت کے بعد زندگی اور شفاعت"
+          },
+          "url": "https://www.youtube.com/watch?v=OXqDRekKQgA",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L07",
+      "lang": "ur",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Allama Ihsan Ilahi Zaheer (rahimahullah) & IslamHouse Urdu",
+        "bn": "আল্লামা ইহসান ইলাহী যহীর (রহ.) ও ইসলামহাউস উর্দু",
+        "ar": "العلامة إحسان إلهي ظهير وإسلام هاوس بالأردية",
+        "ur": "علامہ احسان الٰہی ظہیرؒ اور اسلام ہاؤس اردو آڈیو"
+      },
+      "region": {
+        "en": "Pakistan · IslamHouse Urdu Audio Archive",
+        "bn": "পাকিস্তান · ইসলামহাউস উর্দু অডিও আর্কাইভ",
+        "ar": "باكستان · أرشيف إسلام هاوس الصوتي بالأردية",
+        "ur": "پاکستان · اسلام ہاؤس اردو آڈیو آرکائیو"
+      },
+      "title": {
+        "en": "Fikr-e-Akhirat (Hadith-Grounded Urdu MP3 Audio Series)",
+        "bn": "ফিকরে আখিরাত (হাদীসভিত্তিক উর্দু MP3 অডিও বয়ান)",
+        "ar": "فكر الآخرة: محاضرات صوتية أردية موثقة",
+        "ur": "فکرِ آخرت (قرآن و حدیث پر مبنی اردو MP3 آڈیو بیان)"
+      },
+      "desc": {
+        "en": "Direct downloadable Urdu MP3 lectures grounded in Qur'an and Sahih Hadith reminding believers of accountability, death, and steadfastness before the Last Day.",
+        "bn": "কুরআন ও সহীহ হাদীসভিত্তিক সরাসরি ডাউনলোডযোগ্য উর্দু MP3 বয়ান, যা আখিরাতের জবাবদিহি ও মৃত্যু-স্মরণকে জাগ্রত করে।",
+        "ar": "مادة صوتية أردية قابلة للتحميل المباشر تركز على تذكر الآخرة والحساب في ضوء النصوص الصحيحة.",
+        "ur": "قرآن و صحیح احادیث کی روشنی میں آخرت کی جواب دہی اور استقامت پر براہِ راست ڈاؤن لوڈ کے قابل اردو MP3 بیان۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Reviewed by IslamHouse editorial team and anchored in primary Qur'an and Sunnah texts.",
+        "bn": "স্তর ২: ইসলামহাউস সম্পাদনা পরিষদ কর্তৃক নিরীক্ষিত এবং কুরআন-সুন্নাহর মূল উৎসের ওপর ভিত্তিশীল।",
+        "ar": "المستوى ٢: مراجع ومعتمد ضمن مكتبة إسلام هاوس الصوتية.",
+        "ur": "درجہ ۲: اسلام ہاؤس کے علمی بورڈ سے مراجعہ شدہ اور نصوصِ شرعیہ پر مبنی۔"
+      },
+      "relatedBooks": [
+        65,
+        68,
+        70
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "IslamHouse Urdu MP3",
+            "bn": "ইসলামহাউস উর্দু MP3",
+            "ar": "إسلام هاوس MP3",
+            "ur": "اسلام ہاؤس اردو MP3"
+          },
+          "url": "https://islamhouse.com/en/audios/3676/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L08",
+      "lang": "bn",
+      "tier": "tier3",
+      "format": "video",
+      "topics": [
+        "dajjal",
+        "signs",
+        "fitan",
+        "geopolitics"
+      ],
+      "speaker": {
+        "en": "Abu Taw Haa Muhammad Adnan",
+        "bn": "আবু ত্ব-হা মুহাম্মদ আদনান",
+        "ar": "أبو طه محمد عدنان",
+        "ur": "ابو طٰہٰ محمد عدنان"
+      },
+      "region": {
+        "en": "Bangladesh · Official Channels (Abu Tawha TV)",
+        "bn": "বাংলাদেশ · অফিসিয়াল চ্যানেল (আবু ত্বহা টিভি)",
+        "ar": "بنغلاديش · القنوات الرسمية لأبي طه عدنان",
+        "ur": "بنگلہ دیش · آفیشل چینلز (ابو طٰہٰ ٹی وی)"
+      },
+      "title": {
+        "en": "Akhiri Jamana, Fitnatul Dajjal, Modern Tech/AI & Qiyamater Bornona",
+        "bn": "আখেরী জামানা, দাজ্জাল নিয়ে সব তথ্য, আধুনিক ফিতনা ও কিয়ামতের বর্ণনা",
+        "ar": "محاضرات آخر الزمان وفتنة الدجال والتقنية المعاصرة ووصف القيامة (بالبنغالية)",
+        "ur": "آخری زمانہ، فتنۂ دجال، جدید ٹیکنالوجی اور قیامت کا بیان (بنگالی لیکچرز)"
+      },
+      "desc": {
+        "en": "Widely followed Bengali youth lectures covering End Times tribulations, al-Masih al-Dajjal, descriptions of Qiyamah, and contemporary digital/geopolitical challenges facing Muslim youth.",
+        "bn": "বাংলাভাষী তরুণদের মধ্যে বহুল আলোচিত আখেরী জামানার ফিতনা, দাজ্জাল, কিয়ামতের বর্ণনা এবং সমকালীন বৈশ্বিক ও প্রযুক্তিগত চ্যালেঞ্জ বিষয়ে ধারাবাহিক বাংলা লেকচার।",
+        "ar": "محاضرات بنغالية واسعة الانتشار بين الشباب تتناول فتن آخر الزمان والمسيح الدجال ووصف يوم القيامة والتحديات التقنية والسياسية المعاصرة.",
+        "ur": "بنگلہ دیش میں نوجوانوں میں مقبول بنگالی خطابات جن میں آخری زمانے کے فتنے، دجال، قیامت کا بیان اور عصری عالمی و ٹیکنالوجی کے فتنوں پر گفتگو کی گئی ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 3 (Contemporary Discourse): Effectively motivates youth toward faith and Akhirah consciousness, while blending classical narrations with personal geopolitical and technological interpretations (e.g., AI, global systems). Always verify individual hadiths and timelines against Tier-1/Tier-2 books (#1, #4, #141).",
+        "bn": "স্তর ৩ (সমকালীন ব্যাখ্যা): তরুণদের ঈমান ও আখিরাত-সচেতনতায় অনুপ্রেরণামূলক হলেও এতে মূল হাদীসের সঙ্গে বক্তার ব্যক্তিগত ভূরাজনৈতিক ও প্রযুক্তিগত (যেমন AI ও বিশ্বব্যবস্থা) ব্যাখ্যা যুক্ত রয়েছে। নির্দিষ্ট হাদীস ও দাবিসমূহ অবশ্যই স্তর ১-২ গ্রন্থ (#১, #৪, #১৪১) দিয়ে যাচাই করুন।",
+        "ar": "المستوى ٣ (خطاب معاصر): مؤثر في تذكير الشباب بالآخرة، لكنه يمزج بين النصوص المأثورة وتنزيلات جيوسياسية وتقنية اجتهادية؛ ينبغي توثيق الأحاديث الفردية من مراجع المستوى ١ و٢ (#1، #4، #141).",
+        "ur": "درجہ ۳ (عصری خطاب): نوجوانوں میں فکرِ آخرت بیدار کرنے کے باوجود ان بیانات میں کلاسیکی روایات کے ساتھ ذاتی سیاسی اور ٹیکنالوجی (مثلاً AI) کی تعبیرات شامل ہیں؛ ہر روایت کی اصل کتب (#1، #4، #141) سے تحقیق کریں۔"
+      },
+      "relatedBooks": [
+        22,
+        25,
+        141
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Official Channel (@abutawhaamuhammadadnan)",
+            "bn": "অফিসিয়াল ইউটিউব চ্যানেল",
+            "ar": "القناة الرسمية على يوتيوب",
+            "ur": "آفیشل یوٹیوب چینل"
+          },
+          "url": "https://www.youtube.com/c/abutawhaamuhammadadnan",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Abu Tawha TV Official",
+            "bn": "আবু ত্বহা টিভি অফিসিয়াল",
+            "ar": "قناة أبو طه الرسمية",
+            "ur": "ابو طٰہٰ ٹی وی آفیشل"
+          },
+          "url": "https://www.youtube.com/@AbuTawhaTvOfficial",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Dajjal Overview Lecture",
+            "bn": "দাজ্জাল নিয়ে সব তথ্য",
+            "ar": "محاضرة شاملة عن الدجال",
+            "ur": "دجال پر مکمل لیکچر"
+          },
+          "url": "https://www.youtube.com/watch?v=5W-ic9inafg",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Qiyamater Bornona",
+            "bn": "কিয়ামতের বর্ণনা",
+            "ar": "وصف يوم القيامة",
+            "ur": "قیامت کا بیان"
+          },
+          "url": "https://www.youtube.com/watch?v=RL-88KP6o-4",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L09",
+      "lang": "bn",
+      "tier": "tier3",
+      "format": "video",
+      "topics": [
+        "signs",
+        "dajjal",
+        "geopolitics",
+        "fitan"
+      ],
+      "speaker": {
+        "en": "Mufti Kazi Muhammad Ibrahim",
+        "bn": "মুফতি কাজী মুহাম্মদ ইবরাহীম",
+        "ar": "المفتي قاضي محمد إبراهيم",
+        "ur": "مفتی قاضی محمد ابراہیم"
+      },
+      "region": {
+        "en": "Bangladesh · Bengali Pulpit Lectures & Published Booklets",
+        "bn": "বাংলাদেশ · বাংলা ওয়ায ও প্রকাশিত পুস্তিকা",
+        "ar": "بنغلاديش · محاضرات ورسائل بالبنغالية",
+        "ur": "بنگلہ دیش · بنگالی بیانات اور رسائل"
+      },
+      "title": {
+        "en": "Qiyamater Alamot, Akhiruzzaman & Contemporary Speculative Discourses",
+        "bn": "কিয়ামতের আলামত, আখেরী জামানা ও সমকালীন ফিতনা বিষয়ক আলোচনা",
+        "ar": "محاضرات علامات الساعة وأحداث آخر الزمان (بالبنغالية)",
+        "ur": "علاماتِ قیامت، آخری زمانہ اور معاصر فتنوں پر بیانات (بنگالی)"
+      },
+      "desc": {
+        "en": "Popular Bengali speeches addressing signs of the Last Day, moral corruption, and contemporary global events, alongside his standard creedal booklets on Iman and Tawhid (#147).",
+        "bn": "কিয়ামতের আলামত, সমকালীন নৈতিক অবক্ষয় ও বৈশ্বিক ঘটনাবলি নিয়ে জনপ্রিয় বাংলা বক্তৃতা, পাশাপাশি তাঁর প্রকাশিত তাওহীদ ও ঈমান বিষয়ক পুস্তিকাসমূহ (#১৪৭)।",
+        "ar": "خطب بنغالية معروفة تتناول علامات الساعة وفساد العصر والوقائع المعاصرة، إلى جانب رسائله المطبوعة في العقيدة والتوحيد (#147).",
+        "ur": "علاماتِ قیامت، معاشرتی بگاڑ اور عصری واقعات پر معروف بنگالی بیانات، نیز ان کے عقیدہ و توحید پر مطبوعہ رسائل (#147)۔"
+      },
+      "verifyNote": {
+        "en": "Tier 3 (Strong Verification Caution): While his standard Aqeedah booklets (#147) are conventional, several viral speeches include speculative forecasts, dates, or dream-based claims. Per Qur'an 7:187 and 31:34, no human knows exact future dates; treat forecasts strictly as personal speculation and verify every hadith in Tier-1/Tier-2 references (#4, #141).",
+        "bn": "স্তর ৩ (বিশেষ যাচাই সতর্কতা): তাঁর আকীদা পুস্তিকা (#১৪৭) প্রচলিত ধারার হলেও বেশ কিছু ভাইরাল বক্তৃতায় তারিখ-অনুমান, স্বপ্ননির্ভর দাবি বা ব্যক্তিগত ভবিষ্যদ্বাণী রয়েছে। কুরআন (৭:১৮৭; ৩১:৩৪) অনুযায়ী কিয়ামতের সময় বা ভবিষ্যতের নির্দিষ্ট তারিখ কোনো মানুষ জানে না; তাই এগুলোকে কখনোই শরঈ দলীল হিসেবে গ্রহণ করবেন না এবং প্রতিটি বর্ণনা #৪ ও #১৪১ দিয়ে যাচাই করুন।",
+        "ar": "المستوى ٣ (تنبيه توثيقي مهم): تتضمن بعض خطبه المنتشرة توقعات زمنية أو منامات وتأويلات شخصية لا تثبت بها عقيدة؛ فالساعة وعلم الغيب لله وحده (الأعراف ١٨٧)، ويُرجع في التوثيق لمراجع المستوى ١ و٢ (#4، #141).",
+        "ur": "درجہ ۳ (خصوصی تحقیقی انتباہ): اگرچہ ان کے عقیدے کے رسائل (#147) عمومی نوعیت کے ہیں، لیکن کئی وائرل بیانات میں ذاتی پیش گوئیاں، خواب اور قیاسی تاریخیں شامل ہیں۔ قرآن (۷:۱۸۷؛ ۳۱:۳۴) کے مطابق غیب اور قیامت کا وقت صرف اللہ جانتا ہے؛ ہر دعوے کی اصل مصادر (#4، #141) سے تحقیق لازم ہے۔"
+      },
+      "relatedBooks": [
+        147,
+        141,
+        4
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Published Books (Rokomari)",
+            "bn": "প্রকাশিত বইসমূহ (Rokomari)",
+            "ar": "الكتب المطبوعة (Rokomari)",
+            "ur": "مطبوعہ کتب (Rokomari)"
+          },
+          "url": "https://www.rokomari.com/book/author/69702/mufti-kazi-muhammod-ibrahim",
+          "cls": "acc-info"
+        },
+        {
+          "label": {
+            "en": "Last Era & Signs Lecture (YouTube)",
+            "bn": "শেষ যুগ ও আলামত বয়ান (ইউটিউব)",
+            "ar": "محاضرة آخر الزمان (يوتيوب)",
+            "ur": "آخری زمانہ بیان (یوٹیوب)"
+          },
+          "url": "https://www.youtube.com/watch?v=HYFZQs2YvVI",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "lang": "bn",
+      "tier": "tier2_3",
+      "format": "video",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Dr. Mizanur Rahman Azhari",
+        "bn": "ড. মিজানুর রহমান আজহারী",
+        "ar": "الدكتور ميزان الرحمن الأزهري",
+        "ur": "ڈاکٹر میزان الرحمٰن ازہری"
+      },
+      "region": {
+        "en": "Bangladesh · Al-Azhar / IIUM Scholar & Speaker",
+        "bn": "বাংলাদেশ · আল-আযহার ও আইআইইউএম স্কলার",
+        "ar": "بنغلاديش · خريج الأزهر والجامعة الإسلامية بماليزيا",
+        "ur": "بنگلہ دیش · جامعہ الازہر و IIUM اسکالر"
+      },
+      "title": {
+        "en": "Mrittu, Kobor, Qiyamater Alamot & Jannat-Jahannam (Bangla Tafsir Series)",
+        "bn": "মৃত্যু, কবর, কিয়ামতের আলামত (গুজবে কান দেবেন না) ও জান্নাত-জাহান্নাম",
+        "ar": "الموت والقبر وعلامات الساعة والجنة والنار (محاضرات بنغالية)",
+        "ur": "موت، قبر، علاماتِ قیامت اور جنت و جہنم (بنگالی تفسیری بیانات)"
+      },
+      "desc": {
+        "en": "Clear, structured Bengali public lectures explaining Minor and Major Signs of Qiyamah while explicitly warning audiences against end-times rumors, alongside thematic tafsir on death, Barzakh, and Jannah.",
+        "bn": "গুজব পরিহার করে বিশুদ্ধ সূত্রে কিয়ামতের আলামত বোঝার নির্দেশনা এবং মৃত্যু, কবর, জান্নাত ও জাহান্নামের ওপর সুবিন্যস্ত ধারাবাহিক বাংলা তাফসীর।",
+        "ar": "محاضرات بنغالية منهجية تشرح أشراط الساعة وتحذّر من الشائعات، مع تفسير موضوعي للموت والقبر والجنة والنار.",
+        "ur": "افواہوں سے بچتے ہوئے صحیح دلائل سے علاماتِ قیامت، موت، قبر اور جنت و جہنم کی تشریح پر مبنی منظم بنگالی خطبات۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Balanced contemporary presentation grounded in Qur'an and mainstream tafsir; verify specific hadith citations in classical collections for academic research.",
+        "bn": "স্তর ২-৩: কুরআন ও মূলধারার তাফসীরভিত্তিক ভারসাম্যপূর্ণ উপস্থাপনা; একাডেমিক গবেষণার জন্য নির্দিষ্ট হাদীস মূল গ্রন্থে মিলিয়ে নিন।",
+        "ar": "المستوى ٢-٣: عرض معاصر متوازن مستند إلى القرآن والتفاسير المعتمدة، مع مراجعة أسانيد الأحاديث عند البحث الأكاديمي.",
+        "ur": "درجہ ۲-۳: قرآن اور معتبر تفاسیر پر مبنی متوازن عصرِ حاضر کا اسلوب؛ علمی تحقیق کے لیے احادیث کی اصل تخریج دیکھیں۔"
+      },
+      "relatedBooks": [
+        145,
+        1,
+        2
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Signs of Qiyamah (Reject Rumors)",
+            "bn": "কিয়ামতের আলামত: গুজবে কান দেবেন না",
+            "ar": "علامات الساعة بدون شائعات",
+            "ur": "علاماتِ قیامت: افواہوں سے بچیں"
+          },
+          "url": "https://www.youtube.com/watch?v=Jt51RVh6X_8",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Death, Grave, Jannah & Hellfire",
+            "bn": "মৃত্যু-কবর-জান্নাত-জাহান্নাম তাফসীর",
+            "ar": "الموت والقبر والجنة والنار",
+            "ur": "موت، قبر، جنت اور جہنم"
+          },
+          "url": "https://www.youtube.com/watch?v=dEmHut4TcYQ",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "What Happens Before Qiyamah",
+            "bn": "কেয়ামতের আগে যা ঘটবে",
+            "ar": "أحداث ما قبل القيامة",
+            "ur": "قیامت سے پہلے کے واقعات"
+          },
+          "url": "https://www.youtube.com/watch?v=SlBNn8zIAzU",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "lang": "bn",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "barzakh",
+        "afterlife",
+        "methodology"
+      ],
+      "speaker": {
+        "en": "Shaikh Ahmadullah",
+        "bn": "শায়খ আহমাদুল্লাহ",
+        "ar": "الشيخ أحمد الله",
+        "ur": "شیخ احمد اللہ"
+      },
+      "region": {
+        "en": "Bangladesh · Chairman, As-Sunnah Foundation",
+        "bn": "বাংলাদেশ · চেয়ারম্যান, আস-সুন্নাহ ফাউন্ডেশন",
+        "ar": "بنغلاديش · رئيس مؤسسة السنة",
+        "ur": "بنگلہ دیش · چیئرمین، السنۃ فاؤنڈیشن"
+      },
+      "title": {
+        "en": "Akhirah, Grave Rulings, Jannah & Verified Fiqh/Aqeedah Q&A",
+        "bn": "আখিরাত, কবরের বিধান, জান্নাত-জাহান্নাম ও প্রামাণ্য প্রশ্নোত্তর",
+        "ar": "الآخرة وأحكام القبور والجنة والنار وفتاوى موثقة (بالبنغالية)",
+        "ur": "آخرت، احکامِ قبور، جنت و جہنم اور مستند سوال و جواب (بنگالی)"
+      },
+      "desc": {
+        "en": "Evidence-based Bengali lectures and Q&A episodes addressing Paradise, Hellfire, grave visitation rulings, patience under trials, and practical deeds for Akhirah.",
+        "bn": "জান্নাত-জাহান্নামের বাস্তবতা, কবর যিয়ারতের বিশুদ্ধ বিধান, বিপদে ধৈর্য এবং আখিরাতমুখী নেক আমলের ওপর দলীলভিত্তিক বাংলা আলোচনা ও প্রশ্নোত্তর।",
+        "ar": "دروس وفتاوى بنغالية مؤصّلة حول حقيقة الجنة والنار، وأحكام زيارة القبور، والأعمال الموصلة إلى الجنة.",
+        "ur": "جنت و جہنم کے حقائق، زیارتِ قبور کے مسنون آداب اور آخرت کی کامیابی کے اعمال پر مدلل بنگالی دروس و فتاویٰ۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Anchored in authentic Sunnah, mainstream Sunni fiqh, and cautious avoidance of fabricated traditions.",
+        "bn": "স্তর ২: সহীহ সুন্নাহ ও মূলধারার ফিকহ-আকীদার ওপর প্রতিষ্ঠিত এবং বানোয়াট বর্ণনা পরিহারে সচেতন।",
+        "ar": "المستوى ٢: ملتزم بالسنة الصحيحة والمنهج الفقهي المعتدل والابتعاد عن الموضوعات.",
+        "ur": "درجہ ۲: صحیح سنت اور معتدل فقہی منہج پر مبنی اور غیر مستند روایات سے مجتنب۔"
+      },
+      "relatedBooks": [
+        144,
+        14,
+        15
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "As-Sunnah Foundation (Official)",
+            "bn": "আস-সুন্নাহ ফাউন্ডেশন (অফিসিয়াল)",
+            "ar": "مؤسسة السنة (رسمي)",
+            "ur": "السنۃ فاؤنڈیشن (آفیشل)"
+          },
+          "url": "https://assunnahfoundation.org/about",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Where Are Jannah & Jahannam?",
+            "bn": "জান্নাত-জাহান্নাম কোথায়?",
+            "ar": "أين الجنة والنار؟",
+            "ur": "جنت اور جہنم کہاں ہیں؟"
+          },
+          "url": "https://www.youtube.com/watch?v=Og18Owhax6s",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Akhirah Accountability Q&A",
+            "bn": "আখিরাতের জবাবদিহি ও পারিবারিক বন্ধন",
+            "ar": "مواقف الآخرة والحساب",
+            "ur": "آخرت کا حساب و کتاب"
+          },
+          "url": "https://www.youtube.com/watch?v=tXJGO7Te0tQ",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "lang": "bn",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "methodology",
+        "afterlife",
+        "fitan"
+      ],
+      "speaker": {
+        "en": "Prof. Dr. Khandaker Abdullah Jahangir (rahimahullah) & Dr. Abu Bakar Muhammad Zakaria",
+        "bn": "প্রফেসর ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর (রহ.) ও ড. আবু বকর মুহাম্মাদ যাকারিয়া",
+        "ar": "أ.د. عبد الله جهانكير ود. أبو بكر محمد زكريا",
+        "ur": "پروفیسر ڈاکٹر عبداللہ جہانگیرؒ اور ڈاکٹر ابوبکر محمد زکریا"
+      },
+      "region": {
+        "en": "Bangladesh · Islamic University Kushtia / IslamHouse Audio",
+        "bn": "বাংলাদেশ · ইসলামী বিশ্ববিদ্যালয় কুষ্টিয়া / ইসলামহাউস অডিও",
+        "ar": "بنغلاديش · الجامعة الإسلامية كوشتيا / إسلام هاوس",
+        "ur": "بنگلہ دیش · اسلامک یونیورسٹی کوشٹیا / اسلام ہاؤس"
+      },
+      "title": {
+        "en": "Authentic Creed, Sunnah Protection Against Fitan & Hadith Verification Audio",
+        "bn": "বিশুদ্ধ আকীদা, ফিতনা থেকে সুরক্ষা ও হাদীস যাচাই (ইসলামহাউস অডিও)",
+        "ar": "العقيدة الصحيحة ومكانة السنة في مواجهة الفتن (صوتيات بنغالية)",
+        "ur": "صحیح عقیدہ، فتنوں میں سنت کا مقام اور تحقیقِ حدیث (بنگالی آڈیو)"
+      },
+      "desc": {
+        "en": "Academic Bengali audio lectures on IslamHouse teaching strict hadith verification, authentic Sunni creed on Akhirah, and safeguarding faith from baseless claims.",
+        "bn": "ইসলামহাউসে সংরক্ষিত একাডেমিক বাংলা অডিও লেকচার, যেখানে সহীহ-জাল হাদীস পার্থক্যকরণ, বিশুদ্ধ আকীদা এবং ফিতনার যুগে সুন্নাহ আঁকড়ে ধরার পদ্ধতি আলোচিত হয়েছে।",
+        "ar": "محاضرات صوتية أكاديمية بالبنغالية على إسلام هاوس في أصول العقيدة ومكانة السنة والتمييز بين الصحيح والموضوع.",
+        "ur": "اسلام ہاؤس پر محفوظ علمی بنگالی آڈیو دروس، جن میں صحیح و موضوع حدیث کا فرق اور فتنوں کے دور میں سنت پر استقامت بیان کی گئی ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2 (Gold-Standard Academic Bengali): Both scholars hold doctorates in Hadith/Aqeedah and strictly cite primary canonical sources.",
+        "bn": "স্তর ২ (একাডেমিক মানদণ্ড): উভয় আলেম হাদীস ও আকীদা শাস্ত্রের বিশ্ববিদ্যালয় গবেষক এবং কঠোর সনদ-যাচাই নীতি অনুসরণ করেন।",
+        "ar": "المستوى ٢ (مرجع أكاديمي بنغالي): عالمان أكاديميان متخصصان في الحديث والعقيدة مع التزام دقيق بالتوثيق.",
+        "ur": "درجہ ۲ (معیاری بنگالی علمی حوالہ): دونوں محققین حدیث و عقیدہ کے ماہر اور سخت تخریجِ حدیث کے پابند ہیں۔"
+      },
+      "relatedBooks": [
+        4,
+        5,
+        10,
+        141,
+        146
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "IslamHouse Audio Archive",
+            "bn": "ইসলামহাউস অডিও আর্কাইভ",
+            "ar": "أرشيف الصوتيات · إسلام هاوس",
+            "ur": "آڈیو آرکائیو · اسلام ہاؤس"
+          },
+          "url": "https://islamhouse.com/bn/author/25506/audios/showall/1/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Dr. Jahangir Books (IslamHouse)",
+            "bn": "ড. জাহাঙ্গীর বই (ইসলামহাউস)",
+            "ar": "كتب د. جهانكير (إسلام هاوس)",
+            "ur": "ڈاکٹر جہانگیر کتب (اسلام ہاؤس)"
+          },
+          "url": "https://islamhouse.com/bn/author/316920/books/showall/1/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L13",
+      "lang": "bn",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Motiur Rahman Madani",
+        "bn": "শায়খ মতিউর রহমান মাদানী",
+        "ar": "الشيخ مطيع الرحمن المدني",
+        "ur": "شیخ مطیع الرحمٰن مدنی"
+      },
+      "region": {
+        "en": "KSA / South Asia · Islamic Cultural Center, Dammam",
+        "bn": "সৌদি আরব / উপমহাদেশ · ইসলামিক কালচারাল সেন্টার, দাম্মাম",
+        "ar": "السعودية / شبه القارة · المركز الإسلامي بالدمام",
+        "ur": "سعودی عرب / برصغیر · اسلامی کلچرل سینٹر دمام"
+      },
+      "title": {
+        "en": "Duniya o Akhirat, Classical Creed & Bengali Dars Playlist",
+        "bn": "দুনিয়া ও আখিরাত, কিয়ামতের আলামত ও ধারাবাহিক বাংলা দরস প্লেলিস্ট",
+        "ar": "الدنيا والآخرة وعلامات الساعة وسلسلة الدروس البنغالية",
+        "ur": "دنیا و آخرت، علاماتِ قیامت اور بنگالی دروس پلے لسٹ"
+      },
+      "desc": {
+        "en": "Structured classical-style Bengali lessons delivered from Dammam covering preparation for Akhirah, Prophetic adhkar, and refutation of superstitions around the Hour.",
+        "bn": "দাম্মাম ইসলামিক সেন্টার থেকে প্রদত্ত ধারাবাহিক বাংলা দরস, যাতে আখিরাতের প্রস্তুতি, মাসনূন যিকর এবং কিয়ামত বিষয়ক কুসংস্কার নিরসনে দলীলভিত্তিক আলোচনা রয়েছে।",
+        "ar": "دروس بنغالية منهجية من المركز الإسلامي بالدمام حول الاستعداد للآخرة والأذكار النبوية والرد على الخرافات.",
+        "ur": "دمام اسلامک سینٹر سے پیش کردہ منظم بنگالی دروس، جن میں آخرت کی تیاری، مسنون اذکار اور بدعات و خرافات کی اصلاح شامل ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Directly cites Qur'an, Sahihayn, and classical texts such as Ibn al-Qayyim's Zad al-Ma'ad.",
+        "bn": "স্তর ২: সরাসরি কুরআন, সহীহাইন এবং ইমাম ইবনুল কাইয়িমের যাদুল মা‘আদসহ ধ্রুপদী গ্রন্থের উদ্ধৃতিসমৃদ্ধ।",
+        "ar": "المستوى ٢: يعتمد على الكتاب والصحيحين وشرح الكتب التراثية مثل زاد المعاد.",
+        "ur": "درجہ ۲: براہِ راست قرآن، صحیحین اور زاد المعاد جیسی کلاسیکی کتب کے حوالوں پر مشتمل۔"
+      },
+      "relatedBooks": [
+        3,
+        7,
+        142
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Dammam Dars Playlist (YouTube)",
+            "bn": "দাম্মাম দরস প্লেলিস্ট (ইউটিউব)",
+            "ar": "قائمة دروس الدمام (يوتيوب)",
+            "ur": "دمام دروس پلے لسٹ (یوٹیوب)"
+          },
+          "url": "https://www.youtube.com/playlist?list=PLD3256B18B30DB4AD",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Duniya o Akhirat Lecture",
+            "bn": "দুনিয়া ও আখিরাত লেকচার",
+            "ar": "محاضرة الدنيا والآخرة",
+            "ur": "دنیا اور آخرت بیان"
+          },
+          "url": "https://www.youtube.com/watch?v=0zrKEFhehTE",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L14",
+      "lang": "bn",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "dajjal",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "IslamHouse Bengali Scholars (1,400+ Audio Library)",
+        "bn": "ইসলামহাউস বাংলা আলেমবৃন্দ (১,৪০০+ অডিও সংগ্রহ)",
+        "ar": "علماء إسلام هاوس بالبنغالية (١٤٠٠+ مادة صوتية)",
+        "ur": "اسلام ہاؤس بنگالی علماء (۱۴۰۰+ آڈیو ذخیرہ)"
+      },
+      "region": {
+        "en": "Global · IslamHouse Verified Bengali Audio Category",
+        "bn": "আন্তর্জাতিক · ইসলামহাউস যাচাইকৃত বাংলা অডিও বিভাগ",
+        "ar": "عالمي · قسم الصوتيات البنغالية الموثقة بإسلام هاوس",
+        "ur": "عالمی · اسلام ہاؤس تصدیق شدہ بنگالی آڈیو کیٹیگری"
+      },
+      "title": {
+        "en": "Last Day, Minor & Major Signs, Dajjal, Grave & Paradise (1,400+ Audios)",
+        "bn": "শেষ দিবস, কিয়ামতের ছোট-বড় আলামত, দাজ্জাল ও কবরের জীবন (১,৪০০+ অডিও)",
+        "ar": "موسوعة صوتية بنغالية في اليوم الآخر وأشراط الساعة والدجال والقبر",
+        "ur": "آخرت، علاماتِ قیامت، دجال اور عالمِ برزخ (۱۴۰۰+ بنگالی آڈیو)"
+      },
+      "desc": {
+        "en": "Massive chapter-organized Bengali MP3 repository covering grave punishment and bliss, al-Dajjal, Isa (AS), the Pond (Hawd), Sirat, Shafa'ah, Paradise, and Hellfire.",
+        "bn": "কবরের শাস্তি ও শান্তি, দাজ্জাল, ঈসা (আ.), হাউয, পুলসিরাত, শাফাআত এবং জান্নাত-জাহান্নাম বিষয়ে অধ্যায়ভিত্তিক ১,৪০০+ বাংলা অডিও দরস।",
+        "ar": "مكتبة صوتية ضخمة ومبوبة بالبنغالية تغطي عذاب القبر والدجال ونزول عيسى والحوض والصراط والشفاعة والجنة والنار.",
+        "ur": "عذابِ قبر، دجال، نزولِ عیسیٰؑ، حوض، صراط، شفاعت اور جنت و جہنم پر ابواب کے مطابق مرتب ۱۴۰۰ سے زائد بنگالی آڈیو دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Curated and vetted by IslamHouse Bengali scholarly reviewers.",
+        "bn": "স্তর ২: ইসলামহাউস বাংলা শরীআহ ও সম্পাদনা পর্ষদ কর্তৃক নিরীক্ষিত।",
+        "ar": "المستوى ٢: مراجع ومعتمد من قبل اللجنة العلمية في إسلام هاوس.",
+        "ur": "درجہ ۲: اسلام ہاؤس کے علمی و شرعی بورڈ سے تصدیق شدہ۔"
+      },
+      "relatedBooks": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Browse 1,400+ Bengali Audios",
+            "bn": "১,৪০০+ বাংলা অডিও শুনুন",
+            "ar": "تصفح ١٤٠٠+ مادة صوتية",
+            "ur": "۱۴۰۰+ بنگالی آڈیو سنیں"
+          },
+          "url": "https://islamhouse.com/bn/category/77380/audios/showall/1/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L15",
+      "lang": "en",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Dr. Omar Suleiman (Yaqeen Institute)",
+        "bn": "ড. ওমর সুলাইমান (ইয়াকীন ইনস্টিটিউট)",
+        "ar": "الدكتور عمر سليمان (معهد يقين)",
+        "ur": "ڈاکٹر عمر سلیمان (یقین انسٹی ٹیوٹ)"
+      },
+      "region": {
+        "en": "USA · Yaqeen Institute for Islamic Research",
+        "bn": "যুক্তরাষ্ট্র · ইয়াকীন ইনস্টিটিউট ফর ইসলামিক রিসার্চ",
+        "ar": "الولايات المتحدة · معهد يقين للأبحاث الإسلامية",
+        "ur": "امریکہ · یقین انسٹی ٹیوٹ فار اسلامک ریسرچ"
+      },
+      "title": {
+        "en": "Signs of the Hour (2026) · The Other Side: Barzakh (2025) · Judgment Day",
+        "bn": "সাইনস অব দ্য আওয়ার (২০২৬) · বারযাখ (২০২৫) · জাজমেন্ট ডে সিরিজ",
+        "ar": "سلسلة أشراط الساعة (٢٠٢٦) والبرزخ (٢٠٢٥) ويوم القيامة",
+        "ur": "سائنز آف دی آور (۲۰۲۶) · عالمِ برزخ (۲۰۲۵) · ججمنٹ ڈے سیریز"
+      },
+      "desc": {
+        "en": "Three flagship high-production Ramadan video & podcast series uniting classical Sunni hadith commentary with practical spiritual action across Signs of the Hour, Barzakh, and Judgment Day.",
+        "bn": "কিয়ামতের আলামত (২০২৬), বারযাখ (২০২৫) এবং হাশরের ময়দানের আমল নিয়ে কুরআন-হাদীসভিত্তিক ৩টি বিশ্বমানের ধারাবাহিক ইংরেজি ভিডিও সিরিজ।",
+        "ar": "ثلاث سلاسل رمضانية مرئية رفيعة المستوى باللغة الإنجليزية تجمع بين التوثيق الحديثي والعمل الإيماني في أشراط الساعة والبرزخ والحشر.",
+        "ur": "علاماتِ قیامت (۲۰۲۶)، عالمِ برزخ (۲۰۲۵) اور یومِ حساب پر تین معیاری انگریزی ویڈیو سیریز جن میں صحیح روایات کو عملی زندگی سے جوڑا گیا ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Peer-reviewed by Yaqeen Institute research fellows with transparent references to Sahih al-Bukhari, Sahih Muslim, Ibn Kathir, and al-Qurtubi.",
+        "bn": "স্তর ২: ইয়াকীন ইনস্টিটিউটের গবেষক পর্ষদ কর্তৃক যাচাইকৃত এবং বুখারী, মুসলিম, ইবনে কাসীর ও আল-কুরতুবীর সুস্পষ্ট উদ্ধৃতিসমৃদ্ধ।",
+        "ar": "المستوى ٢: محكّمة بحثياً عبر معهد يقين مع إحالات واضحة للصحيحين وابن كثير والقرطبي.",
+        "ur": "درجہ ۲: یقین انسٹی ٹیوٹ کے تحقیقی شعبے سے مراجعہ شدہ اور صحیحین، ابن کثیر اور قرطبی کے حوالوں سے مزین۔"
+      },
+      "relatedBooks": [
+        148,
+        149,
+        150,
+        151
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Signs of the Hour (2026)",
+            "bn": "Signs of the Hour (২০২৬)",
+            "ar": "أشراط الساعة (٢٠٢٦)",
+            "ur": "علاماتِ قیامت (۲۰۲۶)"
+          },
+          "url": "https://yaqeeninstitute.org/series/signs-of-the-hour",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "The Other Side: Barzakh",
+            "bn": "বারযাখ সিরিজ",
+            "ar": "سلسلة البرزخ",
+            "ur": "برزخ سیریز"
+          },
+          "url": "https://yaqeeninstitute.org/series/the-other-side-barzakh-and-beyond",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Judgment Day Series",
+            "bn": "জাজমেন্ট ডে সিরিজ",
+            "ar": "سلسلة يوم الحساب",
+            "ur": "یومِ حساب سیریز"
+          },
+          "url": "https://yaqeeninstitute.org/series/judgment-day-deeds-that-light-the-way",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L16",
+      "lang": "en",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "dajjal",
+        "barzakh",
+        "gog_magog"
+      ],
+      "speaker": {
+        "en": "Dr. Yasir Qadhi",
+        "bn": "ড. ইয়াসির কাযী",
+        "ar": "الدكتور ياسر قاضي",
+        "ur": "ڈاکٹر یاسر قاضی"
+      },
+      "region": {
+        "en": "USA · Islamic Seminary of America (Madinah & Yale PhD)",
+        "bn": "যুক্তরাষ্ট্র · মদীনা বিশ্ববিদ্যালয় ও ইয়েল পিএইচডি",
+        "ar": "الولايات المتحدة · دكتوراه ييل وخريج الجامعة الإسلامية بالمدينة",
+        "ur": "امریکہ · جامعہ اسلامیہ مدینہ اور ییل پی ایچ ڈی"
+      },
+      "title": {
+        "en": "Signs of Judgment Day, The Barzakh & Ramadan Tafseer of Surah al-Kahf",
+        "bn": "কিয়ামতের আলামত, বারযাখ জগত ও সূরা আল-কাহফের ধারাবাহিক তাফসীর",
+        "ar": "أشراط الساعة وعالم البرزخ وتفسير سورة الكهف (بالإنجليزية)",
+        "ur": "علاماتِ قیامت، عالمِ برزخ اور سورۃ الکہف کی تفسیری سیریز (انگریزی)"
+      },
+      "desc": {
+        "en": "In-depth academic-accessible English lecture series covering Minor Signs, al-Mahdi, al-Masih al-Dajjal, the soul's journey in Barzakh, and full Ramadan Tafseer of Surah al-Kahf.",
+        "bn": "ছোট-বড় আলামত, মাহদী, মসীহ দাজ্জাল, বারযাখে রুহের যাত্রা এবং সূরা আল-কাহফের পূর্ণাঙ্গ রামাদান তাফসীর নিয়ে গভীর ও সহজবোধ্য ইংরেজি লেকচার সিরিজ।",
+        "ar": "محاضرات إنجليزية مفصلة تتناول الأشراط الصغرى والكبرى، المهدي والدجال، رحلة الروح في البرزخ، وتفسير سورة الكهف كاملاً.",
+        "ur": "صغریٰ و کبریٰ علامات، مہدی، دجال، برزخ میں روح کا سفر اور سورۃ الکہف کی مکمل رمضان تفسیر پر مبنی علمی انگریزی دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Systematic hadith-science framing distinguishing Sahih consensus from weak reports and surveying classical differences (Ikhtilaf) transparently.",
+        "bn": "স্তর ২: হাদীসশাস্ত্রের মূলনীতি অনুসারে সহীহ ও দুর্বল বর্ণনা পৃথক করে এবং ধ্রুপদী আলেমদের মতভিন্নতা স্বচ্ছভাবে উপস্থাপন করে।",
+        "ar": "المستوى ٢: عرض منهجي يميّز الصحيح من الضعيف ويعرض أقوال العلماء المتقدمين بأمانة علمية.",
+        "ur": "درجہ ۲: اصولِ حدیث کے مطابق صحیح و ضعیف روایات میں امتیاز اور کلاسیکی علماء کے آراء کا شفاف تجزیہ۔"
+      },
+      "relatedBooks": [
+        152,
+        27,
+        31
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Surah al-Kahf Playlist (YouTube)",
+            "bn": "সূরা আল-কাহফ প্লেলিস্ট",
+            "ar": "قائمة تفسير سورة الكهف",
+            "ur": "سورۃ الکہف پلے لسٹ"
+          },
+          "url": "https://www.youtube.com/playlist?list=PLYZxc42QNctUjlpxyXdb4Ylusj2rAjtkM",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Signs of Judgment Day (MuslimCentral)",
+            "bn": "কিয়ামতের আলামত (MuslimCentral)",
+            "ar": "أشراط الساعة (MuslimCentral)",
+            "ur": "علاماتِ قیامت (MuslimCentral)"
+          },
+          "url": "https://muslimcentral.com/yasir-qadhi-understanding-the-traditions-of-the-signs-of-judgement-day-episode-3/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Journey of the Soul & Barzakh",
+            "bn": "রুহের যাত্রা ও বারযাখ",
+            "ar": "رحلة الروح والبرزخ",
+            "ur": "روح کا سفر اور برزخ"
+          },
+          "url": "https://www.youtube.com/watch?v=Ul5E53kzLJY",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L17",
+      "lang": "en",
+      "tier": "tier2",
+      "format": "tafsir",
+      "topics": [
+        "afterlife",
+        "fitan",
+        "dajjal"
+      ],
+      "speaker": {
+        "en": "Ustadh Nouman Ali Khan (Bayyinah)",
+        "bn": "উস্তায নোমান আলী খান (বায়্যিনাহ)",
+        "ar": "الأستاذ نعمان علي خان (معهد بيّنة)",
+        "ur": "استاد نعمان علی خان (بینہ انسٹی ٹیوٹ)"
+      },
+      "region": {
+        "en": "USA · Bayyinah Institute (Linguistic Qur'an Tafsir)",
+        "bn": "যুক্তরাষ্ট্র · বায়্যিনাহ ইনস্টিটিউট (ভাষাতাত্ত্বিক তাফসীর)",
+        "ar": "الولايات المتحدة · معهد بيّنة (التدبر اللغوي للقرآن)",
+        "ur": "امریکہ · بینہ انسٹی ٹیوٹ (قرآنی لغوی تدبر)"
+      },
+      "title": {
+        "en": "Surah al-Qiyamah: A Deeper Look & Surah al-Kahf Explained",
+        "bn": "সূরা আল-কিয়ামাহ গভীর তাফসীর ও সূরা আল-কাহফ বিশ্লেষণ",
+        "ar": "تأملات لغوية عميقة في سورة القيامة وسورة الكهف",
+        "ur": "سورۃ القیامۃ اور سورۃ الکہف کا گہرا لغوی و فکری مطالعہ"
+      },
+      "desc": {
+        "en": "Linguistic and rhetorical Qur'an lectures unpacking human conscience, resurrection imagery in Surah al-Qiyamah, and faith resilience against trials in Surah al-Kahf.",
+        "bn": "সূরা আল-কিয়ামাহর আরবি অলংকার, মানব বিবেক, পুনরুত্থানের চিত্র এবং সূরা আল-কাহফের ফিতনা-মোকাবিলার শিক্ষার ওপর গভীর ভাষাতাত্ত্বিক আলোচনা।",
+        "ar": "دروس بلاغية ولغوية عميقة تستعرض صور البعث والنفس اللوامة في سورة القيامة والثبات أمام الفتن في سورة الكهف.",
+        "ur": "سورۃ القیامۃ میں نفسِ لوامہ و قیامت کے مناظر اور سورۃ الکہف میں فتنوں سے بچاؤ کے قرآنی اسباق پر لغوی و فکری دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Focused on Qur'anic Arabic rhetoric and classical tafsir insights (al-Razi, Ibn Ashur, al-Zamakhshari/Ibn Kathir) applied to spiritual ethics.",
+        "bn": "স্তর ২: কুরআনী আরবি ভাষাশৈলী ও ধ্রুপদী তাফসীরের অন্তর্দৃষ্টিকে আত্মিক পরিশুদ্ধিতে প্রয়োগ করে।",
+        "ar": "المستوى ٢: يرتكز على البلاغة القرآنية وتأملات كبار المفسرين في تزكية النفس والاستعداد للآخرة.",
+        "ur": "درجہ ۲: قرآنی بلاغت اور معتبر تفاسیر کے نکات کو اصلاحِ قلب اور فکرِ آخرت پر منطبق کرتا ہے۔"
+      },
+      "relatedBooks": [
+        153,
+        40
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Surah al-Qiyamah Lecture",
+            "bn": "সূরা আল-কিয়ামাহ লেকচার",
+            "ar": "درس سورة القيامة",
+            "ur": "سورۃ القیامۃ لیکچر"
+          },
+          "url": "https://www.youtube.com/watch?v=wdvXneWdhM0",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Surah al-Kahf Explained",
+            "bn": "সূরা আল-কাহফ বিশ্লেষণ",
+            "ar": "شرح سورة الكهف",
+            "ur": "سورۃ الکہف کی تشریح"
+          },
+          "url": "https://www.youtube.com/watch?v=71cC5woCSl0",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "NAK Collections Playlist",
+            "bn": "লেকচার প্লেলিস্ট",
+            "ar": "قائمة الدروس",
+            "ur": "لیکچرز پلے لسٹ"
+          },
+          "url": "https://www.youtube.com/playlist?list=PL1HDj8ko_D33_kataRk5OkfDAntT3o0wE",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L18",
+      "lang": "en",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "afterlife",
+        "dajjal"
+      ],
+      "speaker": {
+        "en": "Mufti Ismail Musa Menk",
+        "bn": "মুফতী ইসমাইল মেনক",
+        "ar": "المفتي إسماعيل منك",
+        "ur": "مفتی اسماعیل مینک"
+      },
+      "region": {
+        "en": "Zimbabwe · Global English Da'wah Lectures",
+        "bn": "জিম্বাবুয়ে · আন্তর্জাতিক ইংরেজি দাওয়াহ লেকচার",
+        "ar": "زيمبابوي · محاضرات دعوية عالمية بالإنجليزية",
+        "ur": "زمبابوے · عالمی انگریزی دعوتی خطبات"
+      },
+      "title": {
+        "en": "Revelation of Prophecies, Signs of the Hour & Lessons from Surah al-Kahf",
+        "bn": "নবুওয়তী ভবিষ্যদ্বাণী, কিয়ামতের আলামত ও সূরা আল-কাহফের শিক্ষা",
+        "ar": "النبوءات النبوية وأشراط الساعة ودروس سورة الكهف (بالإنجليزية)",
+        "ur": "نبوی پیش گوئیاں، علاماتِ قیامت اور سورۃ الکہف کے اسباق"
+      },
+      "desc": {
+        "en": "Calm, uplifting global lectures explaining the Minor Resurrection (death), the Hadith of Jibril on the Signs of the Hour, and practical lessons from Surah al-Kahf.",
+        "bn": "মৃত্যু তথা ছোট কিয়ামত, হাদীসে জিবরীলে বর্ণিত কিয়ামতের আলামত এবং সূরা আল-কাহফের বাস্তব শিক্ষার ওপর প্রশান্তিদায়ক ইংরেজি লেকচার।",
+        "ar": "محاضرات إنجليزية هادئة وملهمة تشرح القيامة الصغرى (الموت) وحديث جبريل في أشراط الساعة ودروس سورة الكهف.",
+        "ur": "موت (قیامتِ صغریٰ)، حدیثِ جبریل میں علاماتِ قیامت اور سورۃ الکہف کے عملی اسباق پر پرسکون اور دلنشین انگریزی خطبات۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Mainstream, accessible Sunni preaching emphasizing hope, repentance, and daily preparation over fear-mongering.",
+        "bn": "স্তর ২: আতঙ্ক নয়, বরং আশা, তাওবা ও দৈনন্দিন নেক আমলের ওপর জোর দেওয়া মূলধারার প্রশান্ত দাওয়াত।",
+        "ar": "المستوى ٢: خطاب سني معتدل يركز على التوبة والعمل الصالح وتوازن الخوف والرجاء.",
+        "ur": "درجہ ۲: خوف و ہراس کے بجائے امید، توبہ اور عملی تیاری پر زور دینے والا معتدل خطاب۔"
+      },
+      "relatedBooks": [
+        27,
+        45,
+        152
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Revelation of Prophecies (MuslimCentral)",
+            "bn": "ভবিষ্যদ্বাণীর প্রকাশ (MuslimCentral)",
+            "ar": "أشراط الساعة (MuslimCentral)",
+            "ur": "نبوی پیش گوئیاں (MuslimCentral)"
+          },
+          "url": "https://muslimcentral.com/mufti-menk-revelation-prophecies/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Lessons from Surah al-Kahf (YouTube)",
+            "bn": "সূরা আল-কাহফের শিক্ষা (ইউটিউব)",
+            "ar": "دروس سورة الكهف (يوتيوب)",
+            "ur": "سورۃ الکہف کے اسباق (یوٹیوب)"
+          },
+          "url": "https://www.youtube.com/watch?v=NjIFnTNfsyU",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L19",
+      "lang": "en",
+      "tier": "tier2_3",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife",
+        "fitan"
+      ],
+      "speaker": {
+        "en": "Shaykh Hamza Yusuf (Zaytuna College)",
+        "bn": "শাইখ হামযা ইউসুফ (যাইতুনা কলেজ)",
+        "ar": "الشيخ حمزة يوسف (كلية الزيتونة)",
+        "ur": "شیخ حمزہ یوسف (زیتونہ کالج)"
+      },
+      "region": {
+        "en": "USA · Zaytuna College / Sandala",
+        "bn": "যুক্তরাষ্ট্র · যাইতুনা কলেজ / সানদালা",
+        "ar": "الولايات المتحدة · كلية الزيتونة",
+        "ur": "امریکہ · زیتونہ کالج / سندالہ"
+      },
+      "title": {
+        "en": "When Worlds Wither: Guidance in the Latter Days & Purification of the Heart",
+        "bn": "শেষ যুগে হেদায়াত, দাজ্জালী সভ্যতা বিশ্লেষণ ও অন্তরের পরিশুদ্ধি",
+        "ar": "الهدي النبوي في آخر الزمان وتطهير القلوب (بالإنجليزية)",
+        "ur": "آخری زمانے میں رہنمائی اور تزکیۂ قلب (انگریزی دروس)"
+      },
+      "desc": {
+        "en": "Classic English discourses blending traditional Maliki/Ghazalian spirituality with civilizational reflections on materialism, ecological decline, and the spiritual antidote to Dajjalic culture.",
+        "bn": "ইমাম গাযালী ও ধ্রুপদী তাসাউফের আলোকে ভোগবাদী সভ্যতার সংকট, শেষ যুগের চ্যালেঞ্জ এবং অন্তরের পরিশুদ্ধির ওপর গভীর চিন্তামূলক ইংরেজি বয়ান।",
+        "ar": "محاضرات فكرية وروحية تجمع بين التراث التزكوي الكلاسيكي وقراءة أزمة الحضارة المادية المعاصرة والوقاية من الفتن.",
+        "ur": "کلاسیکی تزکیۂ نفس اور عصرِ حاضر کے مادہ پرست تہذیبی بحران کے تناظر میں آخری زمانے کی روحانی رہنمائی پر مبنی انگریزی دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Purification of the Heart is grounded in classical Islamic ethics (Tier 2), while his talks on modern civilization and Dajjal include cultural/philosophical analysis (Tier 3).",
+        "bn": "স্তর ২-৩: ‘পিউরিফিকেশন অব দ্য হার্ট’ ধ্রুপদী আত্মশুদ্ধি শাস্ত্রভিত্তিক (স্তর ২), আর আধুনিক সভ্যতা ও দাজ্জাল বিষয়ক আলোচনায় দার্শনিক ও সাংস্কৃতিক বিশ্লেষণ রয়েছে (স্তর ৩)।",
+        "ar": "المستوى ٢-٣: سلسلة «تطهير القلوب» تراثية أصيلة (مستوى ٢)، بينما تشتمل محاضرات الدجال والعصر الحديث على قراءات ثقافية وفلسفية (مستوى ٣).",
+        "ur": "درجہ ۲-۳: «تطہیرِ قلب» کلاسیکی اخلاقیات پر مبنی ہے (درجہ ۲)، جبکہ جدید تہذیب اور دجال پر گفتگو میں فکری و تہذیبی تجزیہ شامل ہے (درجہ ۳)۔"
+      },
+      "relatedBooks": [
+        154,
+        34
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Signs of End of Time Talks (HalalTube)",
+            "bn": "শেষ যুগের বয়ান (HalalTube)",
+            "ar": "محاضرات آخر الزمان (HalalTube)",
+            "ur": "آخری زمانہ خطبات (HalalTube)"
+          },
+          "url": "https://halaltube.com/topic/signs-of-the-end-of-time",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Purification of the Heart (33 MP3s)",
+            "bn": "অন্তরের পরিশুদ্ধি (৩৩ MP3)",
+            "ar": "تطهير القلوب (٣٣ صوتية)",
+            "ur": "تزکیۂ قلب (۳۳ آڈیو)"
+          },
+          "url": "https://archive.org/details/Sheikh_Hamza_Yusuf_Hanson_-_Purification_Of_The_Heart_CD_Audio_MP3",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L20",
+      "lang": "en",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "barzakh",
+        "signs",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Dr. Tahir Wyatt & Shaykh Ibrahim Nuhu (MuslimCentral)",
+        "bn": "ড. তাহির ওয়াইয়াট ও শাইখ ইবরাহীম নূহ (MuslimCentral)",
+        "ar": "د. طاهر وايت والشيخ إبراهيم نوح (MuslimCentral)",
+        "ur": "ڈاکٹر طاہر وائٹ اور شیخ ابراہیم نوح (MuslimCentral)"
+      },
+      "region": {
+        "en": "Madinah / Global · Structured English Aqeedah Audio",
+        "bn": "মদীনা / আন্তর্জাতিক · সুবিন্যস্ত ইংরেজি আকীদা অডিও",
+        "ar": "المدينة المنورة / عالمي · دروس عقدية بالإنجليزية",
+        "ur": "مدینہ منورہ / عالمی · منظم انگریزی عقیدہ آڈیو"
+      },
+      "title": {
+        "en": "The Hereafter: Barzakh & Beyond and Signs of the Hour (Structured Audio)",
+        "bn": "দ্য হিয়ারআফটার: বারযাখ ও কিয়ামতের আলামত (একাডেমিক অডিও সিরিজ)",
+        "ar": "الآخرة: البرزخ وما بعده وسلسلة أشراط الساعة (صوتيات إنجليزية)",
+        "ur": "عالمِ برزخ، آخرت اور علاماتِ قیامت (منظم انگریزی آڈیو دروس)"
+      },
+      "desc": {
+        "en": "Madinah-trained English lectures methodically teaching the distinction between the Hereafter and the Last Day, the blowing of the Trumpet, resurrection from the tailbone, and the Signs of the Hour.",
+        "bn": "মদীনা বিশ্ববিদ্যালয়-প্রশিক্ষিত স্কলারদের সুবিন্যস্ত ইংরেজি অডিও ক্লাস: বারযাখ, শিঙ্গায় ফুঁক, পুনরুত্থান ও কিয়ামতের আলামতের ধারাবাহিক পাঠ।",
+        "ar": "دروس عقدية إنجليزية منهجية من خريجي الجامعة الإسلامية بالمدينة حول البرزخ والنفخ في الصور والبعث وأشراط الساعة.",
+        "ur": "جامعہ اسلامیہ مدینہ کے فارغ التحصیل علماء کے منظم انگریزی آڈیو دروس: عالمِ برزخ، نفخِ صور، حشر اور علاماتِ قیامت۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Classroom-style Sunni Aqeedah instruction closely aligned with classical creed manuals (#27-#29, #44-#47).",
+        "bn": "স্তর ২: ধ্রুপদী আকীদা গ্রন্থ (#২৭-#২৯, #৪৪-#৪৭)-এর সঙ্গে সামঞ্জস্যপূর্ণ একাডেমিক দরস।",
+        "ar": "المستوى ٢: تدريس عقدي منهجي منسجم مع كتب العقيدة الموثقة (#27-#29، #44-#47).",
+        "ur": "درجہ ۲: کلاسیکی کتبِ عقیدہ (#27-#29، #44-#47) کے عین مطابق تعلیمی و تحقیقی اسلوب۔"
+      },
+      "relatedBooks": [
+        44,
+        45,
+        46,
+        27
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Barzakh & Beyond (Dr. Tahir Wyatt)",
+            "bn": "বারযাখ ও পরবর্তী জীবন (ড. ওয়াইয়াট)",
+            "ar": "البرزخ وما بعده (د. طاهر وايت)",
+            "ur": "برزخ اور آخرت (ڈاکٹر طاہر وائٹ)"
+          },
+          "url": "https://muslimcentral.com/tahir-wyatt-barzakh-and-beyond-the-hereafter-ep-02/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Signs of the Hour (Ibrahim Nuhu)",
+            "bn": "কিয়ামতের আলামত (ইবরাহীম নূহ)",
+            "ar": "أشراط الساعة (إبراهيم نوح)",
+            "ur": "علاماتِ قیامت (ابراہیم نوح)"
+          },
+          "url": "https://muslimcentral.com/ibrahim-nuhu-signs-of-the-hour-05/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L21",
+      "lang": "en",
+      "tier": "tier3",
+      "format": "video",
+      "topics": [
+        "geopolitics",
+        "dajjal",
+        "gog_magog",
+        "signs"
+      ],
+      "speaker": {
+        "en": "Sheikh Imran N. Hosein",
+        "bn": "শাইখ ইমরান নযর হোসেন",
+        "ar": "الشيخ عمران نزار حسين",
+        "ur": "شیخ عمران نذر حسین"
+      },
+      "region": {
+        "en": "Trinidad / Global · Contemporary Geopolitical Eschatology",
+        "bn": "ত্রিনিদাদ / আন্তর্জাতিক · সমকালীন ভূরাজনৈতিক বিশ্লেষণ",
+        "ar": "ترينيداد / عالمي · قراءات جيوسياسية معاصرة",
+        "ur": "ٹرینیڈاڈ / عالمی · معاصر جغرافیائی و سیاسی تعبیر"
+      },
+      "title": {
+        "en": "Gog & Magog in the Modern World & Akhir al-Zaman Geopolitical Lectures",
+        "bn": "আধুনিক বিশ্বে ইয়াজূজ-মাজূজ ও আখিরুয যামান ভূরাজনৈতিক লেকচার",
+        "ar": "يأجوج ومأجوج في العالم المعاصر ومحاضرات آخر الزمان الجيوسياسية",
+        "ur": "عصرِ حاضر میں یاجوج و ماجوج اور آخرالزمان پر جغرافیائی و سیاسی خطبات"
+      },
+      "desc": {
+        "en": "Widely discussed English lectures interpreting Dajjal, Gog & Magog, monetary systems, and modern international conflicts through a distinctive symbolic and geopolitical framework.",
+        "bn": "দাজ্জাল, ইয়াজূজ-মাজূজ, বিশ্ব অর্থব্যবস্থা ও আধুনিক আন্তর্জাতিক সংঘাতকে প্রতীকী ও ভূরাজনৈতিক দৃষ্টিভঙ্গিতে ব্যাখ্যাকারী বহুল আলোচিত ইংরেজি লেকচার।",
+        "ar": "محاضرات إنجليزية مثيرة للنقاش تقرأ الدجال ويأجوج ومأجوج والنظام المالي العالمي من زاوية رمزية وجيوسياسية خاصة بالمؤلف.",
+        "ur": "دجال، یاجوج و ماجوج، عالمی مالیاتی نظام اور بین الاقوامی سیاست کی علامتی اور جغرافیائی تعبیر پر مبنی معروف انگریزی خطبات۔"
+      },
+      "verifyNote": {
+        "en": "Tier 3 (Distinctive Authorial Interpretation): Widely critiqued by mainstream Sunni hadith scholars for departing from literal/classical consensus on Ya'juj & Ma'juj and Dajjal's timeline. Read critically alongside Tier-2 studies (#36, #49, #93).",
+        "bn": "স্তর ৩ (স্বতন্ত্র ব্যক্তিগত ব্যাখ্যা): ইয়াজূজ-মাজূজ ও দাজ্জালের সময়ক্রম বিষয়ে ধ্রুপদী সুন্নী ঐকমত্যের বাইরে যাওয়ায় মূলধারার হাদীস গবেষকগণ তাঁর পদ্ধতি সমালোচনা করেন। স্তর-২ গ্রন্থ (#৩৬, #৪৯, #৯৩)-এর সঙ্গে তুলনামূলকভাবে পড়ুন।",
+        "ar": "المستوى ٣ (تأويل شخصي منفرد): خالف فيه إجماع المفسرين والمحدثين في حقيقة يأجوج ومأجوج وزمن خروجهم؛ يُدرس بنقد إلى جانب مراجع المستوى ٢ (#36، #49، #93).",
+        "ur": "درجہ ۳ (منفرد ذاتی تعبیر): یاجوج و ماجوج اور دجال کی تعبیر میں جمہور محدثین کے مسلک سے اختلاف پر اہلِ علم نے علمی نقد کیا ہے؛ درجہ ۲ کی کتب (#36، #49، #93) کے ساتھ تنقیدی مطالعہ کریں۔"
+      },
+      "relatedBooks": [
+        54,
+        55,
+        56,
+        62
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Gog & Magog Talk (HalalTube)",
+            "bn": "ইয়াজূজ-মাজূজ লেকচার (HalalTube)",
+            "ar": "محاضرة يأجوج ومأجوج (HalalTube)",
+            "ur": "یاجوج و ماجوج بیان (HalalTube)"
+          },
+          "url": "https://halaltube.com/topic/signs-of-the-end-of-time",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L22",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "barzakh",
+        "signs",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Dr. Omar Abdul Kafi",
+        "bn": "ড. উমর আব্দুল কাফী",
+        "ar": "الدكتور عمر عبد الكافي",
+        "ur": "ڈاکٹر عمر عبد الکافی"
+      },
+      "region": {
+        "en": "Egypt / Arab World · Classic 32-Episode Arabic Series",
+        "bn": "মিসর / আরব বিশ্ব · ৩২ পর্বের ধ্রুপদী আরবি সিরিজ",
+        "ar": "مصر / العالم العربي · السلسلة الكلاسيكية (٣٢+ حلقة)",
+        "ur": "مصر / عالمِ عرب · ۳۲ سے زائد اقساط کی کلاسیکی عربی سیریز"
+      },
+      "title": {
+        "en": "Al-Dar al-Akhirah & Al-Wa'd al-Haqq (The True Promise · 32+ Episodes)",
+        "bn": "আদ-দারুল আখিরাহ ও আল-ওয়া‘দুল হাক্ক (৩২+ পর্বের প্রখ্যাত আরবি সিরিজ)",
+        "ar": "سلسلة الدار الآخرة وسلسلة الوعد الحق (أكثر من ٣٢ حلقة)",
+        "ur": "سلسلۃ الدار الآخرۃ اور الوعد الحق (۳۲+ اقساط کی معروف عربی سیریز)"
+      },
+      "desc": {
+        "en": "One of the most beloved Arabic series in modern history walking through death, the will (wasiyyah), causes and saviors from grave punishment, Minor & Major Signs, Resurrection, and Jannah.",
+        "bn": "আধুনিক আরব বিশ্বের অন্যতম জনপ্রিয় ৩২+ পর্বের ধারাবাহিক সিরিজ: মৃত্যু, অসিয়ত, কবরের আযাব থেকে মুক্তির উপায়, ছোট-বড় আলামত, হাশর ও জান্নাত।",
+        "ar": "من أشهر السلاسل الإيمانية في العالم العربي حول مرض الموت والوصية ومنجيات عذاب القبر وعلامات الساعة الصغرى والكبرى والبعث والحساب.",
+        "ur": "عالمِ عرب کی مقبول ترین ایمانی سیریز جس میں مرضِ موت، وصیت، عذابِ قبر سے نجات کے اسباب، علاماتِ قیامت اور حشر و حساب کو مفصل بیان کیا گیا ہے۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Eloquent, mainstream Arabic teaching; verify occasional soft-heart stories against canonical hadith books if citing formally.",
+        "bn": "স্তর ২: প্রাঞ্জল ও মূলধারার আরবি আলোচনা; একাডেমিক উদ্ধৃতির ক্ষেত্রে বিশেষ কিছু বর্ণনা মূল হাদীস গ্রন্থে মিলিয়ে নিন।",
+        "ar": "المستوى ٢: عرض بليغ ومنضبط بالمنهج العام، مع مراجعة أسانيد بعض الرقائق عند التوثيق العلمي.",
+        "ur": "درجہ ۲: بلیغ اور معتدل علمی انداز؛ علمی حوالے کے وقت بعض رقائق کی روایات کی تخریج دیکھ لیں۔"
+      },
+      "relatedBooks": [
+        94,
+        95,
+        96
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Al-Dar al-Akhirah Intro (IslamWay)",
+            "bn": "আদ-দারুল আখিরাহ ভূমিকা (IslamWay)",
+            "ar": "مقدمة الدار الآخرة (طريق الإسلام)",
+            "ur": "مقدمہ الدار الآخرۃ (طریق الاسلام)"
+          },
+          "url": "https://ar.islamway.net/lesson/1867/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D8%A9",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Major Signs Lesson (IslamWay)",
+            "bn": "বড় আলামত দরস (IslamWay)",
+            "ar": "علامات الساعة الكبرى (طريق الإسلام)",
+            "ur": "علاماتِ کبریٰ درس (طریق الاسلام)"
+          },
+          "url": "https://ar.islamway.net/lesson/1874/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "800+ Audio Archive (Archive.org)",
+            "bn": "৮০০+ অডিও আর্কাইভ",
+            "ar": "موسوعة ٨٠٠+ صوتية · Archive",
+            "ur": "۸۰۰+ آڈیو آرکائیو"
+          },
+          "url": "https://archive.org/details/mawsoa-mp3_Omar-abdlkafee",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L23",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "tafsir",
+      "topics": [
+        "afterlife",
+        "signs",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Dr. Muhammad Ratib al-Nabulsi",
+        "bn": "ড. মুহাম্মদ রাতিব আন-নাবুলসী",
+        "ar": "الدكتور محمد راتب النابلسي",
+        "ur": "ڈاکٹر محمد راتب النابلسی"
+      },
+      "region": {
+        "en": "Syria / Levant · Nabulsi Encyclopedia of Islamic Sciences",
+        "bn": "সিরিয়া / শাম · নাবুলসী ইসলামী বিজ্ঞান বিশ্বকোষ",
+        "ar": "سوريا / الشام · موسوعة النابلسي للعلوم الإسلامية",
+        "ur": "شام · موسوعہ نابلسی للعلوم الاسلامیہ"
+      },
+      "title": {
+        "en": "Al-Iman bil-Yawm al-Akhir & Ashrat al-Sa'ah (Nabulsi Encyclopedia)",
+        "bn": "আল-ঈমান বিল ইয়াওমিল আখির ও আশরাতুস সা‘আহ (নাবুলসী বিশ্বকোষ)",
+        "ar": "سلسلة الإيمان باليوم الآخر وأشراط الساعة (موسوعة النابلسي)",
+        "ur": "الایمان بالیوم الآخر اور اشراط الساعۃ (موسوعہ نابلسی)"
+      },
+      "desc": {
+        "en": "Structured creed lessons pairing full Arabic text transcripts with audio covering the necessity of belief in the Last Day, death, Minor & Major Signs, and moral accountability.",
+        "bn": "সম্পূর্ণ আরবি পাঠ্য ও অডিওসহ সুবিন্যস্ত আকীদা পাঠ্যক্রম: শেষ দিবসের প্রতি ঈমানের প্রয়োজনীয়তা, মৃত্যু, ছোট-বড় আলামত এবং নৈতিক জবাবদিহি।",
+        "ar": "دروس عقدية مفرّغة ومسموعة في موسوعة النابلسي حول أهمية الإيمان باليوم الآخر وواقعية الموت وأشراط الساعة الصغرى والكبرى.",
+        "ur": "موسوعہ نابلسی میں تحریری متن اور آڈیو کے ساتھ ایمان بالیوم الآخر، حقیقتِ موت اور علاماتِ قیامت پر منظم علمی دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Clear, balanced scholarly lessons grounded in Qur'an and Bukhari/Muslim; note that Dr. al-Nabulsi occasionally mentions contemporary metaphors alongside literal classical interpretations.",
+        "bn": "স্তর ২: কুরআন ও সহীহাইনভিত্তিক ভারসাম্যপূর্ণ একাডেমিক আলোচনা; কোথাও কোথাও ধ্রুপদী ব্যাখ্যার পাশাপাশি সমকালীন উপমা উল্লেখ করা হয়েছে।",
+        "ar": "المستوى ٢: دروس علمية وتربوية متزنة مستندة إلى القرآن والصحيحين، مع الإشارة أحياناً لبعض التأملات المعاصرة.",
+        "ur": "درجہ ۲: قرآن و صحیحین پر مبنی متوازن علمی دروس، جن میں بعض مقامات پر عصری تمثیلات کا تذکرہ بھی ملتا ہے۔"
+      },
+      "relatedBooks": [
+        169,
+        93
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Full Category (Nabulsi.com)",
+            "bn": "সম্পূর্ণ বিভাগ (Nabulsi.com)",
+            "ar": "القسم الكامل (موسوعة النابلسي)",
+            "ur": "مکمل شعبہ (موسوعہ نابلسی)"
+          },
+          "url": "https://nabulsi.com/web/category/614/%D9%A08%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Lesson 7: Minor Signs",
+            "bn": "পাঠ ৭: ছোট আলামত",
+            "ar": "الدرس ٧: الأشراط الصغرى",
+            "ur": "سبق ۷: علاماتِ صغریٰ"
+          },
+          "url": "https://nabulsi.com/web/article/777",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L24",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "barzakh",
+        "afterlife",
+        "signs"
+      ],
+      "speaker": {
+        "en": "Shaykh Nabil ibn Ali al-Awadi",
+        "bn": "শাইখ নাবীল ইবনে আলী আল-আওয়াদী",
+        "ar": "الشيخ نبيل بن علي العوضي",
+        "ur": "شیخ نبیل بن علی العوضی"
+      },
+      "region": {
+        "en": "Kuwait · Classic Arabic Audio & Storytelling Series",
+        "bn": "কুয়েত · প্রখ্যাত আরবি অডিও ও বর্ণনাধর্মী সিরিজ",
+        "ar": "الكويت · سلاسل صوتية ومرئية شهيرة",
+        "ur": "کویت · معروف عربی آڈیو اور بیانیہ سیریز"
+      },
+      "title": {
+        "en": "Yawm al-Mi'ad, Qissat al-Nihayah & First Night in the Grave",
+        "bn": "ইয়াওমুল মী‘আদ, কিসসাতুন নিহায়াহ ও কবরের প্রথম রাত",
+        "ar": "سلسلة يوم المعاد، قصة النهاية وأول ليلة في القبر",
+        "ur": "سلسلۃ یوم المعاد، قصۃ النہایۃ اور قبر کی پہلی رات"
+      },
+      "desc": {
+        "en": "Moving 6-part 'Yawm al-Mi'ad' album and 'Nihayat al-Tarikh' lectures detailing the agonies of death, Barzakh, blowing of the Trumpet, Scales, Sirat, Jannah, and Hellfire.",
+        "bn": "৬ পর্বের প্রখ্যাত ‘ইয়াওমুল মী‘আদ’ অ্যালবাম এবং ‘নিহায়াতুত তারীখ’ লেকচার: মৃত্যুযন্ত্রণা, কবরের আযাব ও নেয়ামত, শিঙ্গায় ফুঁক, মীযান, পুলসিরাত ও জান্নাত-জাহান্নাম।",
+        "ar": "ألبوم «يوم المعاد» الشهير في ستة أشرطة مع محاضرات «قصة النهاية» و«نهاية التاريخ» في الموت والقبر والحشر والميزان والجنة والنار.",
+        "ur": "چھ حصوں پر مشتمل مشہور «یوم المعاد» البم اور «قصۃ النہایۃ» کے دروس: سکراتِ موت، عذابِ قبر، نفخِ صور، میزان اور جنت و جہنم۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Grounded in mainstream Gulf Sunni preaching and classical works like al-Tadhkirah (#108) and al-Nihayah (#107).",
+        "bn": "স্তর ২: আল-তাযকিরাহ (#১০৮) ও আল-নিহায়াহ (#১০৭)-এর মতো ধ্রুপদী গ্রন্থনির্ভর মূলধারার আরবি আলোচনা।",
+        "ar": "المستوى ٢: مستمد من المصنفات التراثية كالتذكرة للقرطبي (#108) والنهاية لابن كثير (#107).",
+        "ur": "درجہ ۲: التذکرہ للقرطبی (#108) اور النہایہ لابن کثیر (#107) جیسی معتبر کلاسیکی کتب پر مبنی۔"
+      },
+      "relatedBooks": [
+        107,
+        108,
+        111
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Full Audio Archive (Archive.org)",
+            "bn": "সম্পূর্ণ অডিও আর্কাইভ",
+            "ar": "الأرشيف الصوتي الكامل · Archive",
+            "ur": "مکمل آڈیو آرکائیو · Archive"
+          },
+          "url": "https://archive.org/details/Nabil-3awadi_up-by-ayoub-islam",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Yawm al-Mi'ad: Grave (YouTube)",
+            "bn": "ইয়াওমুল মী‘আদ: কবর (ইউটিউব)",
+            "ar": "يوم الميعاد: عذاب القبر ونعيمه",
+            "ur": "یوم المیعاد: عذابِ قبر"
+          },
+          "url": "https://www.youtube.com/watch?v=0XhnfGhv7FY",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L25",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "fitan",
+        "afterlife",
+        "methodology"
+      ],
+      "speaker": {
+        "en": "Shaykh Dr. Othman al-Khamis",
+        "bn": "শাইখ ড. উসমান আল-খামীস",
+        "ar": "الشيخ الدكتور عثمان الخميس",
+        "ur": "شیخ ڈاکٹر عثمان الخمیس"
+      },
+      "region": {
+        "en": "Kuwait · Hadith Specialist (Imam Muhammad ibn Saud Univ.)",
+        "bn": "কুয়েত · হাদীস বিশেষজ্ঞ (ইমাম মুহাম্মদ ইবনে সউদ বিশ্ববিদ্যালয়)",
+        "ar": "الكويت · متخصص في الحديث والتاريخ الإسلامي",
+        "ur": "کویت · متخصص فی الحدیث والتاریخ الاسلامی"
+      },
+      "title": {
+        "en": "Kitab al-Fitan, Ashrat al-Sa'ah & Eternity of Paradise (Arabic Lessons)",
+        "bn": "কিতাবুল ফিতান, আশরাতুস সা‘আহ ও জান্নাত-জাহান্নামের চিরস্থায়িত্ব",
+        "ar": "شرح كتاب الفتن، أشراط الساعة والدار الآخرة للشيخ عثمان الخميس",
+        "ur": "کتاب الفتن، اشراط الساعۃ اور الدار الآخرۃ (شیخ عثمان الخمیس)"
+      },
+      "desc": {
+        "en": "Concise, hadith-verified Arabic lessons explaining Kitab al-Fitan, End Times tribulations, the eternity of Jannah, and answering common creed doubts directly from primary texts.",
+        "bn": "কিতাবুল ফিতান, শেষ যুগের ফিতনা, জান্নাতের চিরস্থায়িত্ব এবং আকীদাগত সংশয়ের নিরসনে সংক্ষিপ্ত ও কঠোর দলীলভিত্তিক আরবি দরস।",
+        "ar": "دروس علمية محررة في شرح كتاب الفتن وأشراط الساعة وإثبات خلود الجنة والرد على الشبهات العقدية بالدليل الصحيح.",
+        "ur": "کتاب الفتن، آخری زمانے کے فتنوں، خلودِ جنت اور عقیدے کے شبہات کے رد پر مدلل اور مختصر عربی دروس۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Strict hadith-specialist discipline trained under Shaykh Ibn al-Uthaymeen, explicitly filtering weak reports.",
+        "bn": "স্তর ২: শাইখ ইবনে উসাইমীনের ছাত্র হিসেবে কঠোর হাদীস-যাচাই নীতিমালা অনুসরণ করেন।",
+        "ar": "المستوى ٢: التزام دقيق بالمنهج الحديثي وتمييز الروايات الصحيحة عن الضعيفة.",
+        "ur": "درجہ ۲: شیخ ابن عثیمینؒ کے تلمیذ کا محدثانہ اسلوب، صحیح و ضعیف روایات کی کامل تنقیح کے ساتھ۔"
+      },
+      "relatedBooks": [
+        93,
+        132,
+        133,
+        135
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Lessons Playlist (YouTube)",
+            "bn": "দরস প্লেলিস্ট (ইউটিউব)",
+            "ar": "قائمة دروس الشيخ عثمان الخميس",
+            "ur": "دروس پلے لسٹ (یوٹیوب)"
+          },
+          "url": "https://music.youtube.com/playlist?list=PLDZ9OrhUNlMUAqysL9lMMof483rHVMQTg",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L26",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "barzakh",
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Mahmoud al-Masri (Abu Ammar)",
+        "bn": "শাইখ মাহমুদ আল-মিসরী (আবু আম্মার)",
+        "ar": "الشيخ محمود المصري (أبو عمار)",
+        "ur": "شیخ محمود المصری (ابو عمار)"
+      },
+      "region": {
+        "en": "Egypt · 60+ Episode Complete Archive",
+        "bn": "মিসর · ৬০+ পর্বের পূর্ণাঙ্গ আর্কাইভ",
+        "ar": "مصر · أرشيف كامل (أكثر من ٦٠ حلقة)",
+        "ur": "مصر · ۶۰ سے زائد اقساط کا مکمل آرکائیو"
+      },
+      "title": {
+        "en": "Silsilat Rihlah ila al-Dar al-Akhirah (63-Episode Complete Series)",
+        "bn": "রিহলাহ ইলাদ দারিল আখিরাহ (৬৩ পর্বের পূর্ণাঙ্গ সিরিজ)",
+        "ar": "سلسلة رحلة إلى الدار الآخرة (٦٣ حلقة كاملة)",
+        "ur": "سلسلۃ رحلۃ الی الدار الآخرۃ (۶۳ مکمل اقساط)"
+      },
+      "desc": {
+        "en": "Exhaustive 63-episode Arabic series moving step-by-step from the fruits of Akhirah faith through grave questioning, Minor & Major Signs, Dajjal, the Trumpet, and angelic intercession.",
+        "bn": "৬৩ পর্বের বিস্তারিত আরবি সিরিজ: ঈমান বিল আখিরাহর সুফল, কবর, ছোট-বড় আলামত, দাজ্জাল, শিঙ্গায় ফুঁক, হাশরের ময়দান এবং ফেরেশতাদের শাফায়াত।",
+        "ar": "سلسلة شاملة من ٦٣ حلقة تتدرج من ثمرات الإيمان بالآخرة وعذاب القبر وأشراط الساعة الصغرى والكبرى حتى المحشر والشفاعة.",
+        "ur": "۶۳ اقساط پر مشتمل جامع عربی سلسلہ: ایمان بالآخرت، قبر، علاماتِ صغریٰ و کبریٰ، دجال، نفخِ صور، محشر اور شفاعت۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: Popular devotional and educational series closely following Dr. al-Ashqar's creed sequence (#94-#96).",
+        "bn": "স্তর ২: ড. উমর আল-আশকারের ধারাবাহিকতা (#৯৪-#৯৬) অনুসরণে নির্মিত জনপ্রিয় ও শিক্ষামূলক আরবি সিরিজ।",
+        "ar": "المستوى ٢: سلسلة تربوية وتعليمية شاملة تسير على ترتيب كتب العقيدة المعاصرة (#94-#96).",
+        "ur": "درجہ ۲: دکتور عمر الاشقر کی کتب (#94-#96) کی ترتیب پر مبنی مقبول تعلیمی و ایمانی سلسلہ۔"
+      },
+      "relatedBooks": [
+        168,
+        94,
+        95
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "63-Episode Archive (Archive.org)",
+            "bn": "৬৩ পর্বের আর্কাইভ (Archive.org)",
+            "ar": "السلسلة الكاملة ٦٣ حلقة · Archive",
+            "ur": "۶۳ اقساط مکمل آرکائیو · Archive"
+          },
+          "url": "https://archive.org/details/Islamic_Tape-890_uP_bY_mUSLEm",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Way2Allah Akhirah Directory",
+            "bn": "Way2Allah আখিরাত বিভাগ",
+            "ar": "قسم الدار الآخرة · الطريق إلى الله",
+            "ur": "الدار الآخرۃ · الطریق الی اللہ"
+          },
+          "url": "https://way2allah.com/category-37.htm",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L27",
+      "lang": "ar",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "afterlife",
+        "signs",
+        "mahdi"
+      ],
+      "speaker": {
+        "en": "Shaykh Saleh al-Maghamsi & Shaykh Muhammad Salih al-Munajjid",
+        "bn": "শাইখ সালিহ আল-মাগামসী ও শাইখ মুহাম্মদ সালিহ আল-মুনাজ্জিদ",
+        "ar": "الشيخ صالح المغامسي والشيخ محمد صالح المنجد",
+        "ur": "شیخ صالح المغامسی اور شیخ محمد صالح المنجد"
+      },
+      "region": {
+        "en": "Saudi Arabia · Madinah / Multaqa al-Yawm al-Akhir",
+        "bn": "সৌদি আরব · মদীনা / মুলতাকাল ইয়াওমিল আখির",
+        "ar": "السعودية · المدينة المنورة / ملتقى اليوم الآخر",
+        "ur": "سعودی عرب · مدینہ منورہ / ملتقی الیوم الآخر"
+      },
+      "title": {
+        "en": "Scenes of Qiyamah, Intercessors & Signs of the Hour (Riyadh/Madinah Symposium)",
+        "bn": "কিয়ামতের দৃশ্য, শাফায়াতকারীগণ ও আশরাতুস সা‘আহ (মুলতাকা সিরিজ)",
+        "ar": "مشاهد يوم القيامة، الشفعاء وأشراط الساعة (ملتقى اليوم الآخر)",
+        "ur": "مناظرِ قیامت، شفعاء اور اشراط الساعۃ (ملتقی الیوم الآخر)"
+      },
+      "desc": {
+        "en": "Eloquent Madinan reflections by Shaykh al-Maghamsi on Surah al-Waqi'ah, al-Mahdi, and Intercession alongside Shaykh al-Munajjid's structured Riyadh conference lecture on Signs of the Hour.",
+        "bn": "সূরা আল-ওয়াকিয়াহ, মাহদী ও শাফায়াত নিয়ে শাইখ আল-মাগামসীর হৃদয়গ্রাহী আলোচনা এবং রিয়াদ সম্মেলনে শাইখ আল-মুনাজ্জিদের ‘আশরাতুস সা‘আহ’ মূল প্রবন্ধ।",
+        "ar": "تأملات الشيخ المغامسي في سورة الواقعة والشفعاء يوم القيامة والمهدي، مع محاضرة الشيخ المنجد المنهجية في «ملتقى اليوم الآخر».",
+        "ur": "سورۃ الواقعۃ، شفعاء اور امام مہدی پر شیخ المغامسی کے پرمغز بیانات اور ملتقی الیوم الآخر میں شیخ المنجد کا منظم لیکچر۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2: High-caliber Saudi scholarly eloquence grounded in canonical hadith sources and classical exegesis.",
+        "bn": "স্তর ২: প্রামাণ্য হাদীস ও ধ্রুপদী তাফসীরভিত্তিক উচ্চমানের আরবি বয়ান।",
+        "ar": "المستوى ٢: بيان علمي رفيع مستند إلى الصحيحين وأقوال أئمة التفسير.",
+        "ur": "درجہ ۲: صحیحین اور ائمۂ تفسیر کے اقوال پر مبنی اعلیٰ علمی خطابات۔"
+      },
+      "relatedBooks": [
+        39,
+        95,
+        164
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Shaykh al-Munajjid: Ashrat al-Sa'ah",
+            "bn": "আল-মুনাজ্জিদ: আশরাতুস সা‘আহ",
+            "ar": "المنجد: أشراط الساعة (يوتيوب)",
+            "ur": "المنجد: اشراط الساعۃ (یوٹیوب)"
+          },
+          "url": "https://www.youtube.com/watch?v=MSo4ypgQfpc",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "249 Arabic Akhirah Lectures (Archive)",
+            "bn": "২৪৯টি আরবি আখিরাত লেকচার",
+            "ar": "٢٤٩ محاضرة عن الموت والآخرة",
+            "ur": "۲۴۹ عربی آخرت لیکچرز"
+          },
+          "url": "https://archive.org/details/Islamic_Tape-156_uP_bY_mUSLEm",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Al-Maghamsi Video Archive",
+            "bn": "আল-মাগামসী ভিডিও আর্কাইভ",
+            "ar": "أرشيف مقاطع المغامسي · Archive",
+            "ur": "المغامسی ویڈیو آرکائیو"
+          },
+          "url": "https://archive.org/details/3_____----1000------video---bokaa---and--------mqate3----bakeiah----moatherah-",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L28",
+      "lang": "ar",
+      "tier": "tier2_3",
+      "format": "video",
+      "topics": [
+        "signs",
+        "dajjal",
+        "fitan",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Dr. Yusuf al-Wabil (Audiobook), Shaykh Muhammad Hassan & Dr. Muhammad al-Arifi",
+        "bn": "ড. ইউসুফ আল-ওয়াবিল (অডিওবুক), শাইখ মুহাম্মদ হাসান ও ড. আরীফী",
+        "ar": "د. يوسف الوابل (مسموع) والشيخ محمد حسان ود. محمد العريفي",
+        "ur": "دکتور یوسف الوابل (آڈیو بک)، شیخ محمد حسان اور دکتور عریفی"
+      },
+      "region": {
+        "en": "Saudi Arabia & Egypt · Flagship Arabic Series & Audiobook",
+        "bn": "সৌদি আরব ও মিসর · পূর্ণাঙ্গ অডিওবুক ও ২৯ পর্বের ভিডিও সিরিজ",
+        "ar": "السعودية ومصر · الكتاب المسموع والسلاسل المرئية الكبرى",
+        "ur": "سعودی عرب و مصر · آڈیو بک اور ۲۹ اقساط کی ویڈیو سیریز"
+      },
+      "title": {
+        "en": "Ashrat al-Sa'ah Audiobook, Ahdath al-Nihayah & Nihayat al-Alam (29 Eps.)",
+        "bn": "আশরাতুস সা‘আহ অডিওবুক, আহদাসুন নিহায়াহ ও নিহায়াতুল আলাম (২৯ পর্ব)",
+        "ar": "أشراط الساعة (كتاب مسموع)، أحداث النهاية وبرنامج نهاية العالم (٢٩ حلقة)",
+        "ur": "اشراط الساعۃ آڈیو بک، احداث النہایہ اور نہایۃ العالم (۲۹ اقساط)"
+      },
+      "desc": {
+        "en": "Unites three landmark Arabic multimedia resources: Dr. al-Wabil's 14-part audiobook (Tier 2), Shaykh Muhammad Hassan's IslamWay collection, and Dr. al-Arifi's 29-episode Ramadan television series.",
+        "bn": "তিনটি প্রসিদ্ধ আরবি মাল্টিমিডিয়া উৎস একত্রে: ড. আল-ওয়াবিলের ১৪ পর্বের অডিওবুক (স্তর ২), শাইখ মুহাম্মদ হাসানের ‘আহদাসুন নিহায়াহ’ এবং ড. আরীফীর ২৯ পর্বের ‘নিহায়াতুল আলাম’।",
+        "ar": "تجمع ثلاث ركائز سمعية ومرئية: الكتاب المسموع للدكتور الوابل (١٤ جزءاً)، وسلسلة أحداث النهاية لمحمد حسان، وبرنامج نهاية العالم للعريفي (٢٩ حلقة).",
+        "ur": "تین معروف عربی ملٹی میڈیا ذرائع یکجا: دکتور الوابل کی ۱۴ حصوں پر مشتمل آڈیو بک (درجہ ۲)، شیخ محمد حسان کا سلسلہ اور دکتور عریفی کی ۲۹ اقساط کی سیریز۔"
+      },
+      "verifyNote": {
+        "en": "Tier 2-3: Dr. al-Wabil's audiobook is strict Tier-2 hadith research; Dr. al-Arifi's and Shaykh Hassan's television series include visual/contemporary applications that should be checked against primary texts.",
+        "bn": "স্তর ২-৩: ড. ওয়াবিলের অডিওবুক বিশুদ্ধ স্তর-২ হাদীস গবেষণা; ড. আরীফী ও শাইখ হাসানের টিভি সিরিজে কিছু সমকালীন প্রয়োগ রয়েছে যা মূল উৎসে যাচাই করে নিতে হবে।",
+        "ar": "المستوى ٢-٣: كتاب الوابل المسموع توثيق حديثي رصين (مستوى ٢)، بينما تتضمن السلاسل التلفزيونية بعض التطبيقات والصور المعاصرة التي تحتاج مراجعة.",
+        "ur": "درجہ ۲-۳: دکتور الوابل کی آڈیو بک مستند حدیثی تحقیق ہے (درجہ ۲)، جبکہ ٹی وی پروگرامز کی بعض عصری تطبیقات کی اصل نصوص سے تحقیق ضروری ہے۔"
+      },
+      "relatedBooks": [
+        93,
+        117,
+        166
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Al-Wabil Audiobook (IslamHouse)",
+            "bn": "আল-ওয়াবিল অডিওবুক (IslamHouse)",
+            "ar": "أشراط الساعة مسموع (إسلام هاوس)",
+            "ur": "الوابل آڈیو بک (اسلام ہاؤس)"
+          },
+          "url": "https://islamhouse.com/ar/audios/425012/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Ahdath al-Nihayah (IslamWay)",
+            "bn": "আহদাসুন নিহায়াহ (IslamWay)",
+            "ar": "أحداث النهاية (طريق الإسلام)",
+            "ur": "احداث النہایہ (طریق الاسلام)"
+          },
+          "url": "https://ar.islamway.net/collection/4693/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Nihayat al-Alam 29 Eps (Archive)",
+            "bn": "নিহায়াতুল আলাম ২৯ পর্ব",
+            "ar": "نهاية العالم ٢٩ حلقة · Archive",
+            "ur": "نہایۃ العالم ۲۹ اقساط"
+          },
+          "url": "https://archive.org/details/Nihayat_Al3alam",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L29",
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Muhammad Saleh Pardel",
+        "bn": "শাইখ মুহাম্মদ সালিহ পারদিল",
+        "ar": "الشيخ محمد صالح پردل",
+        "ur": "شیخ محمد صالح پردل",
+        "fa": "شیخ محمد صالح پردل"
+      },
+      "region": {
+        "en": "Iran / Persian-Speaking Sunni World · Official YouTube Archive",
+        "bn": "ইরান / ফারসিভাষী সুন্নী বিশ্ব · অফিসিয়াল ইউটিউব",
+        "ar": "إيران / العالم الفارسي السني · دروس مصورة",
+        "ur": "ایران / فارسی سنی دنیا · آفیشل یوٹیوب",
+        "fa": "ایران / جهان فارسی‌زبان اهل سنت · آرشیو رسمی سخنرانی‌ها"
+      },
+      "title": {
+        "en": "Neshaneh-haye Qiyamat (Minor & Major Signs), Fitna-ye Dajjal & Events of the Last Day",
+        "bn": "নেশানেহ-হায়ে কিয়ামাত (ছোট-বড় আলামত), ফিতনায়ে দাজ্জাল ও শেষ দিবসের ঘটনা",
+        "ar": "علامات الساعة الصغرى والكبرى وفتنة الدجال وأهوال القيامة (بالفارسية)",
+        "ur": "نشانہائے قیامت، فتنۂ دجال اور احوالِ قیامت (فارسی بیانات)",
+        "fa": "نشانه‌های کوچک و بزرگ قیامت، فتنه دجال و احوال روز رستاخیز (سخنرانی‌های فارسی)"
+      },
+      "desc": {
+        "en": "Most widely heard contemporary Persian Sunni lectures covering authentic Minor Signs, the emergence of al-Masih al-Dajjal, the agonies of death, and preparation for Qiyamah.",
+        "bn": "ফারসিভাষী সুন্নী মুসলিমদের মাঝে সর্বাধিক শ্রুত সমকালীন বক্তার ধারাবাহিক বয়ান: কিয়ামতের ছোট ও বড় আলামত, দাজ্জালের ফিতনা, মৃত্যু ও আখিরাতের প্রস্তুতি।",
+        "ar": "من أشهر المحاضرات السنية المعاصرة باللغة الفارسية حول أشراط الساعة الصغرى والكبرى وفتنة الدجال والاستعداد للقيامة.",
+        "ur": "فارسی سنی دنیا کے مقبول ترین معاصر خطیب کے بیانات: علاماتِ قیامت، فتنۂ دجال اور آخرت کی تیاری۔",
+        "fa": "از پرمخاطب‌ترین سخنرانی‌های فارسی اهل سنت درباره نشانه‌های کوچک و بزرگ قیامت، ظهور دجال، عالم برزخ و آمادگی ایمانی برای رستاخیز."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Anchored in Qur'an, Sahih al-Bukhari, Sahih Muslim, and mainstream Sunni creed manuals; verify individual stories for academic citation.",
+        "bn": "স্তর ২: কুরআন, সহীহ বুখারী-মুসলিম ও মূলধারার সুন্নী আকীদার ওপর প্রতিষ্ঠিত।",
+        "ar": "المستوى ٢: يرتكز على الكتاب والصحيحين وعقيدة أهل السنة مع التحقق من بعض القصص الوعظية عند التوثيق.",
+        "ur": "درجہ ۲: قرآن، صحیحین اور معتدل عقیدۂ اہلِ سنت پر مبنی۔",
+        "fa": "سطح ۲: مبتنی بر قرآن، صحیح بخاری و مسلم و عقیده معتبر اهل سنت؛ برای استناد پژوهشی، سند داستان‌های وعظی را در منبع اصلی بررسی کنید."
+      },
+      "relatedBooks": [
+        171,
+        172,
+        175
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Major Signs of Qiyamah (YouTube FA)",
+            "bn": "বড় আলামত বয়ান (ফারসি)",
+            "ar": "العلامات الكبرى · يوتيوب",
+            "ur": "علاماتِ کبریٰ (فارسی)",
+            "fa": "نشانه‌های بزرگ قیامت · یوتیوب"
+          },
+          "url": "https://www.youtube.com/watch?v=qVi5RypmYz4",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Minor Signs & Modern Era (FA)",
+            "bn": "ছোট আলামত (ফারসি)",
+            "ar": "العلامات الصغرى · يوتيوب",
+            "ur": "علاماتِ صغریٰ (فارسی)",
+            "fa": "نشانه‌های کوچک قیامت · یوتیوب"
+          },
+          "url": "https://www.youtube.com/watch?v=DlDUBIqxdz0",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Events of the Hour & Dajjal (FA)",
+            "bn": "দাজ্জাল ও কিয়ামত (ফারসি)",
+            "ar": "الدجال وأحداث الساعة",
+            "ur": "دجال اور احوالِ قیامت",
+            "fa": "احوال قیامت و فتنه دجال"
+          },
+          "url": "https://www.youtube.com/watch?v=0O7Z-HNHFEc",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L30",
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Muhammad Saleh Ziaei (rahimahullah)",
+        "bn": "শাইখ মুহাম্মদ সালিহ যিয়ায়ী (রহ.)",
+        "ar": "الشيخ محمد صالح ضيائي (رحمه الله)",
+        "ur": "شیخ محمد صالح ضیائیؒ",
+        "fa": "شیخ محمد صالح ضیائی (رحمه‌الله)"
+      },
+      "region": {
+        "en": "Iran / Southern Persian Sunni Scholars · Classic Lectures",
+        "bn": "ইরান · প্রখ্যাত ফারসি সুন্নী আলেম ও মুফাসসির",
+        "ar": "إيران · من كبار علماء أهل السنة في فارس",
+        "ur": "ایران · اہلِ سنت کے نامور فارسی عالم",
+        "fa": "ایران / جنوب کشور · دروس ماندگار شیخ ضیائی"
+      },
+      "title": {
+        "en": "Neshaneh-haye Qiyamat, Azab-e Qabr & Iman beh Rooz-e Akhirat (Classic Farsi Series)",
+        "bn": "নেশানেহ-হায়ে কিয়ামাত, কবরের আযাব ও আখিরাতের প্রতি ঈমান (ফারসি দরস)",
+        "ar": "أشراط الساعة وعذاب القبر والإيمان بالآخرة (دروس الشيخ ضيائي)",
+        "ur": "نشانہائے قیامت، عذابِ قبر اور ایمان بالآخرت (شیخ ضیائی)",
+        "fa": "نشانه‌های قیامت، احوال قبر و ایمان به روز آخرت (مجموعه دروس فارسی)"
+      },
+      "desc": {
+        "en": "Classic, deeply scholarly Persian lectures by Shaykh Muhammad Saleh Ziaei on the authentic Signs of Qiyamah, Barzakh realities, and Qur'anic warnings about Resurrection.",
+        "bn": "শাইখ মুহাম্মদ সালিহ যিয়ায়ী (রহ.)-এর ধ্রুপদী ও প্রামাণ্য ফারসি দরস: কিয়ামতের আলামত, বারযাখের বাস্তবতা ও কুরআনী সতর্কবার্তা।",
+        "ar": "دروس فارسية علمية رصينة للشيخ محمد صالح ضيائي في أشراط الساعة وحقائق البرزخ وآيات البعث.",
+        "ur": "شیخ محمد صالح ضیائیؒ کے مستند فارسی دروس: علاماتِ قیامت، برزخ اور قرآنی تنبیہات۔",
+        "fa": "سخنرانی‌ها و دروس ماندگار و مستند شیخ محمد صالح ضیائی درباره نشانه‌های قیامت، عالم برزخ و بیداری قلب در برابر آخرت."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Grounded in classical Sunni hadith and tafsir methodology, widely archived across Persian Sunni libraries.",
+        "bn": "স্তর ২: ধ্রুপদী সুন্নী হাদীস ও তাফসীর মূলনীতির ওপর প্রতিষ্ঠিত প্রামাণ্য ফারসি আলোচনা।",
+        "ar": "المستوى ٢: منهج علمي سني أصيل مستند إلى القرآن والحديث الصحيح.",
+        "ur": "درجہ ۲: قرآن و حدیث کے مستند سنی منہج پر مبنی علمی بیانات۔",
+        "fa": "سطح ۲: مبتنی بر اصول معتبر تفسیر و حدیث اهل سنت و محفوظ در آرشیوهای فارسی."
+      },
+      "relatedBooks": [
+        171,
+        175,
+        176
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Signs of Qiyamah Lecture 1 (FA)",
+            "bn": "কিয়ামতের আলামত পর্ব ১",
+            "ar": "أشراط الساعة ١ · يوتيوب",
+            "ur": "علاماتِ قیامت درس ۱",
+            "fa": "نشانه‌های قیامت · بخش ۱"
+          },
+          "url": "https://www.youtube.com/watch?v=FD1OZhiPpJA",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Qiyamah & Akhirah Talk 2 (FA)",
+            "bn": "কিয়ামত ও আখিরাত পর্ব ২",
+            "ar": "القيامة والآخرة ٢ · يوتيوب",
+            "ur": "قیامت اور آخرت درس ۲",
+            "fa": "احوال قیامت و آخرت · بخش ۲"
+          },
+          "url": "https://www.youtube.com/watch?v=f3jGY63rhIM",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "IslamHouse Farsi Audio Signs",
+            "bn": "ইসলামহাউস ফারসি অডিও",
+            "ar": "صوتيات أشراط الساعة · فارسي",
+            "ur": "اسلام ہاؤس فارسی آڈیو",
+            "fa": "صوتیات نشانه‌های قیامت · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/category/398206/audios/fa/1",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L31",
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "afterlife",
+        "fitan",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Mawlana Abdul Hamid (Darul Uloom Zahedan)",
+        "bn": "মাওলানা আব্দুল হামীদ (দারুল উলূম যাহেদান)",
+        "ar": "مولانا عبد الحميد (دار العلوم زاهدان)",
+        "ur": "مولانا عبدالحمید (دارالعلوم زاہدان)",
+        "fa": "مولانا عبدالحمید (دارالعلوم زاهدان)"
+      },
+      "region": {
+        "en": "Iran · Friday Khutbahs of Grand Makki Mosque, Zahedan",
+        "bn": "ইরান · জামে মসজিদ মক্কী, যাহেদান (জুমার খুতবা)",
+        "ar": "إيران · خطب الجمعة من الجامع المكي بزاهدان",
+        "ur": "ایران · جامع مسجد مکی زاہدان (خطباتِ جمعہ)",
+        "fa": "ایران · خطبه‌های جمعه مسجد جامع مکی زاهدان"
+      },
+      "title": {
+        "en": "Fikr-e Akhirat, Preparation for Death & Navigating End-Times Fitan (Persian Sermons)",
+        "bn": "ফিকরে আখিরাত, মৃত্যুর প্রস্তুতি ও ফিতনার যুগে ঈমান রক্ষা (ফারসি খুতবা)",
+        "ar": "الاستعداد للآخرة والموت والثبات في زمن الفتن (خطب فارسية)",
+        "ur": "فکرِ آخرت، موت کی تیاری اور دورِ فتن میں استقامت (فارسی خطبات)",
+        "fa": "فکر آخرت، آمادگی برای مرگ و پایداری ایمان در عصر فتنه‌ها (خطبه‌های فارسی)"
+      },
+      "desc": {
+        "en": "Measured Persian Friday sermons by the foremost contemporary Sunni leader in Iran emphasizing Akhirah consciousness, justice, repentance, and staying grounded in Qur'an and Sunnah during tribulations.",
+        "bn": "ইরানের শীর্ষস্থানীয় সুন্নী আলেম মাওলানা আব্দুল হামীদের প্রজ্ঞাপূর্ণ ফারসি জুমার খুতবা: আখিরাত-সচেতনতা, তাওবা এবং ফিতনার যুগে কুরআন-সুন্নাহ আঁকড়ে ধরা।",
+        "ar": "خطب جمعة فارسية رصينة لأبرز علماء أهل السنة في إيران حول استحضار الآخرة والتوبة والتمسك بالكتاب والسنة وسط الفتن.",
+        "ur": "ایران کے ممتاز سنی عالم مولانا عبدالحمید کے حکمت بھرے فارسی خطباتِ جمعہ: فکرِ آخرت، توبہ اور فتنوں میں ثابت قدمی۔",
+        "fa": "خطبه‌های متین و حکیمانه فارسی از برجسته‌ترین عالم اهل سنت ایران پیرامون یاد آخرت، توبه، عدالت و تمسک به قرآن و سنت در روزگار فتنه‌ها."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Mainstream Deobandi/Sunni scholarly preaching emphasizing spiritual reform and Qur'anic ethics.",
+        "bn": "স্তর ২: মূলধারার প্রাজ্ঞ সুন্নী আলেমের আত্মিক পরিশুদ্ধি ও কুরআনী নৈতিকতাভিত্তিক খুতবা।",
+        "ar": "المستوى ٢: خطاب علمي وتربوي معتدل يركز على الإصلاح الإيماني والأخلاق القرآنية.",
+        "ur": "درجہ ۲: معتدل سنی علمی و اصلاحی خطبات جو قرآن و سنت کی اخلاقیات پر مرکوز ہیں۔",
+        "fa": "سطح ۲: خطبه‌های معتدل، علمی و اصلاحی اهل سنت با محوریت قرآن، سنت و بیداری معنوی."
+      },
+      "relatedBooks": [
+        172,
+        179,
+        180
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Akhirah & Preparation Sermon (FA)",
+            "bn": "আখিরাতের প্রস্তুতি খুতবা",
+            "ar": "خطبة الاستعداد للآخرة",
+            "ur": "آخرت کی تیاری (خطبہ)",
+            "fa": "سخنرانی فکر آخرت · یوتیوب"
+          },
+          "url": "https://www.youtube.com/watch?v=rg5-SyUjTDo",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Official Channel (AbdolhamidNet)",
+            "bn": "অফিসিয়াল চ্যানেল",
+            "ar": "القناة الرسمية",
+            "ur": "آفیشل چینل",
+            "fa": "کانال رسمی (AbdolhamidNet)"
+          },
+          "url": "https://www.youtube.com/c/AbdolhamidNet",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L32",
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "tier": "tier2",
+      "format": "tafsir",
+      "topics": [
+        "afterlife",
+        "dajjal",
+        "signs"
+      ],
+      "speaker": {
+        "en": "Dr. Mustafa Khorramdel (Tafsir Noor Archive)",
+        "bn": "ড. মুস্তাফা খুররমদিল (তাফসীরে নূর)",
+        "ar": "الدكتور مصطفى خرمدل (تفسير نور)",
+        "ur": "ڈاکٹر مصطفیٰ خرمدل (تفسیرِ نور)",
+        "fa": "دکتر مصطفی خرمدل (تفسیر نور)"
+      },
+      "region": {
+        "en": "Iran / Persian & Tajik World · Qur'anic Exegesis",
+        "bn": "ইরান / ফারসি ও তাজিক বিশ্ব · কুরআনী তাফসীর",
+        "ar": "إيران وآسيا الوسطى · التفسير القرآني المعاصر",
+        "ur": "ایران و تاجکستان · قرآنی تفسیر",
+        "fa": "ایران، افغانستان و تاجیکستان · مرجع تفسیر قرآن"
+      },
+      "title": {
+        "en": "Tafsir Noor: Exegesis of Surah al-Kahf, al-Qiyamah, al-Waqi'ah & Ma'ad",
+        "bn": "তাফসীরে নূর: সূরা আল-কাহফ, আল-কিয়ামাহ, আল-ওয়াকিয়াহ ও মা‘আদের ব্যাখ্যা",
+        "ar": "تفسير نور: شرح سور الكهف والقيامة والواقعة وآيات المعاد بالفارسية",
+        "ur": "تفسیر نور: سورۃ الکہف، القیامۃ، الواقعۃ اور آیاتِ معاد (فارسی)",
+        "fa": "تفسیر نور: تبیین سوره‌های کهف، قیامت، واقعه و آیات معاد و آخرت"
+      },
+      "desc": {
+        "en": "Complete accessible Persian Sunni tafsir archive explaining every Qur'anic passage on Resurrection, cosmic upheaval, Dhul-Qarnayn & Ya'juj-Ma'juj, and eternal reward.",
+        "bn": "পুনরুত্থান, মহাজাগতিক পরিবর্তন, যুল-কারনাইন ও ইয়াজূজ-মাজূজ এবং চিরস্থায়ী প্রতিদানবিষয়ক সকল কুরআনী আয়াতের প্রাঞ্জল ফারসি তাফসীর।",
+        "ar": "التفسير الفارسي السني الميسّر لآيات البعث والقيامة وسورة الكهف وذي القرنين ويأجوج ومأجوج.",
+        "ur": "حشر، قیامت، ذوالقرنین اور یاجوج و ماجوج سے متعلق تمام قرآنی آیات کی آسان فارسی تفسیر۔",
+        "fa": "آرشیو کامل تفسیر روان «نور» در شرح آیات قیامت، معاد، داستان ذوالقرنین و یاجوج و ماجوج و احوال بهشت و دوزخ."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Standard contemporary Sunni Persian tafsir valued across Iran, Afghanistan (Dari), and Tajikistan.",
+        "bn": "স্তর ২: ইরান, আফগানিস্তান (দারি) ও তাজিকিস্তানজুড়ে সমাদৃত প্রামাণ্য সুন্নী তাফসীর।",
+        "ar": "المستوى ٢: من أوسع التفاسير السنية الفارسية انتشاراً واعتماداً.",
+        "ur": "درجہ ۲: ایران، افغانستان اور تاجکستان میں مقبول معتبر سنی تفسیر۔",
+        "fa": "سطح ۲: معتبرترین تفسیر روان اهل سنت به زبان فارسی مورد استفاده در ایران، افغانستان و تاجیکستان."
+      },
+      "relatedBooks": [
+        179,
+        171,
+        173
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Tafsir Noor Portal (Aqeedeh)",
+            "bn": "তাফসীরে নূর (Aqeedeh)",
+            "ar": "تفسير نور · عقيدة",
+            "ur": "تفسیر نور · عقیدہ",
+            "fa": "آرشیو تفسیر نور · عقیده"
+          },
+          "url": "https://aqeedeh.com/book/view/736",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L33",
+      "lang": "fa",
+      "langLabel": "فارسی · دری",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife",
+        "dajjal"
+      ],
+      "speaker": {
+        "en": "IslamHouse Farsi & Dari Scholars (Audio/Video Portal)",
+        "bn": "ইসলামহাউস ফারসি ও দারি আলেমবৃন্দ (অডিও ও ভিডিও)",
+        "ar": "علماء إسلام هاوس بالفارسية والدرية (صوتيات ومرئيات)",
+        "ur": "اسلام ہاؤس فارسی و دری علماء (آڈیو و ویڈیو)",
+        "fa": "علمای اسلام‌هاوس فارسی و دری (آرشیو صوتی و تصویری)"
+      },
+      "region": {
+        "en": "Iran, Afghanistan (Dari) & Tajikistan · IslamHouse Persian",
+        "bn": "ইরান, আফগানিস্তান (দারি) ও তাজিকিস্তান",
+        "ar": "إيران وأفغانستان (الدرية) وطاجيكستان",
+        "ur": "ایران، افغانستان (دری) اور تاجکستان",
+        "fa": "ایران، افغانستان (دری) و تاجیکستان · آرشیو صوتی اسلام‌هاوس"
+      },
+      "title": {
+        "en": "Iman beh Rooz-e Akhirat & Neshaneh-haye Qiyamat (Verified Farsi/Dari Audios)",
+        "bn": "ঈমান বেহ রোযে আখিরাত ও কিয়ামতের আলামত (ফারসি/দারি অডিও লাইব্রেরি)",
+        "ar": "الإيمان باليوم الآخر وأشراط الساعة (مكتبة الصوتيات الفارسية)",
+        "ur": "ایمان بالآخرت اور نشانِ قیامت (فارسی و دری آڈیو لائبریری)",
+        "fa": "مجموعه صوتی و تصویری ایمان به روز آخرت، نشانه‌های قیامت و برزخ (فارسی و دری)"
+      },
+      "desc": {
+        "en": "Vetted Persian & Dari audio/video library covering the Minor and Major Signs, Dajjal, the grave, Resurrection, and Jannah, directly downloadable in MP3.",
+        "bn": "ইসলামহাউস সম্পাদনা পর্ষদ কর্তৃক যাচাইকৃত ফারসি ও দারি অডিও-ভিডিও সংগ্রহ: ছোট-বড় আলামত, দাজ্জাল, কবর, হাশর ও জান্নাত।",
+        "ar": "مكتبة صوتية ومرئية مراجَعة بالفارسية والدرية لأشراط الساعة والدجال والقبر والبعث والجنة.",
+        "ur": "اسلام ہاؤس کے علمی بورڈ سے مراجعہ شدہ فارسی و دری آڈیو و ویڈیو دروس کا ذخیرہ۔",
+        "fa": "کتابخانه صوتی و تصویری بررسی‌شده به زبان فارسی و دری شامل دروس نشانه‌های ساعت، دجال، قبر، حشر و بهشت."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Scholar-reviewed IslamHouse Persian/Dari collection grounded in canonical Sunni sources.",
+        "bn": "স্তর ২: ইসলামহাউস ফারসি শরীআহ বোর্ড কর্তৃক যাচাইকৃত প্রামাণ্য সংগ্রহ।",
+        "ar": "المستوى ٢: مراجَع ومعتمد ضمن مكتبة إسلام هاوس الفارسية.",
+        "ur": "درجہ ۲: اسلام ہاؤس فارسی علمی بورڈ سے تصدیق شدہ۔",
+        "fa": "سطح ۲: بازبینی و تأیید شده توسط هیئت علمی فارسی اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        171,
+        178,
+        180
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Akhirah Portal · IslamHouse FA",
+            "bn": "আখিরাত বিভাগ · ফারসি",
+            "ar": "اليوم الآخر · إسلام هاوس",
+            "ur": "آخرت سیکشن · فارسی",
+            "fa": "بخش ایمان به آخرت · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/category/422718/showall/showall/1/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Signs MP3 Audios · FA",
+            "bn": "আলামত অডিও · ফারসি",
+            "ar": "صوتيات الأشراط · فارسي",
+            "ur": "علامات آڈیو · فارسی",
+            "fa": "صوتیات نشانه‌های قیامت"
+          },
+          "url": "https://islamhouse.com/fa/category/398206/audios/fa/1",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L34",
+      "lang": "global",
+      "langLabel": "پښتو (Pashto)",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Abdur Rahim Sultan & IslamHouse Pashto Scholars",
+        "bn": "শাইখ আব্দুর রহীম সুলতান ও ইসলামহাউস পশতু আলেমবৃন্দ",
+        "ar": "الشيخ عبد الرحيم سلطان وعلماء إسلام هاوس بالبشتو",
+        "ur": "شیخ عبدالرحیم سلطان اور اسلام ہاؤس پشتو علماء",
+        "fa": "شیخ عبدالرحیم سلطان و علمای اسلام‌هاوس پشتو"
+      },
+      "region": {
+        "en": "Afghanistan & Pashtun Region · IslamHouse Pashto",
+        "bn": "আফগানিস্তান ও পশতুন অঞ্চল · পশতু অডিও/ভিডিও",
+        "ar": "أفغانستان · مكتبة البشتو الصوتية والمرئية",
+        "ur": "افغانستان اور خیبر · پشتو آڈیو و ویڈیو",
+        "fa": "افغانستان · مجموعه صوتی و تصویری پشتو"
+      },
+      "title": {
+        "en": "Da Qiyamat Neshani & Da Qabr Imtihan (Pashto Audio & Video Series)",
+        "bn": "দা কিয়ামাত নেশানী ও কবরের পরীক্ষা (পশতু অডিও ও ভিডিও সিরিজ)",
+        "ar": "علامات القيامة وامتحان القبر والإيمان بالآخرة (بالبشتو)",
+        "ur": "د قیامت نښې او د قبر امتحان (پشتو آڈیو و ویڈیو)",
+        "fa": "نشانه‌های قیامت و امتحان قبر به زبان پشتو (صوتی و تصویری)"
+      },
+      "desc": {
+        "en": "Verified Pashto audio and video lectures covering Belief in the Last Day, Minor & Major Signs of Qiyamah, the trial of the grave, and eternal accountability.",
+        "bn": "পশতু ভাষায় শেষ দিবসের প্রতি ঈমান, কিয়ামতের ছোট-বড় আলামত, কবরের পরীক্ষা ও আখিরাতের জবাবদিহি বিষয়ে যাচাইকৃত অডিও ও ভিডিও সিরিজ।",
+        "ar": "سلسلة صوتية ومرئية موثقة بلغة البشتو حول الإيمان بالآخرة وعلامات القيامة وامتحان القبر.",
+        "ur": "پشتو زبان میں ایمان بالآخرت، علاماتِ قیامت اور امتحانِ قبر پر مستند آڈیو اور ویڈیو دروس۔",
+        "fa": "مجموعه صوتی و تصویری مستند به زبان پشتو درباره ایمان به آخرت، نشانه‌های قیامت و عذاب قبر."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Vetted by IslamHouse Pashto scholarly editors using canonical Qur'an and Sunnah references.",
+        "bn": "স্তর ২: ইসলামহাউস পশতু সম্পাদনা পর্ষদ কর্তৃক যাচাইকৃত।",
+        "ar": "المستوى ٢: مراجَع ومعتمد ضمن مكتبة إسلام هاوس بالبشتو.",
+        "ur": "درجہ ۲: اسلام ہاؤس پشتو علمی بورڈ سے مراجعہ شدہ۔",
+        "fa": "سطح ۲: بررسی‌شده توسط بخش علمی پشتوی اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        192,
+        171
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Pashto Akhirah Lectures",
+            "bn": "পশতু আখিরাত লেকচার",
+            "ar": "محاضرات الآخرة · البشتو",
+            "ur": "پشتو آخرت بیانات",
+            "fa": "دروس آخرت · پشتو"
+          },
+          "url": "https://islamhouse.com/ps/category/422718/showall/showall/1/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L35",
+      "lang": "global",
+      "langLabel": "Bahasa Indonesia",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife",
+        "gog_magog"
+      ],
+      "speaker": {
+        "en": "Ustadz Dr. Khalid Basalamah, Lc., M.A.",
+        "bn": "উস্তায ড. খালিদ বাসালামাহ (ইন্দোনেশিয়া)",
+        "ar": "الأستاذ الدكتور خالد باسلامة (إندونيسيا)",
+        "ur": "استاد ڈاکٹر خالد باسلامہ (انڈونیشیا)",
+        "fa": "استاد دکتر خالد باسلامه (اندونزی)"
+      },
+      "region": {
+        "en": "Indonesia & Malaysia · Madinah University Alumnus",
+        "bn": "ইন্দোনেশিয়া ও মালয়েশিয়া · মদীনা বিশ্ববিদ্যালয়",
+        "ar": "إندونيسيا وماليزيا · خريج الجامعة الإسلامية بالمدينة",
+        "ur": "انڈونیشیا و ملائیشیا · جامعہ اسلامیہ مدینہ",
+        "fa": "اندونزی و مالزی · دانش‌آموخته دانشگاه اسلامی مدینه"
+      },
+      "title": {
+        "en": "Kajian Tanda-Tanda Hari Kiamat (Kecil & Besar), Dajjal & Ya'juj Ma'juj (Bahasa Indonesia)",
+        "bn": "কাজিয়ান তান্দা-তান্দা হারি কিয়ামাত, দাজ্জাল ও ইয়াজূজ-মাজূজ (বাহাসা ইন্দোনেশিয়া)",
+        "ar": "سلسلة محاضرات أشراط الساعة الصغرى والكبرى والدجال (بالإندونيسية)",
+        "ur": "علاماتِ قیامت، دجال اور یاجوج و ماجوج پر دروس (بھاشا انڈونیشیا)",
+        "fa": "مجموعه دروس نشانه‌های کوچک و بزرگ قیامت و دجال (به زبان اندونزیایی)"
+      },
+      "desc": {
+        "en": "Systematic Bahasa Indonesia study series (also widely understood in Malaysia & Brunei) teaching classical Sunni texts on Minor & Major Signs of the Hour, al-Dajjal, and al-Mahdi.",
+        "bn": "ইন্দোনেশিয়া, মালয়েশিয়া ও ব্রুনাইয়ের শ্রোতাদের জন্য ধ্রুপদী হাদীসগ্রন্থভিত্তিক কিয়ামতের ছোট-বড় আলামত, দাজ্জাল ও মাহদীর সুবিন্যস্ত ভিডিও দরস।",
+        "ar": "دروس إندونيسية منهجية (مفهومة في ماليزيا وبروناي) في شرح أشراط الساعة الصغرى والكبرى والدجال والمهدي.",
+        "ur": "انڈونیشیا اور ملائیشیا کے سامعین کے لیے علاماتِ قیامت، دجال اور مہدی پر منظم ویڈیو دروس۔",
+        "fa": "سلسله دروس منظم به زبان اندونزیایی (قابل استفاده در مالزی و برونئی) درباره نشانه‌های قیامت و دجال."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Systematic chapter-by-chapter teaching anchored in Sahihayn and Dr. Yusuf al-Wabil / classical Sunni works.",
+        "bn": "স্তর ২: সহীহাইন ও ড. ইউসুফ আল-ওয়াবিলের মানহাজ অনুযায়ী অধ্যায়ভিত্তিক প্রামাণ্য পাঠদান।",
+        "ar": "المستوى ٢: تدريس منهجي باباً فباباً وفق الصحيحين وكتب العقيدة الموثقة.",
+        "ur": "درجہ ۲: صحیحین اور مستند کتبِ عقیدہ کے مطابق باب وار تدریس۔",
+        "fa": "سطح ۲: تدریس فصل‌به‌فصل بر پایه صحیحین و منابع معتبر اهل سنت."
+      },
+      "relatedBooks": [
+        183,
+        184,
+        185
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Major Signs of Kiamat (YouTube ID)",
+            "bn": "বড় আলামত (ইন্দোনেশীয়)",
+            "ar": "الأشراط الكبرى · إندونيسي",
+            "ur": "بڑی علامات (انڈونیشیائی)",
+            "fa": "نشانه‌های بزرگ · اندونزیایی"
+          },
+          "url": "https://www.youtube.com/watch?v=vLSXgWOEEfk",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "End-Times Signs & Prep (YouTube ID)",
+            "bn": "কিয়ামতের আলামত ও প্রস্তুতি",
+            "ar": "أشراط الساعة والاستعداد",
+            "ur": "علامات اور تیاری",
+            "fa": "نشانه‌های قیامت و آمادگی"
+          },
+          "url": "https://www.youtube.com/watch?v=V1t5gKQZQGY",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L36",
+      "lang": "global",
+      "langLabel": "Bahasa Indonesia · Melayu",
+      "tier": "tier2",
+      "format": "tafsir",
+      "topics": [
+        "signs",
+        "afterlife",
+        "methodology"
+      ],
+      "speaker": {
+        "en": "Ustadz Dr. Adi Hidayat, Lc., M.A.",
+        "bn": "উস্তায ড. আদি হিদায়াত (ইন্দোনেশিয়া)",
+        "ar": "الأستاذ الدكتور عدي هداية (إندونيسيا)",
+        "ur": "استاد ڈاکٹر عدی ہدایت (انڈونیشیا)",
+        "fa": "استاد دکتر عدی هدایت (اندونزی)"
+      },
+      "region": {
+        "en": "Indonesia & Malaysia · Quantum Akhyar Institute",
+        "bn": "ইন্দোনেশিয়া ও মালয়েশিয়া · কোয়ান্টাম আখইয়ার ইনস্টিটিউট",
+        "ar": "إندونيسيا وماليزيا · معهد كوانتم أخيار",
+        "ur": "انڈونیشیا و ملائیشیا · کوانٹم اخیار انسٹی ٹیوٹ",
+        "fa": "اندونزی و مالزی · مؤسسه کوانتوم اخیار"
+      },
+      "title": {
+        "en": "Tafsir Tanda-Tanda Akhir Zaman, Surah al-Qiyamah & Persiapan Menghadapi Kiamat",
+        "bn": "তাফসীর তান্দা-তান্দা আখির যামান ও কিয়ামতের প্রস্তুতি (ইন্দোনেশীয়/মালয়)",
+        "ar": "التفسير الموضوعي لعلامات آخر الزمان والاستعداد للقيامة (إندونيسي/ملايوي)",
+        "ur": "آخری زمانے کی علامات اور قیامت کی تیاری (قرآنی تفسیر)",
+        "fa": "تفسیر قرآنی نشانه‌های آخرالزمان و آمادگی برای قیامت (اندونزیایی/مالایی)"
+      },
+      "desc": {
+        "en": "Whiteboard-indexed Qur'an and Hadith lectures clarifying authentic Signs of Qiyamah with exact Surah, verse, and hadith book references while refuting end-times sensationalism.",
+        "bn": "হোয়াইটবোর্ডে কুরআনের সূরা-আয়াত ও হাদীস নম্বর উল্লেখপূর্বক গুজবমুক্তভাবে কিয়ামতের আলামত ও প্রস্তুতি ব্যাখ্যাকারী জনপ্রিয় ইন্দোনেশীয়/মালয় লেকচার।",
+        "ar": "دروس منهجية على السبورة تُوثّق أرقام الآيات والأحاديث في أشراط الساعة وتفنّد الشائعات المعاصرة.",
+        "ur": "آیات اور احادیث کے درست حوالوں کے ساتھ علاماتِ قیامت کی وضاحت اور افواہوں کے رد پر مقبول دروس۔",
+        "fa": "دروس منظم قرآنی و حدیثی با ثبت دقیق شماره‌های آیات و روایات و پرهیز از شایعات آخرالزمانی."
+      },
+      "verifyNote": {
+        "en": "Tier 2: High-precision verse/hadith indexing grounded in Qur'anic Arabic and classical Sunni exegesis.",
+        "bn": "স্তর ২: কুরআনী আরবি ও ধ্রুপদী তাফসীরভিত্তিক নির্ভুল তথ্যসূত্রনির্ভর আলোচনা।",
+        "ar": "المستوى ٢: توثيق دقيق للآيات والأحاديث بأسلوب علمي ميسّر.",
+        "ur": "درجہ ۲: آیات و احادیث کے دقیق حوالوں پر مبنی علمی اسلوب۔",
+        "fa": "سطح ۲: دقیق در استناد به آیات قرآن و متون معتبر تفسیری."
+      },
+      "relatedBooks": [
+        183,
+        184,
+        185
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Tanda-Tanda Kiamat Explained (ID)",
+            "bn": "কিয়ামতের আলামত ব্যাখ্যা (ID)",
+            "ar": "شرح علامات القيامة · إندونيسي",
+            "ur": "علاماتِ قیامت تشریح (ID)",
+            "fa": "تبیین نشانه‌های قیامت"
+          },
+          "url": "https://www.youtube.com/watch?v=3mq0P9lSoVM",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Preparation for Akhirah (ID)",
+            "bn": "আখিরাতের প্রস্তুতি (ID)",
+            "ar": "الاستعداد للآخرة · إندونيسي",
+            "ur": "آخرت کی تیاری (ID)",
+            "fa": "آمادگی برای آخرت"
+          },
+          "url": "https://www.youtube.com/watch?v=StTo3mHv8Z4",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L37",
+      "lang": "global",
+      "langLabel": "Türkçe",
+      "tier": "tier2",
+      "format": "video",
+      "topics": [
+        "signs",
+        "fitan",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Nureddin Yıldız Hocaefendi",
+        "bn": "নুরুদ্দীন ইয়িলদিয হোজা (তুরস্ক)",
+        "ar": "الأستاذ نور الدين يلدز (تركيا)",
+        "ur": "نورالدین یلدز (ترکیہ)",
+        "fa": "نورالدین ییلدیز (ترکیه)"
+      },
+      "region": {
+        "en": "Turkey · Sosyal Doku Vakfı (Istanbul)",
+        "bn": "তুরস্ক · সোসাল দোকু ভাকফি (ইস্তাম্বুল)",
+        "ar": "تركيا · وقف سوسيال دوكو (إسطنبول)",
+        "ur": "ترکیہ · سوشل دوکو وقف (استنبول)",
+        "fa": "ترکیه · بنیاد سوسیال دوکو (استانبول)"
+      },
+      "title": {
+        "en": "Ahir Zaman, Kıyamet Alametleri ve Fıtnelere Karşı Mümin Duruşu (Türkçe)",
+        "bn": "আহির যামান, কিয়ামত আলামত ও ফিতনার যুগে মুমিনের অবস্থান (তুর্কি)",
+        "ar": "آخر الزمان وأشراط الساعة وثبات المؤمن أمام الفتن (بالتركية)",
+        "ur": "آخرالزمان، علاماتِ قیامت اور فتنوں میں مومن کا کردار (ترکی)",
+        "fa": "آخرالزمان، نشانه‌های قیامت و پایداری مؤمن در برابر فتنه‌ها (ترکی)"
+      },
+      "desc": {
+        "en": "Widely respected Turkish lectures explaining how believers should understand Signs of the Hour responsibly, reject fear-mongering and false date-setting, and anchor their families in Qur'an and Sunnah.",
+        "bn": "তুরস্কের বহুল সমাদৃত আলেম নুরুদ্দীন ইয়িলদিযের তুর্কি লেকচার: কিয়ামতের আলামত সঠিকভাবে বোঝা, তারিখ-অনুমান বর্জন এবং ফিতনার যুগে পরিবার ও ঈমান রক্ষা।",
+        "ar": "محاضرات تركية رصينة تشرح الفهم السليم لأشراط الساعة وتنبذ التهويل وتحديد المواعيد مع التركيز على بناء الأسرة والإيمان.",
+        "ur": "ترکیہ کے معروف عالم کے ترکی دروس: علاماتِ قیامت کی درست فہم، افواہوں سے اجتناب اور فتنوں میں ایمانی استقامت۔",
+        "fa": "سخنرانی‌های معتبر به زبان ترکی درباره فهم صحیح نشانه‌های قیامت، دوری از خرافات و تقویت ایمان خانواده در عصر فتنه‌ها."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Mainstream Turkish Sunni fiqh and hadith grounding, warning strongly against speculative apocalypticism.",
+        "bn": "স্তর ২: তুরস্কের মূলধারার সুন্নী ফিকহ ও হাদীস-ভিত্তিক প্রাজ্ঞ আলোচনা।",
+        "ar": "المستوى ٢: طرح فقهي وحديثي سني متزن يحذّر من التأويلات المتكلفة.",
+        "ur": "درجہ ۲: معتدل سنی فقہی و حدیثی اسلوب جو غیر مستند قیاس آرائی سے منع کرتا ہے۔",
+        "fa": "سطح ۲: مبتنی بر فقه و حدیث معتبر اهل سنت با پرهیز جدی از تأویل‌های بی‌اساس."
+      },
+      "relatedBooks": [
+        186,
+        187,
+        188
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Kıyamet Alametleri (YouTube TR)",
+            "bn": "কিয়ামতের আলামত (তুর্কি)",
+            "ar": "أشراط الساعة · تركي",
+            "ur": "علاماتِ قیامت (ترکی)",
+            "fa": "نشانه‌های قیامت · ترکی"
+          },
+          "url": "https://www.youtube.com/watch?v=JQnvVcGpiXE",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Ahir Zaman & Fitan (YouTube TR)",
+            "bn": "আখির যামান ও ফিতনা (তুর্কি)",
+            "ar": "آخر الزمان والفتن · تركي",
+            "ur": "آخرالزمان اور فتنے (ترکی)",
+            "fa": "آخرالزمان و فتنه‌ها · ترکی"
+          },
+          "url": "https://www.youtube.com/watch?v=TNH-eaW3luw",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Living for Akhirah (YouTube TR)",
+            "bn": "আখিরাতমুখী জীবন (তুর্কি)",
+            "ar": "الحياة للآخرة · تركي",
+            "ur": "آخرت کی تیاری (ترکی)",
+            "fa": "زندگی برای آخرت · ترکی"
+          },
+          "url": "https://www.youtube.com/watch?v=ZflcGwWV_vg",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L38",
+      "lang": "global",
+      "langLabel": "Français",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "dajjal",
+        "isa",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Fouad Sirbal & Lakhdar Abou Abdillah (IslamHouse Français)",
+        "bn": "ফুয়াদ সিরবাল ও লাখদার আবু আব্দিল্লাহ (ইসলামহাউস ফরাসি)",
+        "ar": "فؤاد سربال ولخضر أبو عبد الله (إسلام هاوس بالفرنسية)",
+        "ur": "فؤاد سربال اور لخضر ابو عبداللہ (اسلام ہاؤس فرانسیسی)",
+        "fa": "فؤاد سربال و لخضر ابوعبدالله (اسلام‌هاوس فرانسوی)"
+      },
+      "region": {
+        "en": "Francophone World & West Africa (Senegal, Mali, Niger, Guinea)",
+        "bn": "ফরাসিভাষী বিশ্ব ও পশ্চিম আফ্রিকা (সেনেগাল, মালি, নাইজার)",
+        "ar": "العالم الفرنكوفوني وغرب إفريقيا (السنغال ومالي والنيجر)",
+        "ur": "فرانسیسی دنیا اور مغربی افریقہ (سینیگال، مالی، نائجر)",
+        "fa": "جهان فرانسوی‌زبان و غرب آفریقا (سنگال، مالی، نیجر)"
+      },
+      "title": {
+        "en": "Les Signes Majeurs de la Fin des Temps, Dajjal & Retour de Jésus (Audio Français)",
+        "bn": "শেষ যুগের বড় আলামত, দাজ্জাল ও ঈসা (আ.)-এর অবতরণ (ফরাসি অডিও)",
+        "ar": "أشراط الساعة الكبرى والدجال ونزول عيسى (صوتيات فرنسية)",
+        "ur": "علاماتِ کبریٰ، دجال اور نزولِ عیسیٰؑ (فرانسیسی آڈیو)",
+        "fa": "نشانه‌های بزرگ قیامت، دجال و نزول عیسی (صوتی فرانسوی)"
+      },
+      "desc": {
+        "en": "Structured French MP3 audio lessons serving Francophone Europe, North Africa, and West Africa (Senegal, Mali, Niger, Burkina Faso, Guinea, Chad) on the 10 Major Signs and belief in the Last Day.",
+        "bn": "ফরাসিভাষী ইউরোপ, উত্তর আফ্রিকা ও পশ্চিম আফ্রিকার (সেনেগাল, মালি, নাইজার, গিনি) শ্রোতাদের জন্য কিয়ামতের ১০টি বড় আলামত ও আখিরাতের ওপর যাচাইকৃত ফরাসি অডিও।",
+        "ar": "دروس صوتية فرنسية موثّقة تخدم المسلمين في أوروبا وشمال وغرب إفريقيا حول أشراط الساعة العشر الكبرى.",
+        "ur": "یورپ اور مغربی افریقہ کے فرانسیسی سامعین کے لیے ۱۰ بڑی علامات اور آخرت پر مستند فرانسیسی آڈیو دروس۔",
+        "fa": "دروس صوتی مستند فرانسوی درباره ده نشانه بزرگ قیامت و ایمان به روز آخرت برای مخاطبان اروپا و غرب آفریقا."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Vetted by IslamHouse French scholarly editors from authentic Bukhari and Muslim narrations.",
+        "bn": "স্তর ২: ইসলামহাউস ফরাসি শরীআহ বোর্ড কর্তৃক যাচাইকৃত।",
+        "ar": "المستوى ٢: مراجَع ومعتمد في مكتبة إسلام هاوس الفرنسية.",
+        "ur": "درجہ ۲: اسلام ہاؤس فرانسیسی علمی بورڈ سے مراجعہ شدہ۔",
+        "fa": "سطح ۲: بازبینی‌شده توسط هیئت علمی فرانسوی اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        189,
+        93
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Signes Majeurs MP3 (IslamHouse FR)",
+            "bn": "বড় আলামত MP3 (ফরাসি)",
+            "ar": "الأشراط الكبرى · فرنسي",
+            "ur": "علاماتِ کبریٰ MP3 (فرانسیسی)",
+            "fa": "صوتی نشانه‌های بزرگ · فرانسوی"
+          },
+          "url": "https://islamhouse.com/fr/audios/287822/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Full French Signs Hub",
+            "bn": "সম্পূর্ণ ফরাসি আর্কাইভ",
+            "ar": "أرشيف الأشراط · فرنسي",
+            "ur": "مکمل فرانسیسی ذخیرہ",
+            "fa": "بخش کامل فرانسوی"
+          },
+          "url": "https://islamhouse.com/fr/category/398206/showall/showall/1/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L39",
+      "lang": "global",
+      "langLabel": "Русский",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "afterlife",
+        "barzakh"
+      ],
+      "speaker": {
+        "en": "Elmir Kuliev & IslamHouse Russian / Central Asian Scholars",
+        "bn": "এলমির কুলিয়েভ ও ইসলামহাউস রুশ/মধ্য এশীয় আলেমবৃন্দ",
+        "ar": "إلمير كولييف وعلماء إسلام هاوس بالروسية",
+        "ur": "ایلمیر کولیف اور اسلام ہاؤس روسی/وسطی ایشیائی علماء",
+        "fa": "المیر کولیف و علمای اسلام‌هاوس روسی و آسیای مرکزی"
+      },
+      "region": {
+        "en": "Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan & Russia",
+        "bn": "কাজাখস্তান, কিরগিজস্তান, উজবেকিস্তান ও রাশিয়া",
+        "ar": "كازاخستان، قيرغيزستان، أوزبكستان وروسيا",
+        "ur": "قازقستان، کرغیزستان، ازبکستان اور روس",
+        "fa": "قزاقستان، قرقیزستان، ازبکستان و روسیه"
+      },
+      "title": {
+        "en": "Признаки Судного Дня и Вера в Последний День (Russian / CIS Study Series)",
+        "bn": "কিয়ামতের আলামত ও শেষ দিবসের প্রতি ঈমান (রুশ ও মধ্য এশীয় অধ্যয়ন সিরিজ)",
+        "ar": "علامات يوم القيامة والإيمان باليوم الآخر (مواد باللغة الروسية)",
+        "ur": "علاماتِ قیامت اور ایمان بالآخرت (روسی و وسطی ایشیا)",
+        "fa": "نشانه‌های روز قیامت و ایمان به روز آخرت (منابع روسی و آسیای مرکزی)"
+      },
+      "desc": {
+        "en": "Authoritative Russian-language eschatology texts and study materials used widely across Kazakhstan, Kyrgyzstan, Turkmenistan, and Russia to learn authentic Sunni creed on Qiyamah.",
+        "bn": "কাজাখস্তান, কিরগিজস্তান, তুর্কমেনিস্তান ও রাশিয়াজুড়ে বহুল ব্যবহৃত রুশ ভাষায় কিয়ামতের আলামত ও পরকালীন আকীদার প্রামাণ্য অধ্যয়ন সংগ্রহ।",
+        "ar": "مواد ودروس موثقة بالروسية تخدم مسلمي كازاخستان وقيرغيزستان وآسيا الوسطى حول علامات الساعة والآخرة.",
+        "ur": "قازقستان، کرغیزستان اور ترکمانستان میں مقبول روسی زبان کے مستند دروس و کتبِ آخرت۔",
+        "fa": "منابع مستند روسی برای یادگیری عقیده صحیح اهل سنت در باب قیامت در قزاقستان، قرقیزستان و آسیای مرکزی."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Vetted Russian Sunni scholarship anchored in Qur'an, Sahihayn, and classical creed.",
+        "bn": "স্তর ২: কুরআন ও সহীহাইনভিত্তিক যাচাইকৃত রুশ একাডেমিক উৎস।",
+        "ar": "المستوى ٢: مواد روسية محررة ومراجعة على أصول أهل السنة.",
+        "ur": "درجہ ۲: قرآن و صحیحین پر مبنی تصدیق شدہ روسی علمی ذخیرہ۔",
+        "fa": "سطح ۲: منابع معتبر و بررسی‌شده به زبان روسی."
+      },
+      "relatedBooks": [
+        190,
+        191,
+        200
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Elmir Kuliev Monograph (RU)",
+            "bn": "এলমির কুলিয়েভ গ্রন্থ (RU)",
+            "ar": "كتاب إلمير كولييف · روسي",
+            "ur": "ایلمیر کولیف کتاب (RU)",
+            "fa": "کتاب المیر کولیف · روسی"
+          },
+          "url": "https://islamhouse.com/ru/books/65270",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Russian Aqeedah & Akhirah Hub",
+            "bn": "রুশ আকীদা ও আখিরাত সূচি",
+            "ar": "قسم العقيدة الروسي",
+            "ur": "روسی عقیدہ و آخرت فہرست",
+            "fa": "بخش عقیده و آخرت · روسی"
+          },
+          "url": "https://islamhouse.com/ru/category/132381/books/ru/1",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L40",
+      "lang": "global",
+      "langLabel": "Hausa",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "IslamHouse Hausa Scholars (Nigeria & Niger Audio Archive)",
+        "bn": "ইসলামহাউস হাউসা আলেমবৃন্দ (নাইজেরিয়া ও নাইজার)",
+        "ar": "علماء إسلام هاوس بلغة الهوسا (نيجيريا والنيجر)",
+        "ur": "اسلام ہاؤس ہاؤسا علماء (نائجیریا و نائجر)",
+        "fa": "علمای اسلام‌هاوس هوسا (نیجریه و نیجر)"
+      },
+      "region": {
+        "en": "Nigeria, Niger, Chad & West Africa · Hausa Audio/Khutbah",
+        "bn": "নাইজেরিয়া, নাইজার ও পশ্চিম আফ্রিকা · হাউসা অডিও",
+        "ar": "نيجيريا والنيجر وغرب إفريقيا · صوتيات الهوسا",
+        "ur": "نائجیریا، نائجر اور مغربی افریقہ · ہاؤسا آڈیو",
+        "fa": "نیجریه، نیجر و غرب آفریقا · صوتیات هوسا"
+      },
+      "title": {
+        "en": "Alamomin Tashin Qiyama, Labarin Dujal & Lahira (Hausa Audio & Khutbahs)",
+        "bn": "আলামোমিন তাশিন কিয়ামা, দুজাল ও লাহিরা (হাউসা অডিও ও খুতবা)",
+        "ar": "علامات يوم القيامة وحديث الدجال والآخرة (صوتيات وخطب بالهوسا)",
+        "ur": "علاماتِ قیامت، دجال اور آخرت (ہاؤسا آڈیو و خطبات)",
+        "fa": "نشانه‌های قیامت، دجال و آخرت (صوتیات و خطبه‌های هوسا)"
+      },
+      "desc": {
+        "en": "Verified Hausa audio lessons and Friday khutbahs serving tens of millions of Muslims in Nigeria, Niger, Ghana, and Chad on the Signs of Qiyamah, al-Dajjal, and Akhirah.",
+        "bn": "নাইজেরিয়া, নাইজার ও পশ্চিম আফ্রিকার কোটি হাউসাভাষী মুসলিমের জন্য কিয়ামতের আলামত, দাজ্জাল ও আখিরাত বিষয়ক যাচাইকৃত হাউসা অডিও এবং খুতবা।",
+        "ar": "دروس صوتية وخطب جمعة موثقة بلغة الهوسا حول أشراط الساعة والدجال والإيمان باليوم الآخر.",
+        "ur": "نائجیریا، نائجر اور مغربی افریقہ کے ہاؤسا سامعین کے لیے علاماتِ قیامت اور آخرت پر مستند آڈیو خطبات۔",
+        "fa": "دروس صوتی و خطبه‌های جمعه به زبان هوسا برای میلیون‌ها مسلمان نیجریه و غرب آفریقا."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Vetted by IslamHouse Hausa scholarly reviewers grounded in authentic Sunnah.",
+        "bn": "স্তর ২: ইসলামহাউস হাউসা সম্পাদনা পর্ষদ কর্তৃক যাচাইকৃত।",
+        "ar": "المستوى ٢: مراجَع ومعتمد في مكتبة إسلام هاوس بلغة الهوسا.",
+        "ur": "درجہ ۲: اسلام ہاؤس ہاؤسا علمی بورڈ سے تصدیق شدہ۔",
+        "fa": "سطح ۲: بازبینی‌شده توسط هیئت علمی هوسا در اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        193,
+        189
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Hausa Audio Archive (IslamHouse)",
+            "bn": "হাউসা অডিও আর্কাইভ",
+            "ar": "صوتيات الهوسا · إسلام هاوس",
+            "ur": "ہاؤسا آڈیو آرکائیو",
+            "fa": "آرشیو صوتی هوسا"
+          },
+          "url": "https://islamhouse.com/ha/audios/ha/2/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Prophetic Signs Khutbah (Hausa)",
+            "bn": "আলামত খুতবা (হাউসা)",
+            "ar": "خطبة العلامات · هوسا",
+            "ur": "خطبہ علامات (ہاؤسا)",
+            "fa": "خطبه نشانه‌ها · هوسا"
+          },
+          "url": "https://islamhouse.com/ha/khotab/2834470/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L41",
+      "lang": "global",
+      "langLabel": "Soomaali",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Shaykh Abubkar Xoosh & IslamHouse Somali Scholars",
+        "bn": "শাইখ আবুবকর খোশ ও ইসলামহাউস সোমালি আলেমবৃন্দ",
+        "ar": "الشيخ أبو بكر خوش وعلماء إسلام هاوس بالصومالية",
+        "ur": "شیخ ابوبکر خوش اور اسلام ہاؤس صومالی علماء",
+        "fa": "شیخ ابوبکر خوش و علمای اسلام‌هاوس سومالیایی"
+      },
+      "region": {
+        "en": "Somalia, Djibouti & Horn of Africa · Somali Audio Library",
+        "bn": "সোমালিয়া, জিবুতি ও পূর্ব আফ্রিকা · সোমালি অডিও",
+        "ar": "الصومال وجيبوتي والقرن الإفريقي · مكتبة صوتية",
+        "ur": "صومالیہ، جبوتی اور مشرقی افریقہ · صومالی آڈیو",
+        "fa": "سومالی، جیبوتی و شاخ آفریقا · آرشیو صوتی سومالیایی"
+      },
+      "title": {
+        "en": "Calaamadaha Saacada, Cadaab Qabriga & Maalinta Qiyaame (Somali Audio Series)",
+        "bn": "কিয়ামতের আলামত, কবরের আযাব ও শেষ দিবস (সোমালি অডিও সিরিজ)",
+        "ar": "أشراط الساعة وعذاب القبر ويوم القيامة (سلسلة صوتية بالصومالية)",
+        "ur": "علاماتِ قیامت، عذابِ قبر اور یومِ آخرت (صومالی آڈیو)",
+        "fa": "نشانه‌های ساعت، عذاب قبر و روز قیامت (مجموعه صوتی سومالیایی)"
+      },
+      "desc": {
+        "en": "Authentic Somali MP3 series explaining Belief in the Last Day, Minor & Major Signs of the Hour, grave trials, and eternal rewards in clear Somali.",
+        "bn": "স্পষ্ট সোমালি ভাষায় শেষ দিবসের প্রতি ঈমান, কিয়ামতের ছোট-বড় আলামত, কবরের পরীক্ষা ও জান্নাত-জাহান্নামের ওপর যাচাইকৃত অডিও সিরিজ।",
+        "ar": "سلسلة صوتية صومالية موثقة حول الإيمان بالآخرة وعلامات الساعة الصغرى والكبرى وأحوال القبر.",
+        "ur": "صومالی زبان میں ایمان بالآخرت، علاماتِ قیامت اور عذابِ قبر پر مستند آڈیو سلسلہ۔",
+        "fa": "سلسله صوتی معتبر به زبان سومالیایی پیرامون ایمان به آخرت، نشانه‌های قیامت و احوال قبر."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Scholar-vetted Somali IslamHouse audio collection anchored in Bukhari and Muslim.",
+        "bn": "স্তর ২: বুখারী-মুসলিমভিত্তিক ও ইসলামহাউস সোমালি পর্ষদ কর্তৃক নিরীক্ষিত।",
+        "ar": "المستوى ٢: معتمد ومراجع في مكتبة إسلام هاوس الصومالية.",
+        "ur": "درجہ ۲: اسلام ہاؤس صومالی علمی بورڈ سے تصدیق شدہ۔",
+        "fa": "سطح ۲: بازبینی‌شده توسط هیئت علمی سومالیایی اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        197
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Shaykh Xoosh Audio (IslamHouse SO)",
+            "bn": "শাইখ খোশ অডিও (সোমালি)",
+            "ar": "محاضرة الشيخ خوش · صومالي",
+            "ur": "شیخ خوش آڈیو (صومالی)",
+            "fa": "صوتی شیخ خوش · سومالیایی"
+          },
+          "url": "https://islamhouse.com/so/audios/783118/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Somali Akhirah Portal (SO)",
+            "bn": "সোমালি আখিরাত পোর্টাল",
+            "ar": "قسم الآخرة · صومالي",
+            "ur": "صومالی آخرت پورٹل",
+            "fa": "بخش آخرت · سومالیایی"
+          },
+          "url": "https://islamhouse.com/so/category/77380/showall/showall/1/",
+          "cls": "acc-free"
+        }
+      ]
+    },
+    {
+      "id": "L42",
+      "lang": "global",
+      "langLabel": "Bosanski · Shqip",
+      "tier": "tier2",
+      "format": "audio",
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "speaker": {
+        "en": "Studio Sebil (Bosnian) & IslamHouse Balkan Scholars (Bosnian / Croatian / Serbian / Albanian)",
+        "bn": "স্টুডিও সেবিল (বসনীয়) ও ইসলামহাউস বাল্কান আলেমবৃন্দ (বসনীয় ও আলবেনীয়)",
+        "ar": "ستوديو سبيل وعلماء البلقان (بالبوسنية والألبانية)",
+        "ur": "اسٹوڈیو سبیل اور بلقان کے علماء (بوسنیائی و البانوی)",
+        "fa": "استودیو سبیل و علمای بالکان (بوسنیایی و آلبانیایی)"
+      },
+      "region": {
+        "en": "Bosnia, Croatia, Serbia, Albania & Kosovo · Balkan Audio Hub",
+        "bn": "বসনিয়া, ক্রোয়েশিয়া, সার্বিয়া, আলবেনিয়া ও কসোভো",
+        "ar": "البوسنة وكرواتيا وصربيا وألبانيا وكوسوفو",
+        "ur": "بوسنیا، کروشیا، سربیا، البانیہ اور کوسوو",
+        "fa": "بوسنی، کرواسی، صربستان، آلبانی و کوزوو"
+      },
+      "title": {
+        "en": "Predznaci Sudnjeg Dana & Shenjat e Kiametit (Balkan Bosnian & Albanian Audios)",
+        "bn": "কিয়ামতের আলামত ও আখিরাত (বাল্কান বসনীয় ও আলবেনীয় অডিও সিরিজ)",
+        "ar": "أشراط الساعة واليوم الآخر (صوتيات البلقان بالبوسنية والألبانية)",
+        "ur": "علاماتِ قیامت اور آخرت (بوسنیائی اور البانوی آڈیو دروس)",
+        "fa": "نشانه‌های قیامت و آخرت (مجموعه صوتی بوسنیایی و آلبانیایی)"
+      },
+      "desc": {
+        "en": "Balkan Sunni audio lectures serving Bosnia-Herzegovina, Croatia, Serbia, Albania, and Kosovo covering Minor & Major Signs of Judgment Day, Dajjal, and Akhirah faith.",
+        "bn": "বসনিয়া-হার্জেগোভিনা, ক্রোয়েশিয়া, সার্বিয়া, আলবেনিয়া ও কসোভোর মুসলিমদের জন্য কিয়ামতের আলামত, দাজ্জাল ও আখিরাতের ওপর যাচাইকৃত বাল্কান অডিও।",
+        "ar": "محاضرات صوتية موثقة لمسلمي البلقان بالبوسنية (المفهومة في كرواتيا وصربيا) والألبانية حول أشراط الساعة.",
+        "ur": "بوسنیا، کروشیا، سربیا، البانیہ اور کوسوو کے مسلمانوں کے لیے علاماتِ قیامت اور آخرت پر مستند آڈیو دروس۔",
+        "fa": "دروس صوتی مستند برای مسلمانان بالکان (بوسنی، کرواسی، صربستان، آلبانی و کوزوو) درباره نشانه‌های قیامت."
+      },
+      "verifyNote": {
+        "en": "Tier 2: Mainstream Balkan Sunni scholarship vetted on IslamHouse Bosnian and Albanian portals.",
+        "bn": "স্তর ২: ইসলামহাউস বসনীয় ও আলবেনীয় সম্পাদনা পর্ষদ কর্তৃক যাচাইকৃত।",
+        "ar": "المستوى ٢: معتمد ومراجع في مكتبة إسلام هاوس بالبوسنية والألبانية.",
+        "ur": "درجہ ۲: اسلام ہاؤس بوسنیائی اور البانوی علمی بورڈ سے تصدیق شدہ۔",
+        "fa": "سطح ۲: بررسی‌شده توسط بخش‌های علمی بوسنیایی و آلبانیایی اسلام‌هاوس."
+      },
+      "relatedBooks": [
+        194,
+        195,
+        196
+      ],
+      "links": [
+        {
+          "label": {
+            "en": "Bosnian Audio Series (IslamHouse BS)",
+            "bn": "বসনীয় অডিও (IslamHouse BS)",
+            "ar": "صوتيات بوسنية · إسلام هاوس",
+            "ur": "بوسنیائی آڈیو (BS)",
+            "fa": "صوتی بوسنیایی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/bs/audios/77281/",
+          "cls": "acc-free"
+        },
+        {
+          "label": {
+            "en": "Albanian Audio Hub (IslamHouse SQ)",
+            "bn": "আলবেনীয় অডিও (IslamHouse SQ)",
+            "ar": "صوتيات ألبانية · إسلام هاوس",
+            "ur": "البانوی آڈیو (SQ)",
+            "fa": "صوتی آلبانیایی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/sq/category/732292/audios/sq/1/",
+          "cls": "acc-free"
+        }
+      ]
+    }
+  ]
+}

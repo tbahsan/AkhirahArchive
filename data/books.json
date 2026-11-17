@@ -1,5 +1,5 @@
 {
-  "version": "6.0",
+  "version": "8.0",
   "updated": "2026-11-17",
   "totalBooks": 140,
   "languages": {
@@ -5018,18 +5018,3025 @@
         "ar": "دراسة علمية موثقة في ضوء الكتاب والسنة تتناول الموت وعذاب القبر وعالم البرزخ والبعث والحشر والجنة والنار وضوابط الاستدلال والتخريج الحديثي.",
         "ur": "قرآن و سنت کی روشنی میں مستند علمی و تحقیقی تصنیف: موت، عذابِ قبر اور عالمِ برزخ اور حشر، حساب، جنت اور جہنم اور اصولِ تحقیق اور تخریجِ حدیث۔"
       }
+    },
+    {
+      "id": 141,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "হাদীসের নামে জালিয়াতি: প্রচলিত মিথ্যা হাদীস ও ভিত্তিহীন কথা",
+      "author": "প্রফেসর ড. খোন্দকার আ.ন.ম আব্দুল্লাহ জাহাঙ্গীর (রহ.)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "সমাজে প্রচলিত বানোয়াট ও ভিত্তিহীন হাদীস শনাক্তকরণের বাংলা মানদণ্ড গ্রন্থ (কিয়ামত, মাহদী, দাজ্জাল ও বারযাখ বিষয়ক জাল বর্ণনা যাচাইয়ে অপরিহার্য)।",
+      "focusI18n": {
+        "en": "Benchmark Bengali hadith-verification handbook by Dr. Abdullah Jahangir exposing fabricated narrations, essential for filtering unverified claims on Qiyamah, al-Mahdi, Dajjal, and Barzakh.",
+        "bn": "সমাজে প্রচলিত বানোয়াট ও ভিত্তিহীন হাদীস শনাক্তকরণের বাংলা মানদণ্ড গ্রন্থ (কিয়ামত, মাহদী, দাজ্জাল ও বারযাখ বিষয়ক জাল বর্ণনা যাচাইয়ে অপরিহার্য)।",
+        "ar": "مرجع بنغالي رصين للدكتور عبد الله جهانكير في كشف الأحاديث الموضوعة والمنتشرة، أساسي لتمحيص روايات أشراط الساعة والمهدي والدجال.",
+        "ur": "ڈاکٹر عبداللہ جہانگیر کی مستند بنگالی کتاب جس میں مروجہ موضوع اور بے اصل روایات کی نشاندہی کی گئی ہے، بالخصوص قیامت، مہدی اور دجال کی روایات کی تحقیق کے لیے ناگزیر۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "IslamHouse-এ ফ্রি PDF ও Internet Archive-এ সংরক্ষিত।",
+      "links": [
+        {
+          "label": "ফ্রি PDF (IslamHouse)",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse",
+            "bn": "ফ্রি PDF · IslamHouse",
+            "ar": "PDF مجاني · IslamHouse",
+            "ur": "مفت PDF · IslamHouse"
+          },
+          "url": "https://islamhouse.com/bn/books/806568/"
+        },
+        {
+          "label": "Internet Archive",
+          "labelI18n": {
+            "en": "Internet Archive",
+            "bn": "Internet Archive",
+            "ar": "أرشيف الإنترنت",
+            "ur": "انٹرنیٹ آرکائیو"
+          },
+          "url": "https://archive.org/details/20210727_20210727_0828"
+        },
+        {
+          "label": "Wafilife লেখক তালিকা",
+          "labelI18n": {
+            "en": "Wafilife Author Page",
+            "bn": "Wafilife লেখক তালিকা",
+            "ar": "صفحة المؤلف · Wafilife",
+            "ur": "مصنف صفحہ · Wafilife"
+          },
+          "url": "https://www.wafilife.com/cat/books/author/dr-khandkar-abdullah-jahangir"
+        }
+      ],
+      "topics": [
+        "methodology",
+        "signs",
+        "mahdi"
+      ],
+      "isClassical": false,
+      "related": [
+        4,
+        5,
+        103
+      ],
+      "kw": "abdullah jahangir hadiser name jaliati fabricated hadith verification methodology bangla আব্দুল্লাহ জাহাঙ্গীর হাদীসের নামে জালিয়াতি জাল হাদীস"
+    },
+    {
+      "id": 142,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "মরণ একদিন আসবেই (নিবরাস প্রকাশনী, ৩য় সংস্করণ ২০২১, ২৮৮ পৃ.)",
+      "author": "শায়খ আব্দুর রাযযাক বিন ইউসুফ",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "মৃত্যু, কবরের জীবন, বারযাখ, কিয়ামত এবং জান্নাত-জাহান্নামের প্রস্তুতি বিষয়ে কুরআন ও সহীহ হাদীসভিত্তিক বহুল পঠিত বাংলা নসীহত গ্রন্থ।",
+      "focusI18n": {
+        "en": "Widely read Bengali reminder book (288 pp.) grounded in Qur'an and hadith addressing death, the grave, Barzakh, Resurrection, and spiritual readiness for the Hereafter.",
+        "bn": "মৃত্যু, কবরের জীবন, বারযাখ, কিয়ামত এবং জান্নাত-জাহান্নামের প্রস্তুতি বিষয়ে কুরআন ও সহীহ হাদীসভিত্তিক বহুল পঠিত বাংলা নসীহত গ্রন্থ।",
+        "ar": "كتاب بنغالي واسع الانتشار في تذكر الموت وعالم البرزخ والاستعداد للآخرة والجنة والنار في ضوء الكتاب والسنة.",
+        "ur": "موت، قبر، برزخ اور آخرت کی تیاری پر قرآن و حدیث کی روشنی میں مقبولِ عام بنگالی تصنیف (۲۸۸ صفحات)۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / প্রকাশনা",
+      "accessNote": "নিবরাস প্রকাশনী, ৩য় সংস্করণ ২০২১, ২৮৮ পৃষ্ঠা।",
+      "links": [
+        {
+          "label": "Rokomari প্রকাশনা তথ্য",
+          "labelI18n": {
+            "en": "Rokomari Catalog",
+            "bn": "Rokomari প্রকাশনা তথ্য",
+            "ar": "فهرس Rokomari",
+            "ur": "فہرست Rokomari"
+          },
+          "url": "https://www.rokomari.com/book/53624/maron-akdin-asbei"
+        },
+        {
+          "label": "লেখকের বইসমূহ",
+          "labelI18n": {
+            "en": "Author Bibliography",
+            "bn": "লেখকের বইসমূহ",
+            "ar": "مؤلفات الكاتب",
+            "ur": "مصنف کی کتب"
+          },
+          "url": "https://www.rokomari.com/book/author/15572/%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%89%E0%A6%B8%E0%A7%81%E0%A6%AB"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        8,
+        14
+      ],
+      "kw": "abdur razzaq bin yusuf moron ekdin asbei death grave akhirah bangla আব্দুর রাজ্জাক বিন ইউসুফ মরণ একদিন আসবেই মৃত্যু কবর"
+    },
+    {
+      "id": 143,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "কবর: আযাব ও নেয়ামত (বাংলা সংস্করণ, মুসলিম ভিলেজ)",
+      "author": "শাইখ হুসাইন আল-আওয়াইশাহ (বাংলা অনুবাদ)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কবরের প্রশ্নোত্তর, কবরের আযাবের কারণসমূহ এবং মুমিনের জন্য বারযাখী নেয়ামতের বিশুদ্ধ হাদীসভিত্তিক বাংলা সংস্করণ।",
+      "focusI18n": {
+        "en": "Bengali edition of Shaykh Husayn al-Awayishah's concise Sahih-based study detailing questioning in the grave, causes of grave punishment, and blessings of al-Barzakh.",
+        "bn": "কবরের প্রশ্নোত্তর, কবরের আযাবের কারণসমূহ এবং মুমিনের জন্য বারযাখী নেয়ামতের বিশুদ্ধ হাদীসভিত্তিক বাংলা সংস্করণ।",
+        "ar": "الترجمة البنغالية لكتاب الشيخ حسين العوايشة في عذاب القبر ونعيمه وسؤال الملكين استناداً إلى الأحاديث الصحيحة.",
+        "ur": "شیخ حسین العوایشہ کی کتاب «عذابِ قبر اور اس کی نعمتیں» کا مستند بنگالی ترجمہ۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / প্রকাশনা",
+      "accessNote": "ইংরেজি সংস্করণ ক্যাটালগ #46-এ যুক্ত আছে।",
+      "links": [
+        {
+          "label": "Wafilife ক্যাটালগ",
+          "labelI18n": {
+            "en": "Wafilife Catalog",
+            "bn": "Wafilife ক্যাটালগ",
+            "ar": "فهرس Wafilife",
+            "ur": "فہرست Wafilife"
+          },
+          "url": "https://www.wafilife.com/kobor-azab-o-neyamot/pd/11231"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        46,
+        8,
+        137
+      ],
+      "kw": "husayn al-awayishah kobor azab o neyamot grave punishment bliss bangla হুসাইন আল আওয়াইশাহ কবর আযাব ও নেয়ামত"
+    },
+    {
+      "id": 144,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "সকাল-সন্ধ্যার দুআ ও যিক্‌র (ফিতনা ও কবরের আযাব থেকে পানাহসহ)",
+      "author": "শায়খ আহমাদুল্লাহ (আস-সুন্নাহ ফাউন্ডেশন পাবলিকেশন্স)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কুরআন ও সহীহ হাদীসভিত্তিক প্রতিদিনের মাসনূন দুআ ও যিকর সংকলন, যার মধ্যে দাজ্জাল ও কবরের ফিতনা থেকে আশ্রয় প্রার্থনার প্রমাণিত দুআসমূহ অন্তর্ভুক্ত।",
+      "focusI18n": {
+        "en": "Verified morning and evening prophetic adhkar compiled by Shaikh Ahmadullah (As-Sunnah Foundation), including authentic daily refuge supplications against grave trials and Dajjal.",
+        "bn": "কুরআন ও সহীহ হাদীসভিত্তিক প্রতিদিনের মাসনূন দুআ ও যিকর সংকলন, যার মধ্যে দাজ্জাল ও কবরের ফিতনা থেকে আশ্রয় প্রার্থনার প্রমাণিত দুআসমূহ অন্তর্ভুক্ত।",
+        "ar": "مجموعة أذكار الصباح والمساء الصحيحة من إعداد الشيخ أحمد الله، وتضم الأدعية النبوية للوقاية من فتنة القبر والدجال.",
+        "ur": "شیخ احمد اللہ (السنۃ فاؤنڈیشن) کا مرتب کردہ مسنون اذکار و دعاؤں کا مجموعہ، بشمول عذابِ قبر اور فتنۂ دجال سے پناہ کی دعائیں۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / প্রকাশনা",
+      "accessNote": "আস-সুন্নাহ ফাউন্ডেশন পাবলিকেশন্স।",
+      "links": [
+        {
+          "label": "Wafilife সংকলন",
+          "labelI18n": {
+            "en": "Wafilife Edition",
+            "bn": "Wafilife সংকলন",
+            "ar": "طبعة Wafilife",
+            "ur": "اشاعت Wafilife"
+          },
+          "url": "https://www.wafilife.com/shaykh-ahmadullahor-tinti-boi-ekottre/dp/269380"
+        },
+        {
+          "label": "As-Sunnah Foundation",
+          "labelI18n": {
+            "en": "As-Sunnah Foundation",
+            "bn": "আস-সুন্নাহ ফাউন্ডেশন",
+            "ar": "مؤسسة السنة",
+            "ur": "السنۃ فاؤنڈیشن"
+          },
+          "url": "https://assunnahfoundation.org/about"
+        }
+      ],
+      "topics": [
+        "fitan",
+        "barzakh",
+        "dajjal"
+      ],
+      "isClassical": false,
+      "related": [
+        4,
+        10
+      ],
+      "kw": "shaikh ahmadullah as-sunnah foundation dua zikr protection dajjal bangla শায়খ আহমাদুল্লাহ সকাল সন্ধ্যার দুআ আস সুন্নাহ"
+    },
+    {
+      "id": 145,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "ম্যাসেজ ও আহ্বান (আধুনিক মননে আলোর পরশ) ও এক নজরে কুরআন",
+      "author": "ড. মিজানুর রহমান আজহারী (গার্ডিয়ান পাবলিকেশন্স)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "সমকালীন বাংলা পাঠকদের জন্য জীবনের উদ্দেশ্য, ঈমান, আত্মশুদ্ধি, কুরআনের মূল বার্তা ও আখিরাতমুখী জীবনগঠনের ওপর জনপ্রিয় রচনা সংকলন।",
+      "focusI18n": {
+        "en": "Popular contemporary Bengali thematic works by Dr. Mizanur Rahman Azhari connecting Qur'anic reflection, moral renewal, and accountability in the Hereafter for modern readers.",
+        "bn": "সমকালীন বাংলা পাঠকদের জন্য জীবনের উদ্দেশ্য, ঈমান, আত্মশুদ্ধি, কুরআনের মূল বার্তা ও আখিরাতমুখী জীবনগঠনের ওপর জনপ্রিয় রচনা সংকলন।",
+        "ar": "مؤلفات بنغالية معاصرة للدكتور ميزان الرحمن الأزهري في تدبر القرآن، وتزكية النفس، وبناء الوعي بالآخرة للجيل المعاصر.",
+        "ur": "ڈاکٹر میزان الرحمٰن ازہری کی مقبول بنگالی تصانیف جن میں قرآنی تدبر، اصلاحِ نفس اور فکرِ آخرت کو جدید اسلوب میں بیان کیا گیا ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / প্রকাশনা",
+      "accessNote": "গার্ডিয়ান পাবলিকেশন্স, ঢাকা।",
+      "links": [
+        {
+          "label": "Wafilife সংকলন",
+          "labelI18n": {
+            "en": "Wafilife Collection",
+            "bn": "Wafilife সংকলন",
+            "ar": "مجموعة Wafilife",
+            "ur": "مجموعہ Wafilife"
+          },
+          "url": "https://www.wafilife.com/message-o-ahoban/dp/406549"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        19,
+        20
+      ],
+      "kw": "mizanur rahman azhari message ahoban ek nojore quran akhirah bangla মিজানুর রহমান আজহারী ম্যাসেজ আহ্বান এক নজরে কুরআন"
+    },
+    {
+      "id": 146,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "ইসলামের রুকনসমূহের সংক্ষিপ্ত ব্যাখ্যা (ঈমান বিল ইয়াওমিল আখির অধ্যায়)",
+      "author": "ড. আবু বকর মুহাম্মাদ যাকারিয়া (ইসলাম প্রচার ব্যুরো, রাবওয়াহ)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "তাওহীদ, রিসালাত ও শেষ দিবসের প্রতি ঈমানের মৌলিক ভিত্তি, কবর, হাশর, মীযান ও জান্নাত-জাহান্নামের প্রামাণ্য বাংলা পাঠ্যপুস্তিকা।",
+      "focusI18n": {
+        "en": "Concise, creed-verified Bengali exposition by Dr. Abu Bakar Muhammad Zakaria (IslamHouse / Rabwah) detailing the articles of faith, Last Day, Barzakh, Reckoning, and eternal abodes.",
+        "bn": "তাওহীদ, রিসালাত ও শেষ দিবসের প্রতি ঈমানের মৌলিক ভিত্তি, কবর, হাশর, মীযান ও জান্নাত-জাহান্নামের প্রামাণ্য বাংলা পাঠ্যপুস্তিকা।",
+        "ar": "شرح مختصر وموثق لأركان الإسلام والإيمان باليوم الآخر والبعث والحساب باللغة البنغالية للدكتور أبي بكر محمد زكريا.",
+        "ur": "ڈاکٹر ابوبکر محمد زکریا کی مختصر و مستند بنگالی کتاب جس میں ایمان بالآخرت، قبر، حشر اور حساب کے بنیادی عقائد بیان کیے گئے ہیں۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "IslamHouse বাংলা লেখক সংগ্রহে উন্মুক্ত।",
+      "links": [
+        {
+          "label": "IslamHouse বাংলা সংগ্রহ",
+          "labelI18n": {
+            "en": "IslamHouse Collection",
+            "bn": "IslamHouse বাংলা সংগ্রহ",
+            "ar": "مجموعة IslamHouse",
+            "ur": "IslamHouse مجموعہ"
+          },
+          "url": "https://islamhouse.com/bn/author/25506/showall/bn/1/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        10,
+        121
+      ],
+      "kw": "abu bakar muhammad zakaria aqeedah iman last day islamhouse bangla আবু বকর মুহাম্মাদ যাকারিয়া আকীদা আখিরাত"
+    },
+    {
+      "id": 147,
+      "lang": "bn",
+      "langLabel": "বাংলা",
+      "title": "ঈমান ও ঈমান ভাঙ্গার কারণ এবং তাওহীদ জিজ্ঞাসা জবাব-১ (মুসলিম ভিলেজ)",
+      "author": "মুফতি কাজী মুহাম্মদ ইবরাহীম",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "ফিতনার যুগে তাওহীদ ও ঈমান সুরক্ষার প্রশ্নোত্তরভিত্তিক পুস্তিকা (ISBN 99789843338556)। দ্রষ্টব্য: এটি লেখকের আকীদা বিষয়ক পুস্তিকা, তাঁর স্তর-৩ অনুমাননির্ভর কিয়ামত বক্তৃতা থেকে স্বতন্ত্রভাবে মূল্যায়নযোগ্য।",
+      "focusI18n": {
+        "en": "Creedal Q&A booklets by Mufti Kazi Muhammad Ibrahim on safeguarding Tawhid and Iman (Muslim Village, ISBN 99789843338556). Note: distinct from his Tier-3 speculative End Times speeches.",
+        "bn": "ফিতনার যুগে তাওহীদ ও ঈমান সুরক্ষার প্রশ্নোত্তরভিত্তিক পুস্তিকা (ISBN 99789843338556)। দ্রষ্টব্য: এটি লেখকের আকীদা বিষয়ক পুস্তিকা, তাঁর স্তর-৩ অনুমাননির্ভর কিয়ামত বক্তৃতা থেকে স্বতন্ত্রভাবে মূল্যায়নযোগ্য।",
+        "ar": "رسائل عقدية بالبنغالية للمفتي قاضي محمد إبراهيم حول التوحيد ونواقض الإيمان (تُميَّز عن محاضراته التأويلية في المستوى ٣ حول أشراط الساعة).",
+        "ur": "مفتی قاضی محمد ابراہیم کے توحید اور نواقضِ ایمان پر بنگالی سوال و جواب کے رسائل (ان کے درجہ ۳ کے قیاسی بیانات سے الگ علمی حیثیت رکھتے ہیں)۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / প্রকাশনা",
+      "accessNote": "প্রকাশক: মুসলিম ভিলেজ, ২০১৯; ISBN 99789843338556।",
+      "links": [
+        {
+          "label": "ঈমান ও ঈমান ভাঙ্গার কারণ (Rokomari)",
+          "labelI18n": {
+            "en": "Iman Booklet · Rokomari",
+            "bn": "ঈমান ও ঈমান ভাঙ্গার কারণ",
+            "ar": "كتاب الإيمان · Rokomari",
+            "ur": "کتاب ایمان · Rokomari"
+          },
+          "url": "https://www.rokomari.com/book/176314/eman-o-eman-bangar-karon"
+        },
+        {
+          "label": "তাওহীদ জিজ্ঞাসা জবাব-১",
+          "labelI18n": {
+            "en": "Tawheed Q&A Vol. 1",
+            "bn": "তাওহীদ জিজ্ঞাসা জবাব-১",
+            "ar": "أسئلة التوحيد ج١",
+            "ur": "توحید سوال جواب ۱"
+          },
+          "url": "https://www.rokomari.com/book/176312/tawheed-jiggasa-jobab-1"
+        },
+        {
+          "label": "লেখকের সকল বই",
+          "labelI18n": {
+            "en": "Author Page · Rokomari",
+            "bn": "লেখকের সকল বই",
+            "ar": "صفحة المؤلف",
+            "ur": "مصنف صفحہ"
+          },
+          "url": "https://www.rokomari.com/book/author/69702/mufti-kazi-muhammod-ibrahim"
+        }
+      ],
+      "topics": [
+        "fitan",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        22,
+        26
+      ],
+      "kw": "mufti kazi ibrahim kaji ibrahim iman tawheed bangla মুফতি কাজী ইব্রাহীম কাজী মুহাম্মদ ইবরাহীম ঈমান তাওহীদ"
+    },
+    {
+      "id": 148,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "The Other Side: Barzakh and Beyond (Kube Publishing, ISBN 9781847742872)",
+      "author": "Dr. Omar Suleiman (Yaqeen Institute)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "মৃত্যুর পর রুহের যাত্রা, বারযাখ জগত, কবরের জীবন এবং প্রিয়জনদের পুনর্মিলন নিয়ে ড. ওমর সুলাইমানের সমকালীন প্রামাণ্য ইংরেজি গ্রন্থ।",
+      "focusI18n": {
+        "en": "Comprehensive contemporary English study by Dr. Omar Suleiman exploring the realm of al-Barzakh, the journey of the soul after death, angelic visits, and spiritual accountability (Kube Publishing, ISBN 9781847742872).",
+        "bn": "মৃত্যুর পর রুহের যাত্রা, বারযাখ জগত, কবরের জীবন এবং প্রিয়জনদের পুনর্মিলন নিয়ে ড. ওমর সুলাইমানের সমকালীন প্রামাণ্য ইংরেজি গ্রন্থ।",
+        "ar": "دراسة إنجليزية معاصرة للدكتور عمر سليمان حول عالم البرزخ ورحلة الروح بعد الموت وحال الأرواح في القبور استناداً للنصوص الصحيحة.",
+        "ur": "ڈاکٹر عمر سلیمان کی معاصر انگریزی کتاب جس میں موت کے بعد روح کے سفر اور عالمِ برزخ کے احوال کو صحیح روایات کی روشنی میں بیان کیا گیا ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Hardcover, Kube Publishing, ISBN 9781847742872; companion to Yaqeen 2025 Ramadan video series.",
+      "links": [
+        {
+          "label": "Kube Publishing (ISBN)",
+          "labelI18n": {
+            "en": "Kube Publishing · ISBN",
+            "bn": "Kube Publishing · ISBN",
+            "ar": "دار Kube · ISBN",
+            "ur": "Kube Publishing · ISBN"
+          },
+          "url": "https://www.kubepublishing.com/products/the-other-side-barzakh-and-beyond"
+        },
+        {
+          "label": "Yaqeen Companion Series",
+          "labelI18n": {
+            "en": "Yaqeen Video Series",
+            "bn": "ইয়াকীন ভিডিও সিরিজ",
+            "ar": "سلسلة يقين المرئية",
+            "ur": "یقین ویڈیو سیریز"
+          },
+          "url": "https://yaqeeninstitute.org/series/the-other-side-barzakh-and-beyond"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        35,
+        44,
+        149
+      ],
+      "kw": "omar suleiman barzakh the other side soul after death grave yaqeen kube ওমর সুলাইমান বারযাখ عمر سليمان البرزخ"
+    },
+    {
+      "id": 149,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Judgement Day: Deeds That Light the Way (Kube Publishing, 2023, 260 pp., ISBN 9781847741974)",
+      "author": "Dr. Omar Suleiman (Yaqeen Institute)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কবর থেকে পুনরুত্থান, হাশরের ময়দান, মীযান, পুলসিরাত এবং জান্নাতের দরজা পর্যন্ত প্রতিটি ধাপে কোন নেক আমল বান্দাকে সাহায্য করবে তার হাদীসভিত্তিক বিবরণ।",
+      "focusI18n": {
+        "en": "Practical, hadith-grounded guide walking chronologically through every station of the Day of Judgment, from rising from the grave to the Scales (Mizan), Bridge (Sirat), and gates of Paradise (260 pp., ISBN 9781847741974).",
+        "bn": "কবর থেকে পুনরুত্থান, হাশরের ময়দান, মীযান, পুলসিরাত এবং জান্নাতের দরজা পর্যন্ত প্রতিটি ধাপে কোন নেক আমল বান্দাকে সাহায্য করবে তার হাদীসভিত্তিক বিবরণ।",
+        "ar": "كتاب عملي مؤصّل للدكتور عمر سليمان يستعرض مراحل يوم القيامة من البعث إلى الميزان والصراط والأعمال التي تنير طريق المؤمن.",
+        "ur": "ڈاکٹر عمر سلیمان کی عملی کتاب جو قبر سے اٹھنے، حشر، میزان اور صراط کے ہر مرحلے پر کام آنے والے نیک اعمال کو احادیث سے واضح کرتی ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Kube Publishing, April 2023, 260 pp., ISBN 9781847741974.",
+      "links": [
+        {
+          "label": "Kube Publishing",
+          "labelI18n": {
+            "en": "Kube Publishing",
+            "bn": "Kube Publishing",
+            "ar": "دار Kube",
+            "ur": "Kube Publishing"
+          },
+          "url": "https://www.kubepublishing.com/products/judgement-day"
+        },
+        {
+          "label": "Amazon ISBN Catalog",
+          "labelI18n": {
+            "en": "Amazon Catalog",
+            "bn": "Amazon ক্যাটালগ",
+            "ar": "فهرس Amazon",
+            "ur": "ایمازون فہرست"
+          },
+          "url": "https://www.amazon.com/Judgement-Day-Deeds-That-Light/dp/1847741975"
+        },
+        {
+          "label": "Yaqeen Series",
+          "labelI18n": {
+            "en": "Yaqeen Series",
+            "bn": "ইয়াকীন সিরিজ",
+            "ar": "سلسلة يقين",
+            "ur": "یقین سیریز"
+          },
+          "url": "https://yaqeeninstitute.org/series/judgment-day-deeds-that-light-the-way"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        28,
+        148,
+        150
+      ],
+      "kw": "omar suleiman judgement day judgment deeds light the way qiyamah mizan sirat yaqeen ওমর সুলাইমান"
+    },
+    {
+      "id": 150,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Jannah: Home at Last (Kube Publishing, ISBN 9781847742308)",
+      "author": "Dr. Omar Suleiman (Yaqeen Institute)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কুরআন ও সহীহ হাদীসের আলোকে জান্নাতের স্তরসমূহ, প্রাসাদ, নদী, দরজা এবং আল্লাহর দীদারের অপার নেয়ামতের হৃদয়স্পর্শী ইংরেজি বিবরণ।",
+      "focusI18n": {
+        "en": "Heartfelt, textually grounded portrayal of Paradise (Jannah), its eight gates, levels, gardens, eternal companionship, and the ultimate vision of Allah (Kube Publishing, ISBN 9781847742308).",
+        "bn": "কুরআন ও সহীহ হাদীসের আলোকে জান্নাতের স্তরসমূহ, প্রাসাদ, নদী, দরজা এবং আল্লাহর দীদারের অপার নেয়ামতের হৃদয়স্পর্শী ইংরেজি বিবরণ।",
+        "ar": "عرض إيماني مؤصّل باللغة الإنجليزية لمنازل الجنة وأبوابها ونعيمها الأبدي ورؤية الله تعالى للدكتور عمر سليمان.",
+        "ur": "قرآن و صحیح احادیث کی روشنی میں جنت کے درجات، دروازوں، نعمتوں اور دیدارِ الٰہی کا دلنشین انگریزی بیان۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Kube Publishing, Hardcover, ISBN 9781847742308.",
+      "links": [
+        {
+          "label": "Kube Publishing",
+          "labelI18n": {
+            "en": "Kube Publishing",
+            "bn": "Kube Publishing",
+            "ar": "دار Kube",
+            "ur": "Kube Publishing"
+          },
+          "url": "https://www.kubepublishing.com/products/jannah-home-at-last"
+        }
+      ],
+      "topics": [
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        29,
+        110,
+        149
+      ],
+      "kw": "omar suleiman jannah home at last paradise heaven hereafter yaqeen kube জান্নাত الجنة"
+    },
+    {
+      "id": 151,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Angels in Your Presence & For Those Left Behind (Companion Volumes, ISBN 9781847741509 / 9781847741936)",
+      "author": "Dr. Omar Suleiman",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "মাতৃগর্ভ থেকে মৃত্যু, কবর ও জান্নাত পর্যন্ত ফেরেশতাদের ভূমিকা এবং প্রিয়জনের মৃত্যু-পরবর্তী শোক ও নেক আমল বিষয়ে দুটি সহায়ক গ্রন্থ।",
+      "focusI18n": {
+        "en": "Two companion volumes detailing the unseen presence of angels from birth through death, the grave, and Jannah, alongside Islamic guidance on grief, Janazah, and benefiting the deceased.",
+        "bn": "মাতৃগর্ভ থেকে মৃত্যু, কবর ও জান্নাত পর্যন্ত ফেরেশতাদের ভূমিকা এবং প্রিয়জনের মৃত্যু-পরবর্তী শোক ও নেক আমল বিষয়ে দুটি সহায়ক গ্রন্থ।",
+        "ar": "كتابان متكاملان حول حضور الملائكة مع المؤمن في حياته وقبره وآخرته، والهدي الإسلامي في الصبر على الفقد وبرّ المتوفى.",
+        "ur": "دو معاون کتب جن میں پیدائش سے قبر و جنت تک فرشتوں کے کردار اور وفات کے بعد ایصالِ ثواب و صبر کی رہنمائی بیان کی گئی ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Kube Publishing; ISBN 9781847741509 (Angels) & 9781847741936 (For Those Left Behind).",
+      "links": [
+        {
+          "label": "Angels in Your Presence",
+          "labelI18n": {
+            "en": "Angels in Your Presence",
+            "bn": "Angels in Your Presence",
+            "ar": "كتاب الملائكة في حضرتك",
+            "ur": "اینجلز ان یور پریزنس"
+          },
+          "url": "https://www.kubepublishing.com/blogs/news/angels-in-your-presence-omar-suleiman"
+        },
+        {
+          "label": "For Those Left Behind",
+          "labelI18n": {
+            "en": "For Those Left Behind",
+            "bn": "For Those Left Behind",
+            "ar": "كتاب لمن بقوا بعد الفقد",
+            "ur": "فار دوز لیفٹ بیہائنڈ"
+          },
+          "url": "https://www.kubepublishing.com/products/for-those-left-behind"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        125,
+        148
+      ],
+      "kw": "omar suleiman angels in your presence for those left behind death grief janazah barzakh"
+    },
+    {
+      "id": 152,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Lessons from Surah al-Kahf (Pearls from the Qur'an Series, 248 pp., ISBN 9781847741318)",
+      "author": "Dr. Yasir Qadhi",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "দাজ্জালের ফিতনা থেকে সুরক্ষার কুরআনী ঢাল সূরা আল-কাহফ, আসহাবে কাহফ, খিযির (আ.) এবং ইয়াজূজ-মাজূজের ঘটনার গভীর তাফসীরমূলক ইংরেজি গ্রন্থ।",
+      "focusI18n": {
+        "en": "Thematic commentary by Dr. Yasir Qadhi unpacking Surah al-Kahf (Chapter 18), its prophetic protection against al-Masih al-Dajjal, the Sleepers of the Cave, and the Qur'anic account of Ya'juj and Ma'juj (248 pp.).",
+        "bn": "দাজ্জালের ফিতনা থেকে সুরক্ষার কুরআনী ঢাল সূরা আল-কাহফ, আসহাবে কাহফ, খিযির (আ.) এবং ইয়াজূজ-মাজূজের ঘটনার গভীর তাফসীরমূলক ইংরেজি গ্রন্থ।",
+        "ar": "دراسة تفسيرية إنجليزية للدكتور ياسر قاضي حول سورة الكهف وأثرها في العصمة من فتنة الدجال، وقصة يأجوج ومأجوج وذي القرنين.",
+        "ur": "ڈاکٹر یاسر قاضی کی کتاب «لیسنس فرام سورۃ الکہف» جس میں فتنۂ دجال سے حفاظت اور یاجوج و ماجوج کے قرآنی اسباق بیان کیے گئے ہیں۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Kube Publishing, 248 pp., Paperback ISBN 9781847741318 / Hardback ISBN 9781847741325.",
+      "links": [
+        {
+          "label": "Kube Publishing",
+          "labelI18n": {
+            "en": "Kube Publishing",
+            "bn": "Kube Publishing",
+            "ar": "دار Kube",
+            "ur": "Kube Publishing"
+          },
+          "url": "https://www.kubepublishing.com/pages/lessons-from-surah-al-kahf-yasir-qadhi"
+        },
+        {
+          "label": "Surah al-Kahf & Dajjal Excerpt",
+          "labelI18n": {
+            "en": "Excerpt: Protection from Dajjal",
+            "bn": "দাজ্জাল থেকে সুরক্ষা অধ্যায়",
+            "ar": "مقتطف: العصمة من الدجال",
+            "ur": "اقتباس: دجال سے حفاظت"
+          },
+          "url": "https://www.kubepublishing.com/blogs/news/the-blessings-of-surah-al-kahf"
+        }
+      ],
+      "topics": [
+        "dajjal",
+        "gog_magog",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        39,
+        62
+      ],
+      "kw": "yasir qadhi surah al-kahf dajjal gog magog yajuj majuj protection kube ইয়াসির কাযী یاسر قاضی"
+    },
+    {
+      "id": 153,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Revive Your Heart: Putting Life in Perspective (Kube Publishing, ISBN 9781847741011)",
+      "author": "Ustadh Nouman Ali Khan (Bayyinah)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "দুনিয়ার ক্ষণস্থায়িত্ব, মৃত্যু-সচেতনতা এবং আখিরাতকেন্দ্রিক জীবনদৃষ্টি পুনর্গঠনে কুরআনের আয়াতভিত্তিক সমকালীন ইংরেজি প্রবন্ধ সংকলন।",
+      "focusI18n": {
+        "en": "Qur'anic reflections by Nouman Ali Khan reframing modern materialist distraction through concrete belief in death as a threshold and accountability in the Hereafter (ISBN 9781847741011).",
+        "bn": "দুনিয়ার ক্ষণস্থায়িত্ব, মৃত্যু-সচেতনতা এবং আখিরাতকেন্দ্রিক জীবনদৃষ্টি পুনর্গঠনে কুরআনের আয়াতভিত্তিক সমকালীন ইংরেজি প্রবন্ধ সংকলন।",
+        "ar": "تأملات قرآنية معاصرة للأستاذ نعمان علي خان لإحياء القلب وتصحيح النظرة إلى الدنيا والموت والدار الآخرة.",
+        "ur": "استاد نعمان علی خان کے قرآنی مضامین کا مجموعہ جو دنیاوی غفلت سے نکل کر موت اور آخرت کے حقیقی تصور کو بیدار کرتا ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "ক্যাটালগ / ISBN",
+      "accessNote": "Kube Publishing, ISBN 9781847741011 (PB) / 9781847741073 (HB).",
+      "links": [
+        {
+          "label": "Kube Publishing",
+          "labelI18n": {
+            "en": "Kube Publishing",
+            "bn": "Kube Publishing",
+            "ar": "دار Kube",
+            "ur": "Kube Publishing"
+          },
+          "url": "https://www.kubepublishing.com/blogs/news/revive-your-heart-nouman-ali-khan-kube-publishing"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        40,
+        154
+      ],
+      "kw": "nouman ali khan bayyinah revive your heart afterlife death quran নোমান আলী খান نعمان علی خان"
+    },
+    {
+      "id": 154,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "Purification of the Heart: Signs, Symptoms and Cures of the Spiritual Diseases of the Heart",
+      "author": "Shaykh Hamza Yusuf (Commentary on Imam Mawlud's Matharat al-Qulub)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "দুনিয়ার মোহ, গাফলতি ও অন্তরের ব্যাধি দূর করে মৃত্যু ও আখিরাতের জন্য আত্মিক প্রস্তুতির ধ্রুপদী ব্যাখ্যা ও অডিও সিরিজ।",
+      "focusI18n": {
+        "en": "Annotated translation and commentary on Imam Mawlud's classical poem treating heedlessness, love of dunya, and spiritual readiness for death and the Hereafter (Free PDF & Audio Archive).",
+        "bn": "দুনিয়ার মোহ, গাফলতি ও অন্তরের ব্যাধি দূর করে মৃত্যু ও আখিরাতের জন্য আত্মিক প্রস্তুতির ধ্রুপদী ব্যাখ্যা ও অডিও সিরিজ।",
+        "ar": "ترجمة وشرح باللغة الإنجليزية لمنظومة مطهرة القلوب للإمام مولود، يعالج أمراض القلوب وحب الدنيا والاستعداد للموت والآخرة.",
+        "ur": "امام مولود کے کلاسیکی متن «مطہرۃ القلوب» کی انگریزی شرح از شیخ حمزہ یوسف: حبِ دنیا کا علاج اور موت و آخرت کی روحانی تیاری۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / অডিও",
+      "accessNote": "Free PDF transcription and 33-track audio commentary available on Internet Archive.",
+      "links": [
+        {
+          "label": "Free PDF · Archive.org",
+          "labelI18n": {
+            "en": "Free PDF · Archive.org",
+            "bn": "ফ্রি PDF · Archive.org",
+            "ar": "PDF مجاني · Archive",
+            "ur": "مفت PDF · Archive"
+          },
+          "url": "https://ia601503.us.archive.org/0/items/PurificationOfTheHeart/Purification%20of%20the%20heart.pdf"
+        },
+        {
+          "label": "Audio Series · Archive.org",
+          "labelI18n": {
+            "en": "Audio Series · Archive.org",
+            "bn": "অডিও সিরিজ · Archive.org",
+            "ar": "السلسلة الصوتية · Archive",
+            "ur": "آڈیو سیریز · Archive"
+          },
+          "url": "https://archive.org/details/Sheikh_Hamza_Yusuf_Hanson_-_Purification_Of_The_Heart_CD_Audio_MP3"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "isClassical": true,
+      "related": [
+        34,
+        153
+      ],
+      "kw": "hamza yusuf purification of the heart imam mawlud death hereafter tazkiyah হামযা ইউসুফ حمزہ یوسف"
+    },
+    {
+      "id": 155,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "The Islamic Understanding of Death and Resurrection (Oxford University Press, 2002, 288 pp., ISBN 9780195156492)",
+      "author": "Jane Idleman Smith & Yvonne Yazbeck Haddad",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ধ্রুপদী ও আধুনিক সুন্নী ধর্মতাত্ত্বিক গ্রন্থসমূহের আলোকে মৃত্যু, বারযাখ, পুনরুত্থান ও পরকালীন জীবনের একাডেমিক বিশ্লেষণ।",
+      "focusI18n": {
+        "en": "Seminal Oxford University Press academic monograph (288 pp., ISBN 9780195156492) surveying classical and modern Sunni theological texts on death, Barzakh, Resurrection, and the final abodes.",
+        "bn": "ধ্রুপদী ও আধুনিক সুন্নী ধর্মতাত্ত্বিক গ্রন্থসমূহের আলোকে মৃত্যু, বারযাখ, পুনরুত্থান ও পরকালীন জীবনের একাডেমিক বিশ্লেষণ।",
+        "ar": "دراسة أكاديمية مرجعية صادرة عن جامعة أكسفورد تستعرض تصورات الموت والبرزخ والبعث في التراث السني الكلاسيكي والحديث.",
+        "ur": "آکسفورڈ یونیورسٹی پریس کی معروف اکیڈمک تصنیف جس میں کلاسیکی اور جدید سنی لٹریچر کے تناظر میں موت، برزخ اور حشر کا علمی مطالعہ کیا گیا ہے۔"
+      },
+      "access": "info",
+      "accessLabel": "একাডেমিক / ISBN",
+      "accessNote": "Oxford University Press, 2002, 288 pp., ISBN 9780195156492.",
+      "links": [
+        {
+          "label": "Oxford University Press",
+          "labelI18n": {
+            "en": "Oxford University Press",
+            "bn": "অক্সফোর্ড ইউনিভার্সিটি প্রেস",
+            "ar": "دار نشر جامعة أكسفورد",
+            "ur": "آکسفورڈ یونیورسٹی پریس"
+          },
+          "url": "https://global.oup.com/academic/product/the-islamic-understanding-of-death-and-resurrection-9780195156492?cc=us&lang=en"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        126,
+        34,
+        35
+      ],
+      "kw": "jane idleman smith yvonne yazbeck haddad oxford university press death resurrection academic eschatology"
+    },
+    {
+      "id": 156,
+      "lang": "en",
+      "langLabel": "English",
+      "title": "The Journey into the Hereafter & Belief in Life after Death (Free English Compendium)",
+      "author": "IslamHouse / Religion of Islam Editorial",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "আখিরাতের প্রতি ঈমানের যৌক্তিক ও কুরআনী প্রমাণ, কবরের জীবন, পুলসিরাত এবং জান্নাত-জাহান্নামের সহজবোধ্য ফ্রি ইংরেজি পাঠ্যসংকলন।",
+      "focusI18n": {
+        "en": "Clear introductory free-access English treatises outlining scriptural and rational grounds for belief in life after death, the grave, al-Sirat, Paradise, and Hellfire.",
+        "bn": "আখিরাতের প্রতি ঈমানের যৌক্তিক ও কুরআনী প্রমাণ, কবরের জীবন, পুলসিরাত এবং জান্নাত-জাহান্নামের সহজবোধ্য ফ্রি ইংরেজি পাঠ্যসংকলন।",
+        "ar": "رسائل إنجليزية ميسّرة ومتاحة مجاناً على موقع دار الإسلام حول الإيمان باليوم الآخر والرحلة إلى الدار الآخرة.",
+        "ur": "آخرت پر ایمان کے عقلی و نقلی دلائل، قبر، صراط اور جنت و جہنم پر آسان فہم مفت انگریزی رسائل کا مجموعہ۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct free online reader and PDF download via IslamHouse.",
+      "links": [
+        {
+          "label": "Journey into the Hereafter",
+          "labelI18n": {
+            "en": "Read Online · IslamHouse",
+            "bn": "অনলাইনে পড়ুন · IslamHouse",
+            "ar": "قراءة مباشرة · IslamHouse",
+            "ur": "آن لائن مطالعہ · IslamHouse"
+          },
+          "url": "https://islamhouse.com/read/en/the-journey-into-the-hereafter-427853"
+        },
+        {
+          "label": "Belief in Life after Death (PDF)",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse",
+            "bn": "ফ্রি PDF · IslamHouse",
+            "ar": "PDF مجاني · IslamHouse",
+            "ur": "مفت PDF · IslamHouse"
+          },
+          "url": "https://d1.islamhouse.com/data/en/ih_articles/single2/en_Belief_in_Life_after_Death.pdf"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        42,
+        43
+      ],
+      "kw": "journey into the hereafter belief in life after death islamhouse free pdf english akhirah"
+    },
+    {
+      "id": 157,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "تفسیر بیان القرآن (۷ جلدیں مکمل: سورۃ الکہف، سورۃ القیامۃ، سورۃ الواقعۃ اور ایمان بالآخرت)",
+      "author": "ڈاکٹر اسرار احمدؒ (مرکزی انجمن خدام القرآن، لاہور)",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "ড. ইসরার আহমদের ৭ খণ্ডের প্রখ্যাত উর্দু তাফসীর ‘বয়ানুল কুরআন’, যাতে ঈমান বিল আখিরাহ, সূরা আল-কাহফ, সূরা আল-কিয়ামাহ, সূরা আল-ওয়াকিয়াহ ও ফিতনার গভীর ব্যাখ্যা রয়েছে।",
+      "focusI18n": {
+        "en": "Dr. Israr Ahmed's monumental 7-volume Urdu Qur'an translation and commentary (Bayan-ul-Quran), featuring in-depth exposition of Iman bil-Akhirah, Surah al-Kahf, Surah al-Qiyamah, and End Times themes.",
+        "bn": "ড. ইসরার আহমদের ৭ খণ্ডের প্রখ্যাত উর্দু তাফসীর ‘বয়ানুল কুরআন’, যাতে ঈমান বিল আখিরাহ, সূরা আল-কাহফ, সূরা আল-কিয়ামাহ, সূরা আল-ওয়াকিয়াহ ও ফিতনার গভীর ব্যাখ্যা রয়েছে।",
+        "ar": "تفسير «بيان القرآن» الشهير في ٧ مجلدات بالأردية للدكتور إسرار أحمد، مع عناية خاصة بالإيمان بالآخرة وسورة الكهف وسورة القيامة.",
+        "ur": "ڈاکٹر اسرار احمدؒ کی شہرۂ آفاق ۷ جلدی اردو تفسیر «بیان القرآن»، جس میں ایمان بالآخرت، سورۃ الکہف، سورۃ القیامۃ اور علاماتِ قیامت پر عمیق تدبر پیش کیا گیا ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "مکمل ۷ جلدیں Internet Archive اور Tanzeem-e-Islami پر مفت دستیاب ہیں۔",
+      "links": [
+        {
+          "label": "فری ۷ جلدیں PDF (Archive.org)",
+          "labelI18n": {
+            "en": "Free 7-Vol PDF · Archive.org",
+            "bn": "ফ্রি ৭ খণ্ড PDF · Archive.org",
+            "ar": "٧ مجلدات PDF · Archive",
+            "ur": "مکمل ۷ جلدیں PDF · Archive"
+          },
+          "url": "https://archive.org/details/bayan-ul-quran-dr-israr"
+        },
+        {
+          "label": "تنظیمِ اسلامی آفیشل پورٹل",
+          "labelI18n": {
+            "en": "Tanzeem Official Portal",
+            "bn": "তানযীম অফিসিয়াল পোর্টাল",
+            "ar": "البوابة الرسمية لتنظيم إسلامي",
+            "ur": "تنظیمِ اسلامی آفیشل پورٹل"
+          },
+          "url": "https://www.tanzeem.org/bayan-ul-quran-by-dr-israr-ahmad/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs",
+        "dajjal"
+      ],
+      "isClassical": false,
+      "related": [
+        158,
+        159
+      ],
+      "kw": "dr israr ahmed israr ahmad bayan ul quran tafsir urdu pdf akhirah qiyamah kahf ڈاکٹر اسرار احمد بیان القرآن ড ইসরার আহমদ"
+    },
+    {
+      "id": 158,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "زندگی، موت اور انسان · توبہ کی عظمت و تاثیر (مجموعۂ کتب ڈاکٹر اسرار احمدؒ)",
+      "author": "ڈاکٹر اسرار احمدؒ (تنظیمِ اسلامی / ماہنامہ میثاق)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "জীবন, মৃত্যু, তাওবা, ঈমান বিল আখিরাহ এবং সূরা আত-তাগাবুন ও সূরা আস-সাফ-এর আখিরাত-কেন্দ্রিক বার্তা নিয়ে ড. ইসরার আহমদের প্রামাণ্য উর্দু পুস্তিকাসমূহ।",
+      "focusI18n": {
+        "en": "Official Tanzeem-e-Islami digital book collection by Dr. Israr Ahmed including 'Zindagi, Maut aur Insan' (Life, Death & Humanity), 'Tauba ki Azmat', and Meesaq Qur'anic discourses on Akhirah.",
+        "bn": "জীবন, মৃত্যু, তাওবা, ঈমান বিল আখিরাহ এবং সূরা আত-তাগাবুন ও সূরা আস-সাফ-এর আখিরাত-কেন্দ্রিক বার্তা নিয়ে ড. ইসরার আহমদের প্রামাণ্য উর্দু পুস্তিকাসমূহ।",
+        "ar": "مجموعة رسائل الدكتور إسرار أحمد بالأردية (الحياة والموت والإنسان، وعظمة التوبة) من المكتبة الرقمية لتنظيم إسلامي ومجلة ميثاق.",
+        "ur": "ڈاکٹر اسرار احمدؒ کے منتخب اردو رسائل بشمول «زندگی، موت اور انسان»، «توبہ کی عظمت و تاثیر» اور ماہنامہ میثاق میں ایمان بالآخرت کے مضامین۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "تنظیمِ اسلامی ڈیجیٹل لائبریری پر مفت مطالعہ۔",
+      "links": [
+        {
+          "label": "ڈاکٹر اسرار احمد کتب آرکائیو",
+          "labelI18n": {
+            "en": "Dr. Israr Books · Tanzeem",
+            "bn": "ড. ইসরার কتب আর্কাইভ",
+            "ar": "أرشيف كتب د. إسرار",
+            "ur": "ڈاکٹر اسرار کتب آرکائیو"
+          },
+          "url": "https://www.tanzeem.org/books_author-dr-israr-ahmed/"
+        },
+        {
+          "label": "ماہنامہ میثاق (ایمان بالآخرت)",
+          "labelI18n": {
+            "en": "Meesaq · Iman bil-Akhirah",
+            "bn": "মীসাক · ঈমান বিল আখিরাহ",
+            "ar": "مجلة ميثاق · الإيمان بالآخرة",
+            "ur": "ماہنامہ میثاق · ایمان بالآخرت"
+          },
+          "url": "https://meesaq.tanzeemdigitallibrary.com/shumarah/2022/8/11"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        157,
+        159
+      ],
+      "kw": "dr israr ahmed zindagi maut aur insan tauba meesaq tanzeem akhirah ڈاکٹر اسرار احمد زندگی موت اور انسان آخرت"
+    },
+    {
+      "id": 159,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "خطباتِ خلافت (۲۱۱ صفحات) اور غلبۂ دین و آخرالزمان کا فکری تناظر",
+      "author": "ڈاکٹر اسرار احمدؒ (تحریک خلافت پاکستان / کتاب و سنت)",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "শেষ যুগে নবুওয়তের আদলে খিলাফত পুনঃপ্রতিষ্ঠার হাদীস, সমকালীন বিশ্বব্যবস্থা ও ইসলামি পুনর্জাগরণ বিষয়ে ড. ইসরার আহমদের ৪টি প্রসিদ্ধ খুতবার সংকলন।",
+      "focusI18n": {
+        "en": "Four landmark discourses (211 pp.) by Dr. Israr Ahmed examining Prophetic traditions on the return of Khilafah on the Prophetic methodology, global ideological trials, and Islamic revival.",
+        "bn": "শেষ যুগে নবুওয়তের আদলে খিলাফত পুনঃপ্রতিষ্ঠার হাদীস, সমকালীন বিশ্বব্যবস্থা ও ইসলামি পুনর্জাগরণ বিষয়ে ড. ইসরার আহমদের ৪টি প্রসিদ্ধ খুতবার সংকলন।",
+        "ar": "أربع خطب فكرية للدكتور إسرار أحمد (٢١١ ص) حول الخلافة على منهاج النبوة والتحديات الفكرية المعاصرة في ضوء أحاديث آخر الزمان.",
+        "ur": "ڈاکٹر اسرار احمدؒ کے چار بنیادی خطبات (۲۱۱ صفحات) جن میں خلافت علیٰ منہاج النبوۃ کی بشارت، عصرِ حاضر کے فتنوں اور غلبۂ دین کے منہج پر بحث کی گئی ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "کتاب و سنت لائبریری پر مفت PDF دستیاب۔",
+      "links": [
+        {
+          "label": "فری PDF (Kitab-o-Sunnat)",
+          "labelI18n": {
+            "en": "Free PDF · Kitab-o-Sunnat",
+            "bn": "ফ্রি PDF · Kitab-o-Sunnat",
+            "ar": "PDF مجاني · كتاب وسنت",
+            "ur": "مفت PDF · کتاب و سنت"
+          },
+          "url": "https://kitabosunnat.com/kutub-library/khutbat-e-khalafat"
+        }
+      ],
+      "topics": [
+        "fitan",
+        "geopolitics",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        157,
+        158
+      ],
+      "kw": "dr israr ahmed khutbat e khilafat caliphate end times revival urdu ڈاکٹر اسرار احمد خطبات خلافت"
+    },
+    {
+      "id": 160,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "عصرِ حاضر حدیثِ نبوی ﷺ کے آئینے میں",
+      "author": "مولانا محمد یوسف لدھیانویؒ",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "সমকালীন সমাজ, নৈতিক অবক্ষয় ও আধুনিক যুগের পরিবর্তনসমূহকে কিয়ামতের ছোট আলামতের সহীহ হাদীসের আয়নায় তুলে ধরা বহুল পঠিত দক্ষিণ এশীয় উর্দু গ্রন্থ।",
+      "focusI18n": {
+        "en": "Widely acclaimed South Asian Urdu classic by Maulana Yusuf Ludhianvi reflecting modern social, moral, and global changes through the mirror of authentic Prophetic hadiths on Minor Signs of the Hour.",
+        "bn": "সমকালীন সমাজ, নৈতিক অবক্ষয় ও আধুনিক যুগের পরিবর্তনসমূহকে কিয়ামতের ছোট আলামতের সহীহ হাদীসের আয়নায় তুলে ধরা বহুল পঠিত দক্ষিণ এশীয় উর্দু গ্রন্থ।",
+        "ar": "كتاب أردي شهير لمولانا محمد يوسف اللدهيانوي يعرض تحولات العصر الحديث في ضوء الأحاديث النبوية حول أشراط الساعة الصغرى والفتن.",
+        "ur": "مولانا محمد یوسف لدھیانویؒ کی مقبولِ عام کتاب جس میں جدید دور کے فتنوں اور سماجی تبدیلیوں کو صحیح احادیثِ علاماتِ قیامت کے آئینے میں بیان کیا گیا ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Internet Archive پر مکمل اردو PDF مفت دستیاب۔",
+      "links": [
+        {
+          "label": "فری PDF (Archive.org)",
+          "labelI18n": {
+            "en": "Free PDF · Archive.org",
+            "bn": "ফ্রি PDF · Archive.org",
+            "ar": "PDF مجاني · Archive",
+            "ur": "مفت PDF · Archive.org"
+          },
+          "url": "https://archive.org/details/AsrEHazirHadithNabviKayAyenayMen"
+        }
+      ],
+      "topics": [
+        "signs",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        65,
+        73,
+        76
+      ],
+      "kw": "yusuf ludhianvi asr e hazir hadith nabvi modern age signs of qiyamah urdu یوسف لدھیانوی عصر حاضر حدیث نبوی"
+    },
+    {
+      "id": 161,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "اصلاحی خطبات (۲۳ جلدیں مکمل: فکرِ آخرت، موت، قبر اور تیاریِ آخرت)",
+      "author": "مفتی محمد تقی عثمانی (Mufti Muhammad Taqi Usmani)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "আখিরাতের চিন্তা, মৃত্যু-স্মরণ, জবাবদিহি এবং দুনিয়ার মোহে না পড়ে পরকালের পাথেয় সঞ্চয়ের ওপর মুফতী মুহাম্মদ তকী উসমানীর ২৩ খণ্ডের প্রামাণ্য বয়ান সংকলন।",
+      "focusI18n": {
+        "en": "Complete 23-volume Urdu collection (Islahi Khutbaat) and English discourses by Justice Mufti Muhammad Taqi Usmani cultivating mindfulness of the Hereafter (Fikr-e-Akhirah), death, and moral reform.",
+        "bn": "আখিরাতের চিন্তা, মৃত্যু-স্মরণ, জবাবদিহি এবং দুনিয়ার মোহে না পড়ে পরকালের পাথেয় সঞ্চয়ের ওপর মুফতী মুহাম্মদ তকী উসমানীর ২৩ খণ্ডের প্রামাণ্য বয়ান সংকলন।",
+        "ar": "موسوعة «الخطب الإصلاحية» في ٢٣ مجلداً للمفتي محمد تقي العثماني حول الهمّ بالآخرة وتذكر الموت والاستعداد للقاء الله.",
+        "ur": "مفتی محمد تقی عثمانی کے ۲۳ جلدوں پر مشتمل «اصلاحی خطبات» اور انگریزی مواعظ، جن کا مرکزی پیغام فکرِ آخرت، موت کی یاد اور اصلاحِ اعمال ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "مکمل ۲۳ جلدیں Archive.org اور انگریزی خطابات آفیشل ویب سائٹ پر دستیاب۔",
+      "links": [
+        {
+          "label": "۲۳ جلدیں PDF (Archive.org)",
+          "labelI18n": {
+            "en": "23 Volumes PDF · Archive",
+            "bn": "২৩ খণ্ড PDF · Archive",
+            "ar": "٢٣ مجلداً PDF · Archive",
+            "ur": "مکمل ۲۳ جلدیں PDF · Archive"
+          },
+          "url": "https://archive.org/details/islahi-khutbat-by-mufti-taqi-usmani_202104"
+        },
+        {
+          "label": "Worrying About Life After Death (EN)",
+          "labelI18n": {
+            "en": "English Discourse · Official",
+            "bn": "ইংরেজি বয়ান · অফিসিয়াল",
+            "ar": "مقال بالإنجليزية · الموقع الرسمي",
+            "ur": "انگریزی خطاب · آفیشل"
+          },
+          "url": "https://muftitaqiusmani.com/en/worrying-about-the-life-after-death/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        73,
+        163
+      ],
+      "kw": "mufti taqi usmani islahi khutbaat fikr e akhirat life after death urdu english مفتی تقی عثمانی اصلاحی خطبات آخرت"
+    },
+    {
+      "id": 162,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "خطبات (عقیدۂ آخرت) اور پیغامِ اسلام (The Message of Islam: Belief in the Hereafter)",
+      "author": "سید ابوالاعلیٰ مودودیؒ (Sayyid Abul A'la Maududi)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ইসলামে পরকাল-বিশ্বাসের নৈতিক, সামাজিক ও সভ্যতাগত তাৎপর্য এবং জবাবদিহির যুক্তিনিষ্ঠ ও কুরআনভিত্তিক বিবরণ (উর্দু ও ইংরেজি সংস্করণ)।",
+      "focusI18n": {
+        "en": "Classic Urdu Khutbaat and English treatise by Sayyid Abul A'la Maududi explaining Belief in the Hereafter (Akhirah) as the foundational moral anchor of accountability, justice, and Islamic character.",
+        "bn": "ইসলামে পরকাল-বিশ্বাসের নৈতিক, সামাজিক ও সভ্যতাগত তাৎপর্য এবং জবাবদিহির যুক্তিনিষ্ঠ ও কুরআনভিত্তিক বিবরণ (উর্দু ও ইংরেজি সংস্করণ)।",
+        "ar": "خطب ورسائل السيد أبي الأعلى المودودي بالأردية والإنجليزية في بيان أثر الإيمان بالآخرة في بناء الأخلاق والمسؤولية الإنسانية.",
+        "ur": "سید ابوالاعلیٰ مودودیؒ کے معروف «خطبات» اور انگریزی کتابچہ، جن میں عقیدۂ آخرت کو انسانی اخلاق اور جوابدہی کی بنیادی اساس کے طور پر پیش کیا گیا ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "اردو کتب Kitab-o-Sunnat اور انگریزی پی ڈی ایف Archive.org پر دستیاب۔",
+      "links": [
+        {
+          "label": "خطبات (Kitab-o-Sunnat)",
+          "labelI18n": {
+            "en": "Khutbaat Urdu · Kitab-o-Sunnat",
+            "bn": "খুতবাত উর্দু · Kitab-o-Sunnat",
+            "ar": "خطبات بالأردية · كتاب وسنت",
+            "ur": "خطبات اردو · کتاب و سنت"
+          },
+          "url": "https://kitabosunnat.com/musannifeen/syed-abu-al-aala-mododi?page=2"
+        },
+        {
+          "label": "Message of Islam PDF (EN)",
+          "labelI18n": {
+            "en": "English PDF · Archive.org",
+            "bn": "ইংরেজি PDF · Archive.org",
+            "ar": "PDF إنجليزي · Archive",
+            "ur": "انگریزی PDF · Archive"
+          },
+          "url": "https://dn720004.ca.archive.org/0/items/57495868MessageOfIslamAbulALaAlMaududi/57495868-Message-of-Islam-Abul-a-La-Al-Maududi.pdf"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        157,
+        158
+      ],
+      "kw": "maududi mawdudi khutbaat message of islam belief in hereafter akhirah urdu english مودودی خطبات عقیدہ آخرت"
+    },
+    {
+      "id": 163,
+      "lang": "ur",
+      "langLabel": "اردو",
+      "title": "آسان نیکیاں (Easy Good Deeds for the Hereafter) و خطباتِ اصلاح (انگریزی ترجمہ جلد ۱۰)",
+      "author": "مفتی محمد تقی عثمانی (Mufti Muhammad Taqi Usmani)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কম পরিশ্রমে আখিরাতের মীযানে ভারী সওয়াব অর্জনের প্রমাণিত যিকর, ক্ষমাশীলতা ও দৈনন্দিন নেক আমলের ব্যবহারিক সংকলন।",
+      "focusI18n": {
+        "en": "Practical handbook and translated discourses (Vol. 10) detailing effortless daily prophetic deeds, remembrances, and forgiveness that earn immense reward on the Scales of the Hereafter.",
+        "bn": "কম পরিশ্রমে আখিরাতের মীযানে ভারী সওয়াব অর্জনের প্রমাণিত যিকর, ক্ষমাশীলতা ও দৈনন্দিন নেক আমলের ব্যবহারিক সংকলন।",
+        "ar": "دليل عملي للأعمال الصالحة اليسيرة والأذكار النبوية الثقيلة في الميزان يوم القيامة للمفتي محمد تقي العثماني.",
+        "ur": "مفتی محمد تقی عثمانی کا عملی کتابچہ «آسان نیکیاں» اور اصلاحی خطبات کا انگریزی ترجمہ: میزانِ آخرت کو بھاری کرنے والے آسان مسنون اعمال۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct free PDF editions on Internet Archive.",
+      "links": [
+        {
+          "label": "Easy Good Deeds (Free PDF)",
+          "labelI18n": {
+            "en": "Easy Good Deeds · PDF",
+            "bn": "আসান নেকিয়া · PDF",
+            "ar": "الأعمال اليسيرة · PDF",
+            "ur": "آسان نیکیاں · PDF"
+          },
+          "url": "https://dn710308.ca.archive.org/0/items/EasyGoodDeeds/mufti_taqi_uthmani_-_easy_good_deeds.pdf"
+        },
+        {
+          "label": "Discourses Vol. 10 (PDF)",
+          "labelI18n": {
+            "en": "Discourses Vol. 10 · PDF",
+            "bn": "ডিসকোর্সেস খণ্ড ১০ · PDF",
+            "ar": "الخطب ج١٠ · PDF",
+            "ur": "خطبات جلد ۱۰ · PDF"
+          },
+          "url": "https://ia802808.us.archive.org/34/items/DiscoursesOnIslamicWaysOfLifeVolume10ByShaykhMuftiTaqiUsmani/DiscoursesOnIslamicWaysOfLife-Volume10-ByShaykhMuftiTaqiUsmani.pdf"
+        }
+      ],
+      "topics": [
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        161,
+        149
+      ],
+      "kw": "mufti taqi usmani easy good deeds asan nekiyan hereafter rewards pdf مفتی تقی عثمانی آسان نیکیاں"
+    },
+    {
+      "id": 164,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "صحيح أشراط الساعة ووصف ليوم البعث وأهوال يوم القيامة (مكتبة السوادي، ١٩٩٤ م، ٤١٦ ص)",
+      "author": "الشيخ مصطفى أبو النصر الشلبي",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কেবল বিশুদ্ধ (সহীহ) হাদীসের ভিত্তিতে কিয়ামতের ছোট ও বড় আলামত, পুনরুত্থান এবং হাশরের ভয়াবহতার ৪১৬ পৃষ্ঠার প্রামাণ্য আরবি গ্রন্থ।",
+      "focusI18n": {
+        "en": "Rigorous 416-page Arabic compilation by Shaykh Mustafa Abu al-Nasr al-Shalabi restricting itself strictly to authentic hadiths on Minor Signs, Major Signs, Resurrection, and the terrors of the Hour (Waqfeya PDF).",
+        "bn": "কেবল বিশুদ্ধ (সহীহ) হাদীসের ভিত্তিতে কিয়ামতের ছোট ও বড় আলামত, পুনরুত্থান এবং হাশরের ভয়াবহতার ৪১৬ পৃষ্ঠার প্রামাণ্য আরবি গ্রন্থ।",
+        "ar": "مصنّف حديثي محقق في ٤١٦ صفحة يقتصر على الصحيح من أحاديث أشراط الساعة الصغرى والكبرى ووصف يوم البعث وأهوال القيامة.",
+        "ur": "شیخ مصطفیٰ ابو النصر الشلبی کی ۴۱۶ صفحات پر مشتمل محقق عربی کتاب، جو خالص صحیح احادیث کی روشنی میں علاماتِ قیامت اور حشر کے احوال بیان کرتی ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "مطبوع بمكتبة السوادي (جدة، ١٩٩٤ م) ومتاح مجاناً في المكتبة الوقفية.",
+      "links": [
+        {
+          "label": "المكتبة الوقفية (PDF)",
+          "labelI18n": {
+            "en": "Waqfeya Free PDF",
+            "bn": "ওয়াকফিয়া ফ্রি PDF",
+            "ar": "المكتبة الوقفية PDF",
+            "ur": "مکتبہ وقفیہ PDF"
+          },
+          "url": "https://waqfeya.net/books/%D8%B5%D8%AD%D9%8A%D8%AD-%D8%A3%D8%B4%D8%B1%D8%A7%D8%B7-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-%D9%88%D9%88%D8%B5%D9%81-%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B9%D8%AB-%D9%88%D8%A3%D9%87%D9%88%D8%A7%D9%84-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9-df3756553f814c959a4f35d8d89804a4"
+        }
+      ],
+      "topics": [
+        "signs",
+        "afterlife",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        93,
+        100
+      ],
+      "kw": "mustafa abu al-nasr al-shalabi sahih ashrat al-saah waqfeya arabic مصطفى أبو النصر الشلبي صحيح أشراط الساعة"
+    },
+    {
+      "id": 165,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "نهاية العالم · يوم القيامة · الحياة والموت · الجنة وعد الصدق (موسوعة الشيخ الشعراوي)",
+      "author": "الشيخ محمد متولي الشعراوي (رحمه الله)",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "মিসরের প্রখ্যাত মুফাসসির শাইখ মুহাম্মদ মুতাওয়াল্লী আশ-শা‘রাওয়ী (রহ.)-এর মৃত্যু, গায়েব, কিয়ামত, জান্নাত ও পৃথিবীর সমাপ্তি বিষয়ক জনপ্রিয় কুরআনী গ্রন্থাবলি।",
+      "focusI18n": {
+        "en": "Celebrated Egyptian exegete Shaykh Muhammad Metwalli al-Sha'rawi's accessible Arabic treatises on death, the Unseen (al-Ghayb), Resurrection, Paradise, and the End of the World.",
+        "bn": "মিসরের প্রখ্যাত মুফাসসির শাইখ মুহাম্মদ মুতাওয়াল্লী আশ-শা‘রাওয়ী (রহ.)-এর মৃত্যু, গায়েব, কিয়ামত, জান্নাত ও পৃথিবীর সমাপ্তি বিষয়ক জনপ্রিয় কুরআনী গ্রন্থাবলি।",
+        "ar": "مجموعة مؤلفات إمام الدعاة الشيخ محمد متولي الشعراوي رحمه الله في الغيب والحياة والموت ويوم القيامة والجنة وعد الصدق ونهاية العالم.",
+        "ur": "معروف مصری مفسر شیخ محمد متولی الشعراویؒ کی مقبول عربی تصانیف: حیات و موت، غیب، یومِ قیامت، جنت اور انجامِ عالم۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "متاحة ضمن أرشيف مؤلفات الشيخ الشعراوي على Internet Archive.",
+      "links": [
+        {
+          "label": "موسوعة الشعراوي (Archive.org)",
+          "labelI18n": {
+            "en": "Sha'rawi Encyclopedia · Archive",
+            "bn": "শা‘রাওয়ী বিশ্বকোষ · Archive",
+            "ar": "موسوعة الشعراوي · Archive",
+            "ur": "موسوعہ شعراوی · Archive"
+          },
+          "url": "https://archive.org/details/KawatirSharawi"
+        },
+        {
+          "label": "مجموعة رسائل الشعراوي PDF",
+          "labelI18n": {
+            "en": "Treatises PDF · Archive",
+            "bn": "রিসালা PDF · Archive",
+            "ar": "رسائل الشعراوي PDF",
+            "ur": "رسائل شعراوی PDF"
+          },
+          "url": "https://archive.org/details/11_olamaa-16"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        94,
+        166
+      ],
+      "kw": "shaarawi sharawi nihayat al-alam yawm al-qiyamah life death paradise arabic الشعراوي نهاية العالم يوم القيامة"
+    },
+    {
+      "id": 166,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "أحداث النهاية ونهاية العالم (مكتبة فياض، ٢٠٠٧ م) والطريق إلى الدار الآخرة",
+      "author": "الشيخ محمد حسان",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "মৃত্যু, বারযাখ, কিয়ামতের ছোট-বড় আলামত, দাজ্জাল, ঈসা (আ.) ও হাশরের ধারাবাহিক ঘটনাপ্রবাহ নিয়ে শাইখ মুহাম্মদ হাসানের বহুল প্রচারিত আরবি গ্রন্থ ও শামেলা পাঠ্য।",
+      "focusI18n": {
+        "en": "Widely read Arabic work and transcribed Shamela lectures by Shaykh Muhammad Hassan tracing death, Barzakh, Minor and Major Signs, al-Dajjal, Isa (AS), and final reckoning.",
+        "bn": "মৃত্যু, বারযাখ, কিয়ামতের ছোট-বড় আলামত, দাজ্জাল, ঈসা (আ.) ও হাশরের ধারাবাহিক ঘটনাপ্রবাহ নিয়ে শাইখ মুহাম্মদ হাসানের বহুল প্রচারিত আরবি গ্রন্থ ও শামেলা পাঠ্য।",
+        "ar": "كتاب ودروس الشيخ محمد حسان المفرّغة حول بداية الرحلة إلى الدار الآخرة والبرزخ وأشراط الساعة الصغرى والكبرى.",
+        "ur": "شیخ محمد حسان کی معروف عربی کتاب اور مکتبہ شاملہ کے دروس: موت، برزخ، علاماتِ قیامت اور احداثِ نہایہ۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "وثيقة PDF في طريق الإسلام ونص مفرغ في المكتبة الشاملة.",
+      "links": [
+        {
+          "label": "طريق الإسلام (PDF)",
+          "labelI18n": {
+            "en": "IslamWay Free PDF",
+            "bn": "ইসলামওয়ে ফ্রি PDF",
+            "ar": "طريق الإسلام PDF",
+            "ur": "طریق الاسلام PDF"
+          },
+          "url": "https://ar.islamway.net/book/17855/%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D9%88%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85"
+        },
+        {
+          "label": "المكتبة الشاملة (قراءة)",
+          "labelI18n": {
+            "en": "Shamela Text Reader",
+            "bn": "শামেলা পাঠ্য",
+            "ar": "المكتبة الشاملة",
+            "ur": "مکتبہ شاملہ"
+          },
+          "url": "https://shamela.ws/book/7703/18"
+        }
+      ],
+      "topics": [
+        "signs",
+        "barzakh",
+        "dajjal",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        117,
+        168
+      ],
+      "kw": "muhammad hassan ahdath al-nihayah nihayat al-alam akhirah islamway shamela محمد حسان أحداث النهاية الدار الآخرة"
+    },
+    {
+      "id": 167,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "الرحلة إلى الدار الآخرة (مستفاد من القيامة الصغرى والكبرى للأشقر)",
+      "author": "الشيخ ناصر بن سعيد السيف (IslamHouse)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. উমর আল-আশকারের গ্রন্থদ্বয়ের সারসংক্ষেপ অবলম্বনে মৃত্যুর মুহূর্ত থেকে হাশরের ময়দান, হিসাব ও জান্নাত-জাহান্নামের সংক্ষিপ্ত ও সুবিন্যস্ত আরবি পুস্তিকা।",
+      "focusI18n": {
+        "en": "Concise, structured Arabic handbook synthesized from Dr. Umar al-Ashqar's creed series walking from the angel of death through Barzakh, Gathering, Reckoning, and Eternal Abode (Free PDF/EPUB).",
+        "bn": "ড. উমর আল-আশকারের গ্রন্থদ্বয়ের সারসংক্ষেপ অবলম্বনে মৃত্যুর মুহূর্ত থেকে হাশরের ময়দান, হিসাব ও জান্নাত-জাহান্নামের সংক্ষিপ্ত ও সুবিন্যস্ত আরবি পুস্তিকা।",
+        "ar": "رسالة منهجية مختصرة وموثقة تلخّص مراحل الرحلة من ساعة الموت ورؤية الملائكة حتى المحشر والحساب ودار القرار.",
+        "ur": "دکتور عمر الاشقر کی کتب سے مستفاد مختصر اور مربوط عربی کتابچہ جو موت کے لمحے سے محشر، حساب اور دارالقرار تک کے مراحل بیان کرتا ہے۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / EPUB",
+      "accessNote": "متاح بصيغ PDF وDOC وEPUB مجاناً في IslamHouse.",
+      "links": [
+        {
+          "label": "IslamHouse (PDF / EPUB)",
+          "labelI18n": {
+            "en": "IslamHouse · PDF / EPUB",
+            "bn": "IslamHouse · PDF / EPUB",
+            "ar": "IslamHouse · PDF / EPUB",
+            "ur": "IslamHouse · PDF / EPUB"
+          },
+          "url": "https://islamhouse.com/read/ar/%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D8%A9-401611"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        94,
+        95,
+        96
+      ],
+      "kw": "nasir al-saif al-rihlah ila al-dar al-akhirah islamhouse arabic ناصر بن سعيد السيف الرحلة إلى الدار الآخرة"
+    },
+    {
+      "id": 168,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "رحلة إلى الدار الآخرة (الكتاب والسلسلة الصوتية الكاملة)",
+      "author": "الشيخ محمود المصري (أبو عمار)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "আখিরাতের প্রতি ঈমানের সুফল, কবরের আযাব ও নেয়ামত, ছোট-বড় আলামত, শিঙ্গায় ফুঁক এবং শাফায়াতের ওপর শাইখ মাহমুদ আল-মিসরীর জনপ্রিয় গ্রন্থ ও ৬০+ পর্বের অডিও আর্কাইভ।",
+      "focusI18n": {
+        "en": "Popular Arabic book and 60+ episode companion series by Shaykh Mahmoud al-Masri covering fruits of belief in the Last Day, grave questioning, Minor and Major Signs, and Resurrection scenes.",
+        "bn": "আখিরাতের প্রতি ঈমানের সুফল, কবরের আযাব ও নেয়ামত, ছোট-বড় আলামত, শিঙ্গায় ফুঁক এবং শাফায়াতের ওপর শাইখ মাহমুদ আল-মিসরীর জনপ্রিয় গ্রন্থ ও ৬০+ পর্বের অডিও আর্কাইভ।",
+        "ar": "كتاب وسلسلة الشيخ محمود المصري الجامعة في ثمرات الإيمان باليوم الآخر وعذاب القبر وأشراط الساعة الصغرى والكبرى ومشاهد المحشر.",
+        "ur": "شیخ محمود المصری کی معروف کتاب اور ۶۰ سے زائد اقساط کا سلسلہ: ایمان بالآخرت کے ثمرات، قبر، علاماتِ قیامت اور مناظرِ محشر۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / অডিও",
+      "accessNote": "متاح للتحميل في صيد الفوائد وInternet Archive.",
+      "links": [
+        {
+          "label": "صيد الفوائد (PDF)",
+          "labelI18n": {
+            "en": "Saaid Free PDF Directory",
+            "bn": "সাইদ আল-ফাওয়াইদ PDF",
+            "ar": "صيد الفوائد PDF",
+            "ur": "صید الفوائد PDF"
+          },
+          "url": "https://saaid.org/book/list.php?cat=116"
+        },
+        {
+          "label": "السلسلة الكاملة (Archive.org)",
+          "labelI18n": {
+            "en": "Full 60+ Series · Archive",
+            "bn": "৬০+ পর্ব · Archive.org",
+            "ar": "السلسلة الكاملة · Archive",
+            "ur": "مکمل سیریز · Archive"
+          },
+          "url": "https://archive.org/details/Islamic_Tape-890_uP_bY_mUSLEm"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "signs",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        166,
+        167
+      ],
+      "kw": "mahmoud al-masri rihlah ila al-dar al-akhirah saaid archive arabic محمود المصري رحلة إلى الدار الآخرة"
+    },
+    {
+      "id": 169,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "الإيمان باليوم الآخر وأشراط الساعة (موسوعة النابلسي للعلوم الإسلامية)",
+      "author": "الدكتور محمد راتب النابلسي",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. মুহাম্মদ রাতিব আন-নাবুলসীর বিশ্বকোষে সংকলিত শেষ দিবসের প্রতি ঈমান, মৃত্যুর বাস্তবতা, ছোট-বড় আলামত এবং নৈতিক সংশোধনের লিখিত ও অডিও পাঠ্যক্রম।",
+      "focusI18n": {
+        "en": "Transcribed and audio scholarly curriculum from Dr. Muhammad Ratib al-Nabulsi's official encyclopedia examining Belief in the Last Day, the reality of death, Minor and Major Signs, and ethical transformation.",
+        "bn": "ড. মুহাম্মদ রাতিব আন-নাবুলসীর বিশ্বকোষে সংকলিত শেষ দিবসের প্রতি ঈমান, মৃত্যুর বাস্তবতা, ছোট-বড় আলামত এবং নৈতিক সংশোধনের লিখিত ও অডিও পাঠ্যক্রম।",
+        "ar": "سلسلة دروس ومقالات مكتوبة ومسموعة من موسوعة النابلسي للعلوم الإسلامية حول الإيمان باليوم الآخر والموت وأشراط الساعة الصغرى والكبرى.",
+        "ur": "دکتور محمد راتب النابلسی کے آفیشل انسائیکلوپیڈیا میں ایمان بالیوم الآخر، حقیقتِ موت اور علاماتِ قیامت پر تحریری و صوتی علمی دروس۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "متاح للقراءة المجانية الكاملة في موسوعة النابلسي الرسمية.",
+      "links": [
+        {
+          "label": "موسوعة النابلسي: اليوم الآخر",
+          "labelI18n": {
+            "en": "Nabulsi · The Last Day",
+            "bn": "নাবুলসী · আল-ইয়াওমুল আখির",
+            "ar": "موسوعة النابلسي · اليوم الآخر",
+            "ur": "موسوعہ نابلسی · الیوم الآخر"
+          },
+          "url": "https://nabulsi.com/web/category/614/%D9%A08%D8%A7%D9%84%D8%A5%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1"
+        },
+        {
+          "label": "الدرس الأول: أهمية الإيمان بالآخرة",
+          "labelI18n": {
+            "en": "Lesson 1 · Official Text",
+            "bn": "পাঠ ১ · অফিসিয়াল পাঠ্য",
+            "ar": "الدرس ١ · النص الرسمي",
+            "ur": "سبق ۱ · آفیشل متن"
+          },
+          "url": "https://nabulsi.com/web/article/770"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        93,
+        94
+      ],
+      "kw": "ratib al-nabulsi muhammad ratib nabulsi al-dar al-akhirah last day arabic راتب النابلسي الإيمان باليوم الآخر"
+    },
+    {
+      "id": 170,
+      "lang": "ar",
+      "langLabel": "العربية",
+      "title": "موسوعة الآخرة والمفصل في أشراط الساعة (مجموعة كتب اليوم الآخر، صيد الفوائد)",
+      "author": "نخبة من العلماء والباحثين (قسم اليوم الآخر، صيد الفوائد)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "সাইদ আল-ফাওয়াইদ আর্কাইভের ‘আল-ইয়াওমুল আখির’ বিভাগে সংরক্ষিত ‘মাওসূআতুল আখিরাহ’, ‘আল-মুফাসসাল ফী আশরাতিস সা‘আহ’ ও ‘শারহু মানযূমাতিস সাইরি ইলাল্লাহ’-এর উন্মুক্ত আরবি গ্রন্থমালার সংকলন।",
+      "focusI18n": {
+        "en": "Open Arabic research library directory on Saaid al-Fawaid gathering verified PDFs including 'Mawsu'at al-Akhirah', 'al-Mufassal fi Ashrat al-Sa'ah', and classical verse commentaries on the Hereafter.",
+        "bn": "সাইদ আল-ফাওয়াইদ আর্কাইভের ‘আল-ইয়াওমুল আখির’ বিভাগে সংরক্ষিত ‘মাওসূআতুল আখিরাহ’, ‘আল-মুফাসসাল ফী আশরাতিস সা‘আহ’ ও ‘শারহু মানযূমাতিস সাইরি ইলাল্লাহ’-এর উন্মুক্ত আরবি গ্রন্থমালার সংকলন।",
+        "ar": "دليل مفتوح في موقع صيد الفوائد يجمع كتباً موثقة بصيغة PDF مثل موسوعة الآخرة والمفصل في أشراط الساعة وشرح منظومة السير إلى الله والدار الآخرة.",
+        "ur": "صید الفوائد کا مفت عربی تحقیقی ذخیرہ جس میں «موسوعۃ الآخرۃ»، «المفصل فی اشراط الساعۃ» اور الدار الآخرۃ پر متعدد پی ڈی ایف کتب شامل ہیں۔"
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "قسم اليوم الآخر المفتوح في موقع صيد الفوائد.",
+      "links": [
+        {
+          "label": "صيد الفوائد: قسم اليوم الآخر",
+          "labelI18n": {
+            "en": "Saaid · Last Day Library",
+            "bn": "সাইদ · আখিরাত বিভাগ",
+            "ar": "صيد الفوائد · اليوم الآخر",
+            "ur": "صید الفوائد · الیوم الآخر"
+          },
+          "url": "https://saaid.org/book/list.php?cat=116"
+        }
+      ],
+      "topics": [
+        "signs",
+        "afterlife",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        106,
+        164,
+        168
+      ],
+      "kw": "saaid al-fawaid mawsuat al-akhirah mufassal ashrat al-saah arabic pdf صيد الفوائد موسوعة الآخرة المفصل في أشراط الساعة"
+    },
+    {
+      "id": 171,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "نشانه‌های قیامت (ترجمه فارسی أشراط الساعة · ۵۷ نشانه کوچک و ۱۰ نشانه بزرگ)",
+      "author": "دکتر یوسف بن عبدالله الوابل (ترجمه فارسی، کتابخانه عقیده / اسلام‌هاوس)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. ইউসুফ আল-ওয়াবিলের প্রামাণ্য ‘আশরাতুস সা‘আহ’ গ্রন্থের সম্পূর্ণ ফারসি অনুবাদ, যাতে ৫৭টি ছোট আলামত ও ১০টি বড় আলামত সহীহ সনদসহ আলোচিত হয়েছে।",
+      "focusI18n": {
+        "en": "Complete Persian (Farsi) translation of Dr. Yusuf al-Wabil's benchmark Umm al-Qura thesis Ashrat al-Sa'ah, detailing 57 Minor Signs and all 10 Major Signs with hadith authentication.",
+        "bn": "ড. ইউসুফ আল-ওয়াবিলের প্রামাণ্য ‘আশরাতুস সা‘আহ’ গ্রন্থের সম্পূর্ণ ফারসি অনুবাদ, যাতে ৫৭টি ছোট আলামত ও ১০টি বড় আলামত সহীহ সনদসহ আলোচিত হয়েছে।",
+        "ar": "الترجمة الفارسية الكاملة لكتاب «أشراط الساعة» للدكتور يوسف الوابل، متضمنة الأشراط الصغرى والكبرى بالتحقيق الحديثي.",
+        "ur": "دکتور یوسف الوابل کی مستند کتاب «أشراط الساعة» کا مکمل فارسی ترجمہ، جس میں ۵۷ صغریٰ اور ۱۰ کبریٰ علامات کی تحقیق شامل ہے۔",
+        "fa": "ترجمه کامل فارسی کتاب مرجع «أشراط الساعة» اثر دکتر یوسف الوابل، شامل بررسی ۵۷ نشانه کوچک و ۱۰ نشانه بزرگ قیامت در پرتو قرآن و احادیث صحیح."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "متن کامل آنلاین در کتابخانه عقیده و آرشیو فارسی IslamHouse.",
+      "links": [
+        {
+          "label": "قراءة مباشرة (Aqeedeh)",
+          "labelI18n": {
+            "en": "Read Online · Aqeedeh",
+            "bn": "অনলাইনে পড়ুন · Aqeedeh",
+            "ar": "قراءة مباشرة · عقيدة",
+            "ur": "آن لائن مطالعہ · عقیدہ",
+            "fa": "مطالعه آنلاین · عقیده"
+          },
+          "url": "https://aqeedeh.com/book_files/html/216.html"
+        },
+        {
+          "label": "آرشیو فارسی IslamHouse",
+          "labelI18n": {
+            "en": "IslamHouse Farsi Archive",
+            "bn": "IslamHouse ফারসি আর্কাইভ",
+            "ar": "أرشيف إسلام هاوس الفارسي",
+            "ur": "اسلام ہاؤس فارسی آرکائیو",
+            "fa": "آرشیو فارسی اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/category/731118/books/fa/1/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "mahdi",
+        "isa",
+        "gog_magog",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        93,
+        36,
+        172
+      ],
+      "kw": "farsi persian neshanehaye qiyamat ashrat al-saah yusuf al-wabil aqeedeh نشانه‌های قیامت یوسف وابل فارسی"
+    },
+    {
+      "id": 172,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "قیامت صغری و علایم قیامت کبری (ترجمه فارسی · فایل PDF و DOCX)",
+      "author": "دکتر عمر بن سلیمان الأشقر (ترجمه فارسی)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. উমর সুলাইমান আল-আশকারের ‘আল-কিয়ামাতুস সুগরা’ গ্রন্থের নির্ভরযোগ্য ফারসি অনুবাদ: মৃত্যু, বারযাখ, কবরের প্রশ্নোত্তর এবং কিয়ামতের ছোট ও বড় আলামত।",
+      "focusI18n": {
+        "en": "Complete Persian translation of Dr. Umar Sulayman al-Ashqar's Al-Qiyamah al-Sughra covering death, the grave, al-Barzakh, and Minor & Major Signs of the Hour (Free PDF & DOCX).",
+        "bn": "ড. উমর সুলাইমান আল-আশকারের ‘আল-কিয়ামাতুস সুগরা’ গ্রন্থের নির্ভরযোগ্য ফারসি অনুবাদ: মৃত্যু, বারযাখ, কবরের প্রশ্নোত্তর এবং কিয়ামতের ছোট ও বড় আলামত।",
+        "ar": "الترجمة الفارسية لكتاب «القيامة الصغرى» للدكتور عمر الأشقر حول الموت وعذاب القبر وعالم البرزخ وأشراط الساعة.",
+        "ur": "دکتور عمر الاشقر کی کتاب «القیامۃ الصغریٰ» کا مستند فارسی ترجمہ: موت، قبر، برزخ اور علاماتِ قیامت۔",
+        "fa": "ترجمه فارسی کتاب معتبر «القیامة الصغری» اثر دکتر عمر سلیمان الأشقر پیرامون مرگ، عالم برزخ، عذاب و نعمت قبر و نشانه‌های کوچک و بزرگ قیامت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "دانلود رایگان PDF و Word در IslamHouse و کتابخانه عقیده (کد ۷۰۵).",
+      "links": [
+        {
+          "label": "فری PDF (IslamHouse)",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse",
+            "bn": "ফ্রি PDF · IslamHouse",
+            "ar": "PDF مجاني · IslamHouse",
+            "ur": "مفت PDF · IslamHouse",
+            "fa": "دانلود PDF · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/books/257604"
+        },
+        {
+          "label": "کتابخانه عقیده (PDF)",
+          "labelI18n": {
+            "en": "Aqeedeh Library PDF",
+            "bn": "আকীদা লাইব্রেরি PDF",
+            "ar": "مكتبة عقيدة PDF",
+            "ur": "مکتبہ عقیدہ PDF",
+            "fa": "کتابخانه عقیده · PDF"
+          },
+          "url": "https://www.aqeedeh.com/book/view/705/%D9%82%DB%8C%D8%A7%D9%85%D8%AA-%D8%B5%D8%BA%D8%B1%DB%8C-%D9%88-%D8%B9%D9%84%D8%A7%DB%8C%D9%85-%D9%82%DB%8C%D8%A7%D9%85%D8%AA-%DA%A9%D8%A8%D8%B1%DB%8C"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        94,
+        27,
+        173
+      ],
+      "kw": "farsi persian qiyamat sughra umar al-ashqar barzakh signs قیامت صغری عمر اشقر فارسی"
+    },
+    {
+      "id": 173,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "سیمای روز رستاخیز (ترجمه فارسی القیامة الکبری)",
+      "author": "دکتر عمر بن سلیمان الأشقر (کتابخانه عقیده، کد ۶۸۹)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. উমর আল-আশকারের ‘আল-কিয়ামাতুল কুবরা’ গ্রন্থের ফারসি অনুবাদ: শিঙ্গায় ফুঁক, পুনরুত্থান, হাশরের ময়দান, শাফাআত, মীযান ও পুলসিরাতের প্রামাণ্য বিবরণ।",
+      "focusI18n": {
+        "en": "Persian translation of Dr. Umar al-Ashqar's Al-Qiyamah al-Kubra detailing the Blowing of the Trumpet, Resurrection, Gathering, Great Intercession, Scales, and al-Sirat.",
+        "bn": "ড. উমর আল-আশকারের ‘আল-কিয়ামাতুল কুবরা’ গ্রন্থের ফারসি অনুবাদ: শিঙ্গায় ফুঁক, পুনরুত্থান, হাশরের ময়দান, শাফাআত, মীযান ও পুলসিরাতের প্রামাণ্য বিবরণ।",
+        "ar": "الترجمة الفارسية لكتاب «القيامة الكبرى» للدكتور عمر الأشقر في النفخ في الصور والبعث والحشر والشفاعة والميزان.",
+        "ur": "دکتور عمر الاشقر کی کتاب «القیامۃ الکبریٰ» کا فارسی ترجمہ: نفخِ صور، حشر، شفاعت اور میزان کا مستند بیان۔",
+        "fa": "ترجمه فارسی کتاب «القیامة الکبری» اثر دکتر عمر الأشقر درباره نفخ صور، حشر، شفاعت کبری، میزان، حوض کوثر و صراط بر اساس کتاب و سنت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "دانلود رایگان PDF و Word در کتابخانه عقیده (کد ۶۸۹).",
+      "links": [
+        {
+          "label": "کتابخانه عقیده (PDF)",
+          "labelI18n": {
+            "en": "Free PDF · Aqeedeh",
+            "bn": "ফ্রি PDF · Aqeedeh",
+            "ar": "PDF مجاني · عقيدة",
+            "ur": "مفت PDF · عقیدہ",
+            "fa": "دانلود PDF · عقیده"
+          },
+          "url": "https://new.aqeedeh.com/book/view/689/%D8%B3%DB%8C%D9%85%D8%A7%DB%8C-%D8%B1%D9%88%D8%B2-%D8%B1%D8%B3%D8%AA%D8%A7%D8%AE%DB%8C%D8%B2"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        95,
+        28,
+        172,
+        174
+      ],
+      "kw": "farsi persian simaye rooz rastakhiz qiyamat kubra umar al-ashqar سیمای روز رستاخیز عمر اشقر فارسی"
+    },
+    {
+      "id": 174,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "کاوشی پیرامون بهشت و دوزخ (ترجمه فارسی الجنة والنار)",
+      "author": "دکتر عمر بن سلیمان الأشقر (کتابخانه عقیده، کد ۶۸۴)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ড. উমর আল-আশকারের ‘আল-জান্নাহ ওয়ান-নার’ গ্রন্থের ফারসি অনুবাদ: জান্নাত ও জাহান্নামের সৃষ্টি, স্তরসমূহ, চিরস্থায়িত্ব এবং মুমিনের চূড়ান্ত সাফল্য।",
+      "focusI18n": {
+        "en": "Persian edition of Dr. Umar al-Ashqar's Al-Jannah wal-Nar detailing Sunni creed on the present existence, gates, levels, and eternal realities of Paradise and Hellfire.",
+        "bn": "ড. উমর আল-আশকারের ‘আল-জান্নাহ ওয়ান-নার’ গ্রন্থের ফারসি অনুবাদ: জান্নাত ও জাহান্নামের সৃষ্টি, স্তরসমূহ, চিরস্থায়িত্ব এবং মুমিনের চূড়ান্ত সাফল্য।",
+        "ar": "الترجمة الفارسية لكتاب «الجنة والنار» للدكتور عمر الأشقر حول صفات الجنة ونعيمها وأهوال النار وعقيدة أهل السنة فيها.",
+        "ur": "دکتور عمر الاشقر کی کتاب «الجنۃ والنار» کا فارسی ترجمہ: جنت و جہنم کے احوال اور عقیدۂ اہلِ سنت۔",
+        "fa": "ترجمه فارسی کتاب «الجنة والنار» اثر دکتر عمر الأشقر درباره آفرینش، درجات، دروازه‌ها و نعمت‌های جاودان بهشت و اوصاف دوزخ."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "دانلود رایگان PDF در کتابخانه عقیده (کد ۶۸۴).",
+      "links": [
+        {
+          "label": "کتابخانه عقیده (PDF)",
+          "labelI18n": {
+            "en": "Free PDF · Aqeedeh",
+            "bn": "ফ্রি PDF · Aqeedeh",
+            "ar": "PDF مجاني · عقيدة",
+            "ur": "مفت PDF · عقیدہ",
+            "fa": "دانلود PDF · عقیده"
+          },
+          "url": "https://aqeedeh.com/book/view/684/%DA%A9%D8%A7%D9%88%D8%B4%DB%8C-%D9%BE%DB%8C%D8%B1%D8%A7%D9%85%D9%88%D9%86-%D8%A8%D9%87%D8%B4%D8%AA-%D9%88-%D8%AF%D9%88%D8%B2%D8%AE"
+        }
+      ],
+      "topics": [
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        96,
+        29,
+        173
+      ],
+      "kw": "farsi persian behesht dozakh paradise hellfire umar al-ashqar بهشت و دوزخ عمر اشقر فارسی"
+    },
+    {
+      "id": 175,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "نشانه‌های قیامت در پرتو روایات صحیح (۳۷ نشانه صغری و ۱۰ نشانه کبری)",
+      "author": "حسین تاجی گله‌داری (اسلام‌هاوس / کتابخانه عقیده)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ইরানি সুন্নী লেখক হুসাইন তাজী গাল্‌লাহদারীর মৌলিক ফারসি গ্রন্থ, যাতে ৩৭টি ছোট আলামত এবং ১০টি বড় আলামত সহীহ হাদীস ও সাহাবায়ে কিরামের ব্যাখ্যাসহ উপস্থাপিত হয়েছে।",
+      "focusI18n": {
+        "en": "Original Persian-language work by Iranian Sunni author Hussain Taji Galehdari presenting 37 verified Minor Signs and the 10 Major Signs directly from Sahih narrations.",
+        "bn": "ইরানি সুন্নী লেখক হুসাইন তাজী গাল্‌লাহদারীর মৌলিক ফারসি গ্রন্থ, যাতে ৩৭টি ছোট আলামত এবং ১০টি বড় আলামত সহীহ হাদীস ও সাহাবায়ে কিরামের ব্যাখ্যাসহ উপস্থাপিত হয়েছে।",
+        "ar": "مؤلَّف فارسي أصيل للكاتب السني الإيراني حسين تاجي كله داري في ٣٧ علامة صغرى و١٠ علامات كبرى في ضوء الروايات الصحيحة.",
+        "ur": "ایرانی سنی مصنف حسین تاجی گلہ داری کی اصل فارسی تصنیف: صحیح احادیث کی روشنی میں ۳۷ صغریٰ اور ۱۰ کبریٰ علامات۔",
+        "fa": "تألیف اصیل فارسی اثر حسین تاجی گله‌داری که ۳۷ نشانه کوچک و ۱۰ نشانه بزرگ قیامت را به همراه متن روایات صحیح و دیدگاه صحابه و علما تبیین می‌کند."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "موجود در IslamHouse (PDF/DOC) و متن کامل آنلاین در کتابخانه عقیده (کد ۱۲۲۱).",
+      "links": [
+        {
+          "label": "فری PDF (IslamHouse)",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse",
+            "bn": "ফ্রি PDF · IslamHouse",
+            "ar": "PDF مجاني · IslamHouse",
+            "ur": "مفت PDF · IslamHouse",
+            "fa": "دانلود PDF · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/books/337976"
+        },
+        {
+          "label": "متن آنلاین (Aqeedeh)",
+          "labelI18n": {
+            "en": "Read Online · Aqeedeh",
+            "bn": "অনলাইনে পড়ুন · Aqeedeh",
+            "ar": "قراءة مباشرة · عقيدة",
+            "ur": "آن لائن مطالعہ · عقیدہ",
+            "fa": "مطالعه آنلاین · عقیده"
+          },
+          "url": "https://aqeedeh.com/book_files/html/1221.html"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        171,
+        172
+      ],
+      "kw": "farsi persian hussain taji galehdari neshanehaye qiyamat sahih نشانه‌های قیامت حسین تاجی گله داری فارسی"
+    },
+    {
+      "id": 176,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "عذاب قبر و راه‌های نجات از آن در پرتو شریعت",
+      "author": "شیخ سمیر الزهیری (ترجمه فارسی، کتابخانه عقیده کد ۱۰۲۶)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কুরআন ও সহীহ হাদীসের আলোকে কবরের আযাবের ৯টি প্রধান কারণ এবং বারযাখের শাস্তি থেকে বাঁচার প্রমাণিত শরঈ উপায়সমূহের ফারসি গ্রন্থ।",
+      "focusI18n": {
+        "en": "Persian edition of Shaykh Samir al-Zuhairi's treatise identifying nine scriptural causes of punishment in the grave and authentic prophetic means of salvation in al-Barzakh.",
+        "bn": "কুরআন ও সহীহ হাদীসের আলোকে কবরের আযাবের ৯টি প্রধান কারণ এবং বারযাখের শাস্তি থেকে বাঁচার প্রমাণিত শরঈ উপায়সমূহের ফারসি গ্রন্থ।",
+        "ar": "الترجمة الفارسية لرسالة الشيخ سمير الزهيري حول أسباب عذاب القبر التسعة والمنجيات الشرعية منه.",
+        "ur": "شیخ سمیر الزہیری کی کتاب کا فارسی ترجمہ: عذابِ قبر کے نو اسباب اور اس سے نجات کے مسنون ذرائع۔",
+        "fa": "ترجمه فارسی اثر شیخ سمیر الزهیری پیرامون احوال پس از مرگ، نُه سبب اصلی عذاب قبر و راه‌های شرعی نجات از آن در پرتو قرآن و سنت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "بیش از ۱۰۷ هزار بازدید در کتابخانه عقیده.",
+      "links": [
+        {
+          "label": "کتابخانه عقیده (PDF)",
+          "labelI18n": {
+            "en": "Free PDF · Aqeedeh",
+            "bn": "ফ্রি PDF · Aqeedeh",
+            "ar": "PDF مجاني · عقيدة",
+            "ur": "مفت PDF · عقیدہ",
+            "fa": "دانلود PDF · عقیده"
+          },
+          "url": "https://aqeedeh.com/index.php/book/view/1026/%D8%B9%D8%B0%D8%A7%D8%A8%20%D9%82%D8%A8%D8%B1%20%D9%88%20%D8%B1%D8%A7%D9%87%D9%87%D8%A7%DB%8C%20%D9%86%D8%AC%D8%A7%D8%AA%20%D8%A2%D9%86?rows=100"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        46,
+        137,
+        172
+      ],
+      "kw": "farsi persian azab qabr grave punishment barzakh samir al-zuhairi عذاب قبر فارسی"
+    },
+    {
+      "id": 177,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "پایان جهان (ترجمه فارسی نهاية العالم · با تصاویر و نقشه‌ها)",
+      "author": "دکتر محمد العریفی (ترجمه فارسی، کتابخانه عقیده کد ۱۷۲۷)",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "ড. মুহাম্মদ আল-আরীফীর বহুল পঠিত ‘নিহায়াতুল আলাম’ গ্রন্থের সচিত্র ফারসি অনুবাদ: দূরবর্তী, মধ্যবর্তী ও নিকটবর্তী আলামতসমূহ এবং দাজ্জালের বিবরণ।",
+      "focusI18n": {
+        "en": "Popular illustrated Persian translation of Dr. Muhammad al-Arifi's Nihayat al-Alam organizing distant, intermediate, and major Signs of the Hour (read contemporary illustrations alongside #171).",
+        "bn": "ড. মুহাম্মদ আল-আরীফীর বহুল পঠিত ‘নিহায়াতুল আলাম’ গ্রন্থের সচিত্র ফারসি অনুবাদ: দূরবর্তী, মধ্যবর্তী ও নিকটবর্তী আলামতসমূহ এবং দাজ্জালের বিবরণ।",
+        "ar": "الترجمة الفارسية المصورة لكتاب «نهاية العالم» للدكتور محمد العريفي حول أشراط الساعة الصغرى والوسطى والكبرى.",
+        "ur": "دکتور محمد العریفی کی معروف کتاب «نہایۃ العالم» کا با تصویر فارسی ترجمہ: علاماتِ قیامت کی تفصیل۔",
+        "fa": "ترجمه فارسی مصور کتاب «نهایة العالم» اثر دکتر محمد العریفی در دسته‌بندی نشانه‌های دور، میانه و نزدیک قیامت (توصیه می‌شود در کنار #۱۷۱ مطالعه شود)."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "بیش از ۹۵ هزار بازدید در کتابخانه عقیده (کد ۱۷۲۷).",
+      "links": [
+        {
+          "label": "کتابخانه عقیده (PDF)",
+          "labelI18n": {
+            "en": "Free PDF · Aqeedeh",
+            "bn": "ফ্রি PDF · Aqeedeh",
+            "ar": "PDF مجاني · عقيدة",
+            "ur": "مفت PDF · عقیدہ",
+            "fa": "دانلود PDF · عقیده"
+          },
+          "url": "https://aqeedeh.com/book/view/1727/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        117,
+        171,
+        175
+      ],
+      "kw": "farsi persian payan jahan nihayat al-alam muhammad al-arifi پایان جهان عریفی فارسی"
+    },
+    {
+      "id": 178,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "احادیث دجال در سنت نبوی و تشریح آن‌ها با نقشه‌های امروزی",
+      "author": "شیخ عبدالمحسن القاسم (امام و خطیب مسجد نبوی · ترجمه فارسی IslamHouse)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "মসজিদে নববীর ইমাম ও খতীব শাইখ আব্দুল মুহসিন আল-কাসিমের দাজ্জাল বিষয়ক সহীহ হাদীস ও আধুনিক ভৌগোলিক মানচিত্রভিত্তিক ফারসি সংস্করণ।",
+      "focusI18n": {
+        "en": "Persian translation of Madinah Imam Shaykh Abdul Muhsin al-Qasim's visual hadith study mapping authentic prophetic narrations on al-Masih al-Dajjal onto modern geography.",
+        "bn": "মসজিদে নববীর ইমাম ও খতীব শাইখ আব্দুল মুহসিন আল-কাসিমের দাজ্জাল বিষয়ক সহীহ হাদীস ও আধুনিক ভৌগোলিক মানচিত্রভিত্তিক ফারসি সংস্করণ।",
+        "ar": "الترجمة الفارسية لكتاب إمام المسجد النبوي الشيخ عبد المحسن القاسم في أحاديث الدجال مع خرائط جغرافية معاصرة.",
+        "ur": "امامِ مسجدِ نبوی شیخ عبدالمحسن القاسم کی کتاب کا فارسی ترجمہ: احادیثِ دجال اور عصری جغرافیائی نقشے۔",
+        "fa": "ترجمه فارسی اثر امام و خطیب مسجد نبوی، شیخ عبدالمحسن القاسم، در جمع‌آوری احادیث صحیح دجال به همراه نقشه‌های جغرافیایی معاصر."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "منتشرشده در بخش «ایمان به روز آخرت» سایت رسمی IslamHouse فارسی.",
+      "links": [
+        {
+          "label": "IslamHouse فارسی",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse FA",
+            "bn": "ফ্রি PDF · IslamHouse FA",
+            "ar": "PDF مجاني · IslamHouse",
+            "ur": "مفت PDF · IslamHouse",
+            "fa": "مطالعه و دانلود · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/category/422718/showall/showall/1/"
+        }
+      ],
+      "topics": [
+        "dajjal",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        99,
+        171,
+        193
+      ],
+      "kw": "farsi persian ahadith dajjal maps abdul muhsin al-qasim islamhouse احادیث دجال نقشه فارسی"
+    },
+    {
+      "id": 179,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "تفسیر نور (دوره کامل قرآن کریم: تفسیر سوره‌های کهف، قیامت، واقعه و معاد)",
+      "author": "دکتر مصطفی خرمدل (از برجسته‌ترین مفسران اهل سنت ایران)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ইরানের প্রখ্যাত সুন্নী মুফাসসির ড. মুস্তাফা খুররমদিলের আধুনিক ও সহজবোধ্য ফারসি তাফসীর ‘তাফসীরে নূর’, যাতে সূরা কাহফ, কিয়ামাহ, ওয়াকিয়াহ ও আখিরাতের আয়াতসমূহের বিশদ ব্যাখ্যা রয়েছে।",
+      "focusI18n": {
+        "en": "Widely acclaimed modern Persian Sunni Qur'an commentary (Tafsir Noor) by Dr. Mustafa Khorramdel offering lucid exposition of Surah al-Kahf, Surah al-Qiyamah, and Akhirah verses.",
+        "bn": "ইরানের প্রখ্যাত সুন্নী মুফাসসির ড. মুস্তাফা খুররমদিলের আধুনিক ও সহজবোধ্য ফারসি তাফসীর ‘তাফসীরে নূর’, যাতে সূরা কাহফ, কিয়ামাহ, ওয়াকিয়াহ ও আখিরাতের আয়াতসমূহের বিশদ ব্যাখ্যা রয়েছে।",
+        "ar": "«تفسير نور» الشهير للدكتور مصطفى خرمدل بالفارسية، مرجع سني معاصر ميسّر لتفسير سور الكهف والقيامة والواقعة وآيات المعاد.",
+        "ur": "ایران کے معروف سنی مفسر ڈاکٹر مصطفیٰ خرمدل کی مقبول فارسی «تفسیر نور»، جس میں سورۃ الکہف، القیامۃ اور آیاتِ آخرت کی آسان تشریح موجود ہے۔",
+        "fa": "تفسیر نامدار و روان «نور» اثر دکتر مصطفی خرمدل، از مهم‌ترین مراجع تفسیری اهل سنت به زبان فارسی در تبیین سوره‌های کهف، قیامت، واقعه و آیات معاد."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "بیش از ۱۸۰ هزار بازدید در کتابخانه عقیده (کد ۷۳۶).",
+      "links": [
+        {
+          "label": "تفسیر نور (Aqeedeh)",
+          "labelI18n": {
+            "en": "Tafsir Noor · Aqeedeh",
+            "bn": "তাফসীরে নূর · Aqeedeh",
+            "ar": "تفسير نور · عقيدة",
+            "ur": "تفسیر نور · عقیدہ",
+            "fa": "تفسیر نور · کتابخانه عقیده"
+          },
+          "url": "https://aqeedeh.com/book/view/736"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "dajjal",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        157,
+        171
+      ],
+      "kw": "farsi persian tafsir noor mustafa khorramdel quran akhirah qiyamah تفسیر نور مصطفی خرمدل فارسی"
+    },
+    {
+      "id": 180,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "شرح اذکار حصن المسلم (دعاهای صحیح پناه از عذاب قبر، فتنه دجال و دوزخ)",
+      "author": "شیخ سعید بن علی بن وهف القحطانی (ترجمه فارسی IslamHouse)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "হিসনুল মুসলিমের ব্যাখ্যাসম্বলিত ফারসি সংস্করণ, যাতে কবরের আযাব, দাজ্জালের ফিতনা এবং সূরা আল-কাহফের প্রথম ১০ আয়াতের ফযীলত ও মাসনূন দুআসমূহ সনদসহ বর্ণিত হয়েছে।",
+      "focusI18n": {
+        "en": "Annotated Persian commentary on Hisn al-Muslim explaining authentic prophetic protection supplications against grave trials, Hellfire, and al-Masih al-Dajjal alongside Surah al-Kahf.",
+        "bn": "হিসনুল মুসলিমের ব্যাখ্যাসম্বলিত ফারসি সংস্করণ, যাতে কবরের আযাব, দাজ্জালের ফিতনা এবং সূরা আল-কাহফের প্রথম ১০ আয়াতের ফযীলত ও মাসনূন দুআসমূহ সনদসহ বর্ণিত হয়েছে।",
+        "ar": "الترجمة الفارسية لشرح حصن المسلم متضمنة أدعية الاستعاذة من عذاب القبر وفتنة الدجال وفضل أوائل سورة الكهف.",
+        "ur": "حصن المسلم کی فارسی شرح جس میں عذابِ قبر اور فتنۂ دجال سے پناہ کی مسنون دعائیں اور سورۃ الکہف کے فضائل بیان کیے گئے ہیں۔",
+        "fa": "شرح فارسی «حصن المسلم» شامل تبیین احادیث صحیح در پناه بردن از عذاب قبر، فتنه مسیح دجال، آتش دوزخ و فضیلت ده آیه آغازین سوره کهف."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "متن کامل و رایگان در IslamHouse فارسی.",
+      "links": [
+        {
+          "label": "IslamHouse فارسی",
+          "labelI18n": {
+            "en": "Free Read · IslamHouse",
+            "bn": "ফ্রি রিড · IslamHouse",
+            "ar": "قراءة مجانية · IslamHouse",
+            "ur": "مفت مطالعہ · IslamHouse",
+            "fa": "مطالعه رایگان · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/fa/books/2809219/"
+        }
+      ],
+      "topics": [
+        "fitan",
+        "dajjal",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        144,
+        176
+      ],
+      "kw": "farsi persian hisn al-muslim dua protection dajjal grave qabr حصن المسلم فارسی دجال قبر"
+    },
+    {
+      "id": 181,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "سیمای رستاخیز: نشانه‌ها، وقایع و نتایج (مجموعه آثار آخرت‌شناسی فارسی)",
+      "author": "محمد بن احمد کنعان (ترجمه فارسی، کتابخانه عقیده کد ۵۰۵)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কুরআন ও হাদীসের আলোকে কিয়ামতের আলামত, হাশরের ঘটনাবলি, হিসাব-নিকাশ এবং জান্নাত-জাহান্নামের ফলাফলের ওপর মুহাম্মদ আহমাদ কানআনের বিস্তারিত ফারসি অনূদিত গ্রন্থ।",
+      "focusI18n": {
+        "en": "Comprehensive Persian translation of Muhammad Ahmad Kanaan's eschatology manual walking through Signs of the Hour, cosmic events of Qiyamah, reckoning, and eternal outcomes.",
+        "bn": "কুরআন ও হাদীসের আলোকে কিয়ামতের আলামত, হাশরের ঘটনাবলি, হিসাব-নিকাশ এবং জান্নাত-জাহান্নামের ফলাফলের ওপর মুহাম্মদ আহমাদ কানআনের বিস্তারিত ফারসি অনূদিত গ্রন্থ।",
+        "ar": "الترجمة الفارسية لكتاب «قرة العينين / سيماي رستاخيز» في أشراط الساعة وأحداث القيامة والحساب والجزاء.",
+        "ur": "محمد بن احمد کنعان کی مفصل کتاب کا فارسی ترجمہ: علاماتِ قیامت، واقعاتِ محشر اور حساب و جزا۔",
+        "fa": "ترجمه فارسی اثر مفصل محمد بن احمد کنعان پیرامون نشانه‌های قیامت، چگونگی وقوع رستاخیز، حسابرسی اعمال و ویژگی‌های بهشت و جهنم."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "موجود در فهرست موضوعی بهشت و معاد کتابخانه عقیده.",
+      "links": [
+        {
+          "label": "فهرست کتب آخرت (Aqeedeh)",
+          "labelI18n": {
+            "en": "Aqeedeh Akhirah Directory",
+            "bn": "Aqeedeh আখিরাত সূচি",
+            "ar": "فهرس كتب الآخرة · عقيدة",
+            "ur": "آخرت کتب فہرست · عقیدہ",
+            "fa": "فهرست کتب معاد · عقیده"
+          },
+          "url": "https://aqeedeh.com/tags/%D8%A8%D9%87%D8%B4%D8%AA"
+        },
+        {
+          "label": "معرفی جامع آثار قیامت",
+          "labelI18n": {
+            "en": "Annotated Persian Index",
+            "bn": "ফারসি গ্রন্থ পরিচিতি",
+            "ar": "دليل مؤلفات القيامة",
+            "ur": "قیامت کتب تعارف",
+            "fa": "معرفی آثار قیامت · عقیده"
+          },
+          "url": "https://aqeedeh.com/book_files/html/1828.html"
+        }
+      ],
+      "topics": [
+        "signs",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        171,
+        173
+      ],
+      "kw": "farsi persian simaye rastakhiz muhammad kanaan aqeedeh سیمای رستاخیز کنعان فارسی"
+    },
+    {
+      "id": 182,
+      "lang": "fa",
+      "langLabel": "فارسی",
+      "title": "اسلام از دیدگاه عقل (فصل معاد و قیامت) و بررسی علمی احادیث مهدی",
+      "author": "مجموعه مقالات و کتب عقیدتی فارسی (IslamHouse)",
+      "tier": "tier2_3",
+      "tierLabel": "স্তর ২–৩",
+      "focus": "যৌক্তিক ও কুরআনী দলীলের আলোকে পরকাল (মা‘আদ)-এর অনিবার্যতা এবং ফারসি পরিমণ্ডলে ইমাম মাহদী বিষয়ক বর্ণনাসমূহের তুলনামূলক ও বিশ্লেষণমূলক পর্যালোচনা।",
+      "focusI18n": {
+        "en": "Paired Persian treatises on IslamHouse addressing rational and Qur'anic proofs of Resurrection (Ma'ad) alongside critical Persian examination of Mahdi narrations.",
+        "bn": "যৌক্তিক ও কুরআনী দলীলের আলোকে পরকাল (মা‘আদ)-এর অনিবার্যতা এবং ফারসি পরিমণ্ডলে ইমাম মাহদী বিষয়ক বর্ণনাসমূহের তুলনামূলক ও বিশ্লেষণমূলক পর্যালোচনা।",
+        "ar": "رسالتان بالفارسية على إسلام هاوس في البراهين العقلية والقرآنية للمعاد ونقد روايات المهدي غير الثابتة.",
+        "ur": "اسلام ہاؤس پر دو فارسی رسائل: معاد و آخرت کے عقلی و نقلی دلائل اور روایاتِ مہدی کا تنقیدی و تحقیقی جائزہ۔",
+        "fa": "دو اثر پژوهشی به زبان فارسی در اسلام‌هاوس: تبیین عقلی و قرآنی معاد و آخرت، و بررسی انتقادی و علمی روایات مرتبط با مهدی."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "مطالعه و دانلود آزاد در IslamHouse فارسی.",
+      "links": [
+        {
+          "label": "اسلام از دیدگاه عقل (معاد)",
+          "labelI18n": {
+            "en": "Islam & Reason (Ma'ad)",
+            "bn": "ইসলাম ও যুক্তি (মা‘আদ)",
+            "ar": "الإسلام والعقل (المعاد)",
+            "ur": "اسلام اور عقل (معاد)",
+            "fa": "اسلام از دیدگاه عقل · معاد"
+          },
+          "url": "https://islamhouse.com/fa/books/408416/"
+        },
+        {
+          "label": "بررسی علمی احادیث مهدی",
+          "labelI18n": {
+            "en": "Critical Study on Mahdi Hadiths",
+            "bn": "মাহদী হাদীস পর্যালোচনা",
+            "ar": "دراسة في أحاديث المهدي",
+            "ur": "احادیثِ مہدی کا جائزہ",
+            "fa": "بررسی علمی احادیث مهدی"
+          },
+          "url": "https://islamhouse.com/fa/books/287357/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "mahdi",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        103,
+        171
+      ],
+      "kw": "farsi persian maad akhirah reason mahdi hadith islamhouse معاد آخرت مهدی فارسی"
+    },
+    {
+      "id": 183,
+      "lang": "global",
+      "langLabel": "Bahasa Indonesia",
+      "title": "Tanda-Tanda Hari Kiamat Besar dan Kecil (Asyrath as-Sa'ah ash-Shughra wal-Kubra)",
+      "author": "IslamHouse Indonesia Editorial (Bahasa Indonesia PDF & DOC)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "বাহাসা ইন্দোনেশিয়া ভাষায় কিয়ামতের ছোট ও বড় আলামতসমূহের সুবিন্যস্ত ও সহীহ হাদীসভিত্তিক ফ্রি পিডিএফ গ্রন্থ।",
+      "focusI18n": {
+        "en": "Concise, Sahih-based Bahasa Indonesia handbook classifying Minor and Major Signs of the Hour (Asyrath as-Sa'ah), prophetic warnings, and protection against trials (Free PDF/DOC).",
+        "bn": "বাহাসা ইন্দোনেশিয়া ভাষায় কিয়ামতের ছোট ও বড় আলামতসমূহের সুবিন্যস্ত ও সহীহ হাদীসভিত্তিক ফ্রি পিডিএফ গ্রন্থ।",
+        "ar": "كتاب موثّق باللغة الإندونيسية في أشراط الساعة الصغرى والكبرى متاح مجاناً بصيغتي PDF وDOC على إسلام هاوس.",
+        "ur": "بھاشا انڈونیشیا میں علاماتِ قیامت صغریٰ و کبریٰ پر صحیح احادیث پر مشتمل مفت کتاب۔",
+        "fa": "کتاب مستند به زبان اندونزیایی در تبیین نشانه‌های کوچک و بزرگ قیامت بر اساس احادیث صحیح."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF & DOC download via IslamHouse Indonesia.",
+      "links": [
+        {
+          "label": "Free PDF · IslamHouse ID",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse ID",
+            "bn": "ফ্রি PDF · IslamHouse ID",
+            "ar": "PDF مجاني · إندونيسي",
+            "ur": "مفت PDF · انڈونیشیائی",
+            "fa": "دانلود PDF · اندونزیایی"
+          },
+          "url": "https://islamhouse.com/id/books/227817/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        93,
+        184
+      ],
+      "kw": "indonesia indonesian malay tanda tanda hari kiamat besar kecil asyrath saah islamhouse"
+    },
+    {
+      "id": 184,
+      "lang": "global",
+      "langLabel": "Bahasa Indonesia",
+      "title": "Ringkasan Fiqih Islam: Iman kepada Hari Akhir, Tanda Kiamat, Hisab & Syafa'at",
+      "author": "Syaikh Muhammad bin Ibrahim al-Tuwaijri (Bahasa Indonesia)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "শাইখ মুহাম্মদ ইবনে ইবরাহীম আত-তুওয়াইজিরীর ‘মুখতাসারুল ফিকহিল ইসলামী’-র বাহাসা ইন্দোনেশিয়া সংস্করণ: ঈমান বিল আখিরাহ, দাজ্জাল, ইয়াজূজ-মাজূজ, মীযান ও শাফাআত।",
+      "focusI18n": {
+        "en": "Bahasa Indonesia translation of Shaykh Muhammad al-Tuwaijri's Mukhtasar al-Fiqh al-Islami detailing Belief in the Last Day, Dajjal, Ya'juj & Ma'juj, Mizan, and Intercession.",
+        "bn": "শাইখ মুহাম্মদ ইবনে ইবরাহীম আত-তুওয়াইজিরীর ‘মুখতাসারুল ফিকহিল ইসলামী’-র বাহাসা ইন্দোনেশিয়া সংস্করণ: ঈমান বিল আখিরাহ, দাজ্জাল, ইয়াজূজ-মাজূজ, মীযান ও শাফাআত।",
+        "ar": "الترجمة الإندونيسية لمختصر الفقه الإسلامي للشيخ التويجري في الإيمان باليوم الآخر والدجال والميزان والشفاعة.",
+        "ur": "شیخ محمد بن ابراہیم التویجری کی کتاب کا انڈونیشیائی ترجمہ: ایمان بالآخرت، دجال، میزان اور شفاعت۔",
+        "fa": "ترجمه اندونزیایی کتاب «مختصر الفقه الإسلامی» درباره ایمان به روز آخرت، دجال، میزان و شفاعت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free online & PDF edition on IslamHouse Indonesia.",
+      "links": [
+        {
+          "label": "Iman & Hari Akhir (PDF)",
+          "labelI18n": {
+            "en": "Free Read · IslamHouse ID",
+            "bn": "ফ্রি রিড · IslamHouse ID",
+            "ar": "قراءة مجانية · إندونيسي",
+            "ur": "مفت مطالعہ · انڈونیشیائی",
+            "fa": "مطالعه رایگان · اندونزیایی"
+          },
+          "url": "https://islamhouse.com/id/books/223230/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh",
+        "dajjal",
+        "gog_magog"
+      ],
+      "isClassical": false,
+      "related": [
+        183,
+        185
+      ],
+      "kw": "indonesia malay tuwaijri iman hari akhir kiamat dajjal mizan syafaat islamhouse"
+    },
+    {
+      "id": 185,
+      "lang": "global",
+      "langLabel": "Bahasa Indonesia",
+      "title": "'Ithrul Majalis: Iman kepada Hari Akhir, Alam Kubur & 10 Tanda Besar Kiamat",
+      "author": "Turki bin Ibrahim al-Khunaizan (Bahasa Indonesia / Malay Reader)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ইন্দোনেশিয়া ও মালয়েশিয়ার পাঠকদের জন্য কবরের জীবন, পুনরুত্থান এবং কিয়ামতের ১০টি বড় আলামতের সহজবোধ্য ও প্রামাণ্য পাঠ্যপুস্তক।",
+      "focusI18n": {
+        "en": "Accessible Bahasa Indonesia / Malay creed guide explaining life in the grave, Resurrection, and the authentic hadith of Hudhayfah on the 10 Major Signs of the Hour.",
+        "bn": "ইন্দোনেশিয়া ও মালয়েশিয়ার পাঠকদের জন্য কবরের জীবন, পুনরুত্থান এবং কিয়ামতের ১০টি বড় আলামতের সহজবোধ্য ও প্রামাণ্য পাঠ্যপুস্তক।",
+        "ar": "كتاب ميسّر بالإندونيسية والملايوية حول الإيمان باليوم الآخر والبرزخ والأشراط العشر الكبرى.",
+        "ur": "انڈونیشیائی و مالائی قارئین کے لیے عذابِ قبر، حشر اور ۱۰ بڑی علامات پر آسان کتاب۔",
+        "fa": "راهنمای روان به زبان اندونزیایی و مالایی درباره ایمان به آخرت، عالم قبر و ده نشانه بزرگ قیامت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Also paired with Al-Suhaim's 'Agama Islam' overview on IslamHouse ID.",
+      "links": [
+        {
+          "label": "'Ithrul Majalis (IslamHouse)",
+          "labelI18n": {
+            "en": "Read Online · IslamHouse ID",
+            "bn": "অনলাইনে পড়ুন · IslamHouse",
+            "ar": "قراءة مباشرة · IslamHouse",
+            "ur": "آن لائن مطالعہ · IslamHouse",
+            "fa": "مطالعه آنلاین · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/id/books/2830800/"
+        },
+        {
+          "label": "Agama Islam · Hari Akhir",
+          "labelI18n": {
+            "en": "Companion Guide · IslamHouse",
+            "bn": "সহায়ক গাইড · IslamHouse",
+            "ar": "دليل ميسّر · IslamHouse",
+            "ur": "معاون کتابچہ · IslamHouse",
+            "fa": "راهنمای مکمل · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/id/books/2830859/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        183,
+        184
+      ],
+      "kw": "indonesia malay malaysia khunaizan hari akhir alam kubur tanda kiamat islamhouse"
+    },
+    {
+      "id": 186,
+      "lang": "global",
+      "langLabel": "Türkçe",
+      "title": "Kıyamet Alametleri (Türkçe · PDF & DOC)",
+      "author": "Ahmed en-Nabulsi (IslamHouse Türkçe)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "তুর্কি ভাষায় কিয়ামতের ছোট ও বড় আলামত, ফিতনা এবং শেষ দিবসের প্রতি ঈমান বিষয়ে সুবিন্যস্ত ও ফ্রি পিডিএফ গ্রন্থ।",
+      "focusI18n": {
+        "en": "Structured Turkish monograph on the Signs of the Hour (Kıyamet Alametleri) and belief in the Last Day, available as free PDF and DOC on IslamHouse Turkish.",
+        "bn": "তুর্কি ভাষায় কিয়ামতের ছোট ও বড় আলামত, ফিতনা এবং শেষ দিবসের প্রতি ঈমান বিষয়ে সুবিন্যস্ত ও ফ্রি পিডিএফ গ্রন্থ।",
+        "ar": "كتاب موثّق باللغة التركية حول أشراط الساعة والإيمان باليوم الآخر متاح مجاناً في إسلام هاوس.",
+        "ur": "ترکی زبان میں علاماتِ قیامت اور ایمان بالآخرت پر مفت دستیاب کتاب۔",
+        "fa": "کتاب مستند به زبان ترکی استانبولی درباره نشانه‌های قیامت و ایمان به روز آخرت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF (1.1 MB) and DOC via IslamHouse Turkish.",
+      "links": [
+        {
+          "label": "Free PDF · IslamHouse TR",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse TR",
+            "bn": "ফ্রি PDF · IslamHouse TR",
+            "ar": "PDF مجاني · تركي",
+            "ur": "مفت PDF · ترکی",
+            "fa": "دانلود PDF · ترکی"
+          },
+          "url": "https://islamhouse.com/tr/books/984"
+        }
+      ],
+      "topics": [
+        "signs",
+        "afterlife",
+        "fitan"
+      ],
+      "isClassical": false,
+      "related": [
+        187,
+        188
+      ],
+      "kw": "turkish turkce kiyamet alametleri ahiret deccal islamhouse nabulsi"
+    },
+    {
+      "id": 187,
+      "lang": "global",
+      "langLabel": "Türkçe",
+      "title": "TDV İslâm Ansiklopedisi: Kıyamet Alâmetleri (Eşrâtü's-Sâa) & Tezkiretü'l-Kurtubî",
+      "author": "Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi (İSAM)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "তুরস্কের প্রখ্যাত একাডেমিক বিশ্বকোষ ‘TDV ইসলাম এনসাইক্লোপিডিয়া’-তে কিয়ামতের আলামত, দাজ্জাল, দুখান, দাব্বাতুল আরদ ও ইমাম কুরতুবীর তাযকিরাহ-র প্রামাণ্য গবেষণা নিবন্ধ।",
+      "focusI18n": {
+        "en": "Peer-reviewed Turkish academic encyclopedia entries from TDV İslâm Ansiklopedisi surveying classical Sunni hadith, kalam, and literature on Ashrat al-Sa'ah, Dajjal, and al-Qurtubi's Tadhkirah.",
+        "bn": "তুরস্কের প্রখ্যাত একাডেমিক বিশ্বকোষ ‘TDV ইসলাম এনসাইক্লোপিডিয়া’-তে কিয়ামতের আলামত, দাজ্জাল, দুখান, দাব্বাতুল আরদ ও ইমাম কুরতুবীর তাযকিরাহ-র প্রামাণ্য গবেষণা নিবন্ধ।",
+        "ar": "مواد أكاديمية محكّمة في «دائرة المعارف الإسلامية التركية» حول أشراط الساعة والتذكرة للقرطبي والدجال.",
+        "ur": "ترکیہ دیانت وقف اسلامی انسائیکلوپیڈیا کے مستند علمی مقالات: علاماتِ قیامت اور تذکرۂ قرطبی۔",
+        "fa": "مداخل علمی و دانشگاهی دایرةالمعارف اسلامی ترکیه (دیانت) درباره اشراط الساعة و تذکره قرطبی."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Open-access peer-reviewed Turkish academic portal (TDV İSAM).",
+      "links": [
+        {
+          "label": "Kıyamet Alâmetleri (TDV)",
+          "labelI18n": {
+            "en": "Kıyamet Alâmetleri · TDV",
+            "bn": "TDV বিশ্বকোষ নিবন্ধ",
+            "ar": "أشراط الساعة · الموسوعة التركية",
+            "ur": "علاماتِ قیامت · TDV",
+            "fa": "اشراط الساعة · دیانت ترکیه"
+          },
+          "url": "https://islamansiklopedisi.org.tr/kiyamet-alametleri"
+        },
+        {
+          "label": "Tezkiretü'l-Kurtubî (TDV)",
+          "labelI18n": {
+            "en": "Tadhkirat al-Qurtubi · TDV",
+            "bn": "তাযকিরাতুল কুরতুবী · TDV",
+            "ar": "تذكرة القرطبي · TDV",
+            "ur": "تذکرۂ قرطبی · TDV",
+            "fa": "تذکره قرطبی · دیانت"
+          },
+          "url": "https://islamansiklopedisi.org.tr/tezkiretul-kurtubi"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "methodology",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        108,
+        126,
+        186
+      ],
+      "kw": "turkish turkce tdv diyanet islam ansiklopedisi kiyamet alametleri kurtubi academic"
+    },
+    {
+      "id": 188,
+      "lang": "global",
+      "langLabel": "Türkçe",
+      "title": "Kıyâmet Günü Kula Sorulacak Sorular, Kabir Fitnesi & Ehl-i Sünnet Akidesi",
+      "author": "Şeyh Muhammed Salih el-Müneccid & IslamHouse Türkçe",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "তুর্কি ভাষায় কবরের প্রশ্নোত্তর, কিয়ামতের দিনে বান্দাকে জিজ্ঞাসিতব্য ৫টি মৌলিক প্রশ্ন এবং আহলে সুন্নাহর পরকালীন আকীদার সংক্ষিপ্ত নির্দেশিকা।",
+      "focusI18n": {
+        "en": "Turkish hadith-based guides explaining the questioning in the grave, the five questions asked on the Day of Judgment, and Sunni creed on the Hereafter.",
+        "bn": "তুর্কি ভাষায় কবরের প্রশ্নোত্তর, কিয়ামতের দিনে বান্দাকে জিজ্ঞাসিতব্য ৫টি মৌলিক প্রশ্ন এবং আহলে সুন্নাহর পরকালীন আকীদার সংক্ষিপ্ত নির্দেশিকা।",
+        "ar": "مواد موثقة باللغة التركية حول سؤال القبر والأسئلة الخمسة يوم القيامة وعقيدة أهل السنة في الآخرة.",
+        "ur": "ترکی زبان میں سوالِ قبر، قیامت کے پانچ سوالات اور عقیدۂ آخرت پر مستند تحریریں۔",
+        "fa": "راهنمای ترکی درباره پرسش‌های قبر، پنج پرسش روز قیامت و عقیده اهل سنت در باب آخرت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Open access on IslamHouse Turkish.",
+      "links": [
+        {
+          "label": "Kıyamet Soruları (IslamHouse TR)",
+          "labelI18n": {
+            "en": "Questions of Qiyamah · TR",
+            "bn": "কিয়ামতের প্রশ্নোত্তর · TR",
+            "ar": "أسئلة يوم القيامة · تركي",
+            "ur": "قیامت کے سوالات · ترکی",
+            "fa": "پرسش‌های قیامت · ترکی"
+          },
+          "url": "https://islamhouse.com/tr/fatwa/58126/"
+        },
+        {
+          "label": "Türkçe Kitaplar · Ahiret",
+          "labelI18n": {
+            "en": "Turkish Books · IslamHouse",
+            "bn": "তুর্কি গ্রন্থাগার · IslamHouse",
+            "ar": "الكتب التركية · IslamHouse",
+            "ur": "ترکی کتب · IslamHouse",
+            "fa": "کتاب‌های ترکی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/tr/books/tr/1/"
+        }
+      ],
+      "topics": [
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        186,
+        187
+      ],
+      "kw": "turkish turkce kabir kiyamet gunu hesap ahiret muneccid islamhouse"
+    },
+    {
+      "id": 189,
+      "lang": "global",
+      "langLabel": "Français",
+      "title": "Les Signes de l'Heure (Mineurs & Majeurs), Le Retour de Jésus & La Foi au Jour Dernier",
+      "author": "IslamHouse Français (1,480+ Ressources Francophones · Afrique de l'Ouest & Monde)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ফরাসিভাষী বিশ্ব ও পশ্চিম আফ্রিকার (সেনেগাল, মালি, নাইজার, গিনি, চাদ, বুরকিনা ফাসো) পাঠকদের জন্য কিয়ামতের ছোট-বড় আলামত, ঈসা (আ.)-এর অবতরণ, দাজ্জাল ও কবরের জীবনের ফরাসি গ্রন্থমালা।",
+      "focusI18n": {
+        "en": "Flagship French-language IslamHouse eschatology library serving Francophone global and West African readers (Senegal, Mali, Niger, Guinea, Chad, Burkina Faso) on Minor/Major Signs, Isa (AS), Dajjal, and Barzakh.",
+        "bn": "ফরাসিভাষী বিশ্ব ও পশ্চিম আফ্রিকার (সেনেগাল, মালি, নাইজার, গিনি, চাদ, বুরকিনা ফাসো) পাঠকদের জন্য কিয়ামতের ছোট-বড় আলামত, ঈসা (আ.)-এর অবতরণ, দাজ্জাল ও কবরের জীবনের ফরাসি গ্রন্থমালা।",
+        "ar": "المكتبة الفرنسية الشاملة في إسلام هاوس لأشراط الساعة الصغرى والكبرى ونزول عيسى والدار الآخرة، تخدم القراء الفرنكوفونيين وغرب إفريقيا.",
+        "ur": "فرانسیسی اور مغربی افریقہ (سینیگال، مالی، نائجر، گنی، چاڈ، برکینا فاسو) کے قارئین کے لیے علاماتِ قیامت، نزولِ عیسیٰؑ اور آخرت کا مستند فرانسیسی ذخیرہ۔",
+        "fa": "مجموعه جامع فرانسوی در اسلام‌هاوس درباره نشانه‌های کوچک و بزرگ قیامت، نزول عیسی و برزخ برای مخاطبان فرانسوی‌زبان و غرب آفریقا."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct free French books & articles on IslamHouse.",
+      "links": [
+        {
+          "label": "Les Signes de l'Heure (FR)",
+          "labelI18n": {
+            "en": "Signs of the Hour · FR",
+            "bn": "ফরাসি আলামত সংগ্রহ",
+            "ar": "أشراط الساعة · فرنسي",
+            "ur": "علاماتِ قیامت · فرانسیسی",
+            "fa": "نشانه‌های قیامت · فرانسوی"
+          },
+          "url": "https://islamhouse.com/fr/category/398206/showall/showall/1/"
+        },
+        {
+          "label": "Livres · Jour Dernier (FR)",
+          "labelI18n": {
+            "en": "French Books Directory",
+            "bn": "ফরাসি গ্রন্থ সূচি",
+            "ar": "كتب اليوم الآخر · فرنسي",
+            "ur": "فرانسیسی کتب فہرست",
+            "fa": "فهرست کتاب‌های فرانسوی"
+          },
+          "url": "https://islamhouse.com/fr/category/5810/books/showall/1/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "isa",
+        "dajjal",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        93,
+        99
+      ],
+      "kw": "french francais signes heure fin des temps dajjal jesus mahdi senegal mali niger guinea chad burkina faso islamhouse"
+    },
+    {
+      "id": 190,
+      "lang": "global",
+      "langLabel": "Русский",
+      "title": "Пророчества о приближении Конца Света (Prophecies of the Approaching End of the World)",
+      "author": "Эльмир Кулиев (Elmir Kuliev · IslamHouse Русский PDF/DOC)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "রাশিয়া, কাজাখস্তান, কিরগিজস্তান ও মধ্য এশিয়ার রুশভাষী পাঠকদের জন্য প্রখ্যাত অনুবাদক এলমির কুলিয়েভের কিয়ামতের আলামত বিষয়ক প্রামাণ্য গ্রন্থ।",
+      "focusI18n": {
+        "en": "Widely respected Russian monograph by Elmir Kuliev serving readers across Kazakhstan, Kyrgyzstan, Central Asia, and CIS on authentic Prophetic signs of the approaching Hour (Free PDF/DOC).",
+        "bn": "রাশিয়া, কাজাখস্তান, কিরগিজস্তান ও মধ্য এশিয়ার রুশভাষী পাঠকদের জন্য প্রখ্যাত অনুবাদক এলমির কুলিয়েভের কিয়ামতের আলামত বিষয়ক প্রামাণ্য গ্রন্থ।",
+        "ar": "كتاب روسي موثّق للباحث إلمير كولييف حول أشراط الساعة وعلامات اقتراب يوم القيامة، يخدم قراء آسيا الوسطى وروسيا.",
+        "ur": "وسطی ایشیا (قازقستان، کرغیزستان) اور روسی زبان کے قارئین کے لیے ایلمیر کولیف کی علاماتِ قیامت پر مستند کتاب۔",
+        "fa": "کتاب مستند به زبان روسی اثر المیر کولیف درباره نشانه‌های نزدیک شدن قیامت برای خوانندگان آسیای مرکزی و روسیه."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF (494 KB) & DOC download via IslamHouse Russian.",
+      "links": [
+        {
+          "label": "Free PDF · IslamHouse RU",
+          "labelI18n": {
+            "en": "Free PDF · IslamHouse RU",
+            "bn": "ফ্রি PDF · IslamHouse RU",
+            "ar": "PDF مجاني · روسي",
+            "ur": "مفت PDF · روسی",
+            "fa": "دانلود PDF · روسی"
+          },
+          "url": "https://islamhouse.com/ru/books/65270"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        191,
+        200
+      ],
+      "kw": "russian russkiy elmir kuliev priznaki sudnogo dnya konets sveta kazakhstan kyrgyzstan islamhouse"
+    },
+    {
+      "id": 191,
+      "lang": "global",
+      "langLabel": "Русский",
+      "title": "Предостережение от искушений и смут (Warning Against End-Times Trials & Dajjal)",
+      "author": "Абу Ясин Руслан Маликов (IslamHouse Русский)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "ফিতনা, দাজ্জাল ও কবরের শাস্তি থেকে সুরক্ষার সহীহ হাদীস ও দুআসমূহের রুশ ভাষায় নির্ভরযোগ্য ব্যাখ্যা।",
+      "focusI18n": {
+        "en": "Russian hadith treatise explaining prophetic warnings against tribulations (Fitan), protection from al-Masih al-Dajjal, grave trials, and steadfastness in faith.",
+        "bn": "ফিতনা, দাজ্জাল ও কবরের শাস্তি থেকে সুরক্ষার সহীহ হাদীস ও দুআসমূহের রুশ ভাষায় নির্ভরযোগ্য ব্যাখ্যা।",
+        "ar": "رسالة موثّقة باللغة الروسية في التحذير من الفتن وسبل العصمة من الدجال وعذاب القبر.",
+        "ur": "فتنوں، دجال اور عذابِ قبر سے بچاؤ کے مسنون طریقوں پر روسی زبان میں مستند رسالہ۔",
+        "fa": "رساله روسی در هشدار از فتنه‌ها و راه‌های نبوی پناه بردن از دجال و عذاب قبر."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free online read on IslamHouse Russian.",
+      "links": [
+        {
+          "label": "Read Online · IslamHouse RU",
+          "labelI18n": {
+            "en": "Read Online · IslamHouse RU",
+            "bn": "অনলাইনে পড়ুন · RU",
+            "ar": "قراءة مباشرة · روسي",
+            "ur": "آن لائن مطالعہ · روسی",
+            "fa": "مطالعه آنلاین · روسی"
+          },
+          "url": "https://islamhouse.com/ru/articles/716568/"
+        }
+      ],
+      "topics": [
+        "fitan",
+        "dajjal",
+        "barzakh"
+      ],
+      "isClassical": false,
+      "related": [
+        190,
+        200
+      ],
+      "kw": "russian fitan dajjal smuty kazakhstan kyrgyzstan malikov islamhouse"
+    },
+    {
+      "id": 192,
+      "lang": "global",
+      "langLabel": "پښتو (Pashto)",
+      "title": "د قیامت نښې نښانې، د قبر امتحان او د آخرت پر ورځ ایمان (Pashto PDF & Lectures)",
+      "author": "IslamHouse پښتو (پښتو او دري کتابونه و بیانونه)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "আফগানিস্তান ও পশতুন পাঠকদের জন্য পশতু ভাষায় কিয়ামতের ছোট-বড় আলামত, কবরের পরীক্ষা ও আখিরাতের প্রতি ঈমানের ফ্রি পিডিএফ ও অডিও-ভিডিও সংগ্রহ।",
+      "focusI18n": {
+        "en": "Verified Pashto-language IslamHouse collection for Afghan and Pashtun readers featuring PDFs and talks on the Signs of Qiyamah, the trial of the grave, and Belief in the Last Day.",
+        "bn": "আফগানিস্তান ও পশতুন পাঠকদের জন্য পশতু ভাষায় কিয়ামতের ছোট-বড় আলামত, কবরের পরীক্ষা ও আখিরাতের প্রতি ঈমানের ফ্রি পিডিএফ ও অডিও-ভিডিও সংগ্রহ।",
+        "ar": "مكتبة البشتو الموثقة في إسلام هاوس لكتب ومحاضرات أشراط الساعة وعذاب القبر والإيمان باليوم الآخر.",
+        "ur": "افغانستان اور پشتو قارئین کے لیے علاماتِ قیامت، قبر کی آزمائش اور ایمان بالآخرت پر مفت پشتو کتب و بیانات۔",
+        "fa": "مجموعه مستند پشتو در اسلام‌هاوس شامل کتاب‌ها و دروس نشانه‌های قیامت، امتحان قبر و ایمان به آخرت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF & MP3/MP4 archive on IslamHouse Pashto.",
+      "links": [
+        {
+          "label": "د آخرت پر ورځ ایمان (Pashto)",
+          "labelI18n": {
+            "en": "Akhirah Archive · Pashto",
+            "bn": "আখিরাত আর্কাইভ · পশতু",
+            "ar": "اليوم الآخر · البشتو",
+            "ur": "ایمان بالآخرت · پشتو",
+            "fa": "ایمان به آخرت · پشتو"
+          },
+          "url": "https://islamhouse.com/ps/category/422718/showall/showall/1/"
+        },
+        {
+          "label": "د قبر امتحان او عذاب (Pashto)",
+          "labelI18n": {
+            "en": "Trial of the Grave · Pashto",
+            "bn": "কবরের পরীক্ষা · পশতু",
+            "ar": "عذاب القبر · البشتو",
+            "ur": "امتحانِ قبر · پشتو",
+            "fa": "امتحان قبر · پشتو"
+          },
+          "url": "https://islamhouse.com/ps/category/461237/showall/showall/1/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        171,
+        175
+      ],
+      "kw": "pashto afghanistan dari qiyamat signs grave akhirah islamhouse پښتو قیامت نښې آخرت"
+    },
+    {
+      "id": 193,
+      "lang": "global",
+      "langLabel": "Hausa",
+      "title": "Hadisan Dujal a Cikin Sunnar Annabi Tare da Taswirori na Zamani (Hausa PDF)",
+      "author": "Shaykh Abdul Muhsin al-Qasim (IslamHouse Hausa · Nigeria / Niger)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "নাইজেরিয়া, নাইজার ও পশ্চিম আফ্রিকার হাউসাভাষী পাঠকদের জন্য মসজিদে নববীর ইমামের দাজ্জাল বিষয়ক হাদীস ও আধুনিক মানচিত্রভিত্তিক হাউসা পিডিএফ গ্রন্থ।",
+      "focusI18n": {
+        "en": "Hausa-language PDF edition of Shaykh Abdul Muhsin al-Qasim's authentic hadith study on al-Masih al-Dajjal illustrated with modern maps, serving Nigeria, Niger, and West Africa.",
+        "bn": "নাইজেরিয়া, নাইজার ও পশ্চিম আফ্রিকার হাউসাভাষী পাঠকদের জন্য মসজিদে নববীর ইমামের দাজ্জাল বিষয়ক হাদীস ও আধুনিক মানচিত্রভিত্তিক হাউসা পিডিএফ গ্রন্থ।",
+        "ar": "الترجمة بلغة الهوسا لكتاب الشيخ عبد المحسن القاسم في أحاديث الدجال مع الخرائط المعاصرة، لقرّاء نيجيريا والنيجر وغرب إفريقيا.",
+        "ur": "نائجیریا اور نائجر کے ہاؤسا قارئین کے لیے شیخ عبدالمحسن القاسم کی کتاب «احادیثِ دجال» کا ہاؤسا پی ڈی ایف ترجمہ۔",
+        "fa": "ترجمه زبان هوسا از کتاب احادیث دجال با نقشه‌های معاصر ویژه خوانندگان نیجریه، نیجر و غرب آفریقا."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF & Khutbah archive on IslamHouse Hausa.",
+      "links": [
+        {
+          "label": "Alamomin Qiyama · Hausa PDF",
+          "labelI18n": {
+            "en": "Dajjal & Signs PDF · Hausa",
+            "bn": "হাউসা ফ্রি PDF",
+            "ar": "أحاديث الدجال · هوسا",
+            "ur": "احادیثِ دجال · ہاؤسا",
+            "fa": "احادیث دجال · هوسا"
+          },
+          "url": "https://islamhouse.com/ha/category/398206/books/showall/1/"
+        },
+        {
+          "label": "Dalilan Annabta · Signs Khutbah",
+          "labelI18n": {
+            "en": "Signs Khutbah · Hausa",
+            "bn": "খুতবা · হাউসা",
+            "ar": "خطبة العلامات · هوسا",
+            "ur": "خطبہ علامات · ہاؤسا",
+            "fa": "خطبه نشانه‌ها · هوسا"
+          },
+          "url": "https://islamhouse.com/ha/khotab/2834470/"
+        }
+      ],
+      "topics": [
+        "dajjal",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        178,
+        189
+      ],
+      "kw": "hausa nigeria niger chad dujal dajjal qiyama lahira abdul muhsin al-qasim islamhouse"
+    },
+    {
+      "id": 194,
+      "lang": "global",
+      "langLabel": "Bosanski",
+      "title": "Mali i Veliki Predznaci Sudnjeg Dana (Minor & Major Signs · Bosnian / Croatian / Serbian)",
+      "author": "Muhammed b. Ibrahim et-Tuvejdžiri (IslamHouse Bosanski PDF)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "বসনিয়া, ক্রোয়েশিয়া ও সার্বিয়ার পাঠকদের জন্য কিয়ামতের ছোট ও বড় ১০টি আলামত, দাজ্জাল এবং সূরা আল-কাহফের সুরক্ষার বসনীয় ফ্রি পিডিএফ।",
+      "focusI18n": {
+        "en": "Paired Bosnian PDFs (mutually intelligible across Bosnian, Croatian, and Serbian readers) detailing authentic Minor Signs, the 10 Major Signs, al-Dajjal, and protection via Surah al-Kahf.",
+        "bn": "বসনিয়া, ক্রোয়েশিয়া ও সার্বিয়ার পাঠকদের জন্য কিয়ামতের ছোট ও বড় ১০টি আলামত, দাজ্জাল এবং সূরা আল-কাহফের সুরক্ষার বসনীয় ফ্রি পিডিএফ।",
+        "ar": "رسالتان باللغة البوسنية (مفهومتان في البوسنة وكرواتيا وصربيا) حول أشراط الساعة الصغرى والكبرى وفتنة الدجال.",
+        "ur": "بوسنیا، کروشیا اور سربیا کے قارئین کے لیے علاماتِ قیامت صغریٰ و کبریٰ اور دجال پر مفت بوسنیائی پی ڈی ایف۔",
+        "fa": "دو رساله به زبان بوسنیایی (قابل فهم برای مخاطبان بوسنی، کرواسی و صربستان) درباره نشانه‌های کوچک و بزرگ قیامت و دجال."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free PDF & DOC editions on IslamHouse Bosnian.",
+      "links": [
+        {
+          "label": "Mali Predznaci (PDF)",
+          "labelI18n": {
+            "en": "Minor Signs PDF · BS",
+            "bn": "ছোট আলামত PDF · বসনীয়",
+            "ar": "الأشراط الصغرى · بوسني",
+            "ur": "صغریٰ علامات · بوسنیائی",
+            "fa": "نشانه‌های کوچک · بوسنیایی"
+          },
+          "url": "https://islamhouse.com/bs/articles/468646"
+        },
+        {
+          "label": "Veliki Predznaci (PDF)",
+          "labelI18n": {
+            "en": "Major Signs PDF · BS",
+            "bn": "বড় আলামত PDF · বসনীয়",
+            "ar": "الأشراط الكبرى · بوسني",
+            "ur": "کبریٰ علامات · بوسنیائی",
+            "fa": "نشانه‌های بزرگ · بوسنیایی"
+          },
+          "url": "https://islamhouse.com/bs/articles/468648/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "isa",
+        "gog_magog"
+      ],
+      "isClassical": false,
+      "related": [
+        195,
+        196
+      ],
+      "kw": "bosnian bosanski croatian hrvatski serbian srpski predznaci sudnjeg dana dedzdzal islamhouse"
+    },
+    {
+      "id": 195,
+      "lang": "global",
+      "langLabel": "Bosanski",
+      "title": "Tevhid za Omladinu: Vjerovanje u Ahiret, Predznake, Mizan, Sirat i Džennet",
+      "author": "Dr. Abdulaziz Al Abdullatif (IslamHouse Bosanski)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "বাল্কান অঞ্চলের তরুণ ও নবীন শিক্ষার্থীদের জন্য ঈমান বিল আখিরাহ, পুনরুত্থান, মীযান, পুলসিরাত ও জান্নাত-জাহান্নামের সহজবোধ্য বসনীয় পাঠ্যবই।",
+      "focusI18n": {
+        "en": "Clear Bosnian introductory creed textbook for Balkan youth covering Belief in the Hereafter (Ahiret), Signs of the Hour, Resurrection, Scales, Sirat, Paradise, and Hellfire.",
+        "bn": "বাল্কান অঞ্চলের তরুণ ও নবীন শিক্ষার্থীদের জন্য ঈমান বিল আখিরাহ, পুনরুত্থান, মীযান, পুলসিরাত ও জান্নাত-জাহান্নামের সহজবোধ্য বসনীয় পাঠ্যবই।",
+        "ar": "كتاب ميسّر بالبوسنية للشباب حول الإيمان باليوم الآخر والميزان والصراط والجنة والنار.",
+        "ur": "بلقان کے نوجوانوں کے لیے ایمان بالآخرت، میزان، صراط اور جنت و جہنم پر آسان بوسنیائی کتاب۔",
+        "fa": "کتاب آموزشی بوسنیایی برای جوانان درباره ایمان به آخرت، میزان، صراط، بهشت و دوزخ."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free full book on IslamHouse Bosnian.",
+      "links": [
+        {
+          "label": "Free Read · IslamHouse BS",
+          "labelI18n": {
+            "en": "Free Book · IslamHouse BS",
+            "bn": "ফ্রি বই · বসনীয়",
+            "ar": "كتاب مجاني · بوسني",
+            "ur": "مفت کتاب · بوسنیائی",
+            "fa": "کتاب رایگان · بوسنیایی"
+          },
+          "url": "https://islamhouse.com/bs/books/826674/"
+        }
+      ],
+      "topics": [
+        "afterlife",
+        "barzakh",
+        "signs"
+      ],
+      "isClassical": false,
+      "related": [
+        194,
+        196
+      ],
+      "kw": "bosnian croatian serbian tevhid ahiret sudnji dan mizan sirat dzennet islamhouse"
+    },
+    {
+      "id": 196,
+      "lang": "global",
+      "langLabel": "Shqip",
+      "title": "Besimi në Ditën e Gjykimit, Shenjat e Kiametit & Sprova e Varrit (Albanian Archive)",
+      "author": "IslamHouse Shqip (Albania, Kosovo & North Macedonia)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "আলবেনিয়া ও কসোভোর পাঠকদের জন্য আলবেনীয় ভাষায় কিয়ামতের ছোট ও বড় আলামত, দাজ্জাল, কবরের পরীক্ষা এবং শেষ দিবসের প্রতি ঈমানের উন্মুক্ত গ্রন্থ ও পাঠ্য সংগ্রহ।",
+      "focusI18n": {
+        "en": "Verified Albanian-language IslamHouse portal serving Albania, Kosovo, and North Macedonia on Belief in the Last Day, Minor & Major Signs of Qiyamah, Dajjal, and grave trials.",
+        "bn": "আলবেনিয়া ও কসোভোর পাঠকদের জন্য আলবেনীয় ভাষায় কিয়ামতের ছোট ও বড় আলামত, দাজ্জাল, কবরের পরীক্ষা এবং শেষ দিবসের প্রতি ঈমানের উন্মুক্ত গ্রন্থ ও পাঠ্য সংগ্রহ।",
+        "ar": "مكتبة اللغة الألبانية الموثّقة في إسلام هاوس لأشراط الساعة الصغرى والكبرى والدجال وعذاب القبر واليوم الآخر.",
+        "ur": "البانیہ اور کوسوو کے قارئین کے لیے البانوی زبان میں علاماتِ قیامت، دجال اور قبر کی آزمائش پر مفت ذخیرہ۔",
+        "fa": "کتابخانه مستند آلبانیایی در اسلام‌هاوس پیرامون ایمان به روز قیامت، نشانه‌های کوچک و بزرگ و امتحان قبر."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct Albanian category hub on IslamHouse.",
+      "links": [
+        {
+          "label": "Teuhidi & Shenjat · Shqip",
+          "labelI18n": {
+            "en": "Albanian Library · IslamHouse",
+            "bn": "আলবেনীয় আর্কাইভ · IslamHouse",
+            "ar": "المكتبة الألبانية · IslamHouse",
+            "ur": "البانوی ذخیرہ · IslamHouse",
+            "fa": "بخش آلبانیایی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/sq/category/729029/showall/showall/1/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        194,
+        195
+      ],
+      "kw": "albanian shqip kosovo shenjat e kiametit dita e gjykimit dexhalli varri islamhouse"
+    },
+    {
+      "id": 197,
+      "lang": "global",
+      "langLabel": "Soomaali",
+      "title": "Rumaynta Maalinta Qiyaamaha, Calaamadaha Saacada & Cadaab Qabriga (Somali Archive)",
+      "author": "IslamHouse Soomaali (Somalia & Djibouti · 1,800+ Materials)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "সোমালিয়া ও জিবুতির পাঠকদের জন্য সোমালি ভাষায় কিয়ামতের আলামত, দাজ্জাল, কবরের জীবন, হাউয, পুলসিরাত এবং জান্নাত-জাহান্নামের বিশাল যাচাইকৃত ডিজিটাল আর্কাইভ।",
+      "focusI18n": {
+        "en": "Comprehensive Somali-language IslamHouse eschatology directory covering Belief in the Last Day, 230+ resources on Signs of the Hour, Dajjal, Barzakh, Sirat, Paradise, and Hellfire.",
+        "bn": "সোমালিয়া ও জিবুতির পাঠকদের জন্য সোমালি ভাষায় কিয়ামতের আলামত, দাজ্জাল, কবরের জীবন, হাউয, পুলসিরাত এবং জান্নাত-জাহান্নামের বিশাল যাচাইকৃত ডিজিটাল আর্কাইভ।",
+        "ar": "مكتبة اللغة الصومالية الموثّقة في إسلام هاوس للإيمان باليوم الآخر وأشراط الساعة وعذاب القبر والجنة والنار.",
+        "ur": "صومالیہ اور جبوتی کے قارئین کے لیے صومالی زبان میں علاماتِ قیامت، دجال، قبر اور آخرت کا وسیع مستند ذخیرہ۔",
+        "fa": "آرشیو جامع زبان سومالیایی در اسلام‌هاوس درباره ایمان به قیامت، نشانه‌های ساعت، دجال و برزخ."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Open Somali archive (books, articles & audio) on IslamHouse.",
+      "links": [
+        {
+          "label": "IslamHouse Soomaali · Qiyaame",
+          "labelI18n": {
+            "en": "Somali Eschatology Archive",
+            "bn": "সোমালি আর্কাইভ · IslamHouse",
+            "ar": "المكتبة الصومالية · IslamHouse",
+            "ur": "صومالی ذخیرہ · IslamHouse",
+            "fa": "بخش سومالیایی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/so/category/77380/showall/showall/1/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "dajjal",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        193,
+        189
+      ],
+      "kw": "somali soomaali somalia djibouti calaamadaha qiyaamaha dijaal cadaab qabriga islamhouse"
+    },
+    {
+      "id": 198,
+      "lang": "global",
+      "langLabel": "O'zbekcha",
+      "title": "Ақидага оид 200 савол ва жавоб (Qiyomat Alomatlari, Qabr, Mizan va Oxirat)",
+      "author": "Ҳофиз Аҳмад ал-Ҳакамий (Hafiz al-Hakami · IslamHouse O'zbekcha)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "উজবেকিস্তান ও মধ্য এশিয়ার পাঠকদের জন্য হাফিয আল-হাকামীর প্রখ্যাত ‘২০০ প্রশ্নোত্তরে আকীদা’ গ্রন্থের উজবেক অনুবাদ, যাতে কিয়ামতের আলামত, কবর, শাফায়াত ও মীযানের বিশদ উত্তর রয়েছে।",
+      "focusI18n": {
+        "en": "Uzbek translation of Shaykh Hafiz al-Hakami's classic '200 Questions & Answers on Islamic Creed', detailing Signs of the Hour, rising of the sun from the west, grave trials, Mizan, and Intercession.",
+        "bn": "উজবেকিস্তান ও মধ্য এশিয়ার পাঠকদের জন্য হাফিয আল-হাকামীর প্রখ্যাত ‘২০০ প্রশ্নোত্তরে আকীদা’ গ্রন্থের উজবেক অনুবাদ, যাতে কিয়ামতের আলামত, কবর, শাফায়াত ও মীযানের বিশদ উত্তর রয়েছে।",
+        "ar": "الترجمة الأوزبكية لكتاب «أعلام السنة المنشورة / ٢٠٠ سؤال وجواب في العقيدة» للشيخ حافظ الحكمي شاملة لأشراط الساعة والبعث.",
+        "ur": "ازبکستان اور وسطی ایشیا کے قارئین کے لیے شیخ حافظ الحکمی کی «عقیدہ کے ۲۰۰ سوال و جواب» کا ازبک ترجمہ (بشمول علاماتِ قیامت)۔",
+        "fa": "ترجمه ازبکی کتاب نامدار «۲۰۰ پرسش و پاسخ عقیدتی» اثر حافظ الحکمی شامل مباحث علامات قیامت، قبر، میزان و شفاعت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Free complete Uzbek book on IslamHouse.",
+      "links": [
+        {
+          "label": "200 Savol va Javob · O'zbekcha",
+          "labelI18n": {
+            "en": "Free Book · IslamHouse UZ",
+            "bn": "ফ্রি বই · উজবেক",
+            "ar": "كتاب مجاني · أوزبكي",
+            "ur": "مفت کتاب · ازبک",
+            "fa": "کتاب رایگان · ازبکی"
+          },
+          "url": "https://islamhouse.com/uz/books/191576/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "barzakh",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        199,
+        200
+      ],
+      "kw": "uzbek ozbekcha uzbekistan qiyomat alomatlari oxirat aqida hakami islamhouse"
+    },
+    {
+      "id": 199,
+      "lang": "global",
+      "langLabel": "Тоҷикӣ (Tajik)",
+      "title": "Нишонаҳои Қиёмат (ба ривояти Аҳли Суннат) ва Тафсири Сураи Набаъ",
+      "author": "IslamHouse Тоҷикӣ (Tajikistan · Tajik Persian)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "তাজিকিস্তানের তাজিক ফারসি পাঠকদের জন্য আহলে সুন্নাহর সহীহ হাদীস অনুযায়ী কিয়ামতের আলামত (‘নিশোনাহোয়ে কিয়োমাত’) এবং সূরা আন-নাবা-র তাফসীর।",
+      "focusI18n": {
+        "en": "Tajik (Cyrillic Persian) Sunni handbook 'Nishonahoi Qiyomat' (Signs of the Hour from authentic Prophetic hadiths) paired with Tajik Tafsir of Surah al-Naba on Resurrection.",
+        "bn": "তাজিকিস্তানের তাজিক ফারসি পাঠকদের জন্য আহলে সুন্নাহর সহীহ হাদীস অনুযায়ী কিয়ামতের আলামত (‘নিশোনাহোয়ে কিয়োমাত’) এবং সূরা আন-নাবা-র তাফসীর।",
+        "ar": "كتاب «علامات القيامة برواية أهل السنة» وتفسير سورة النبأ باللغة الطاجيكية الفارسية على إسلام هاوس.",
+        "ur": "تاجکستان کے فارسی/تاجک قارئین کے لیے «نشانہائے قیامت» (بروایتِ اہلِ سنت) اور تفسیرِ سورۂ نبأ۔",
+        "fa": "کتاب «نشانه‌های قیامت به روایت اهل سنت» و تفسیر سوره نبأ به خط سیریلیک فارسی تاجیکی در اسلام‌هاوس."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct Tajik Sunni books & tafsir on IslamHouse.",
+      "links": [
+        {
+          "label": "Нишонаҳои Қиёмат · Tajik",
+          "labelI18n": {
+            "en": "Signs of Qiyamah · Tajik",
+            "bn": "কিয়ামতের আলামত · তাজিক",
+            "ar": "أشراط الساعة · طاجيكي",
+            "ur": "نشانہائے قیامت · تاجک",
+            "fa": "نشانه‌های قیامت · تاجیکی"
+          },
+          "url": "https://islamhouse.com/tg/category/889549/showall/tg/1"
+        },
+        {
+          "label": "Тафсири Сураи Набаъ · Tajik",
+          "labelI18n": {
+            "en": "Tafsir Surah Naba · Tajik",
+            "bn": "তাফসীরে সূরা নাবা · তাজিক",
+            "ar": "تفسير سورة النبأ · طاجيكي",
+            "ur": "تفسیر سورۂ نبأ · تاجک",
+            "fa": "تفسیر سوره نبأ · تاجیکی"
+          },
+          "url": "https://islamhouse.com/tg/articles/411472/"
+        }
+      ],
+      "topics": [
+        "signs",
+        "afterlife"
+      ],
+      "isClassical": false,
+      "related": [
+        171,
+        198,
+        200
+      ],
+      "kw": "tajik tojiki tajikistan persian nishonahoi qiyomat oxirat surah naba islamhouse"
+    },
+    {
+      "id": 200,
+      "lang": "global",
+      "langLabel": "Қазақша · Azərbaycan",
+      "title": "Ақырет күніне иман, Иса пайғамбар (Қиямет белгісі) & İslam Elçisi (Kazakh & Azerbaijani)",
+      "author": "IslamHouse Central Asia & Caucasus (Қазақша / Azərbaycan)",
+      "tier": "tier2",
+      "tierLabel": "স্তর ২",
+      "focus": "কাজাখস্তান ও আযারবাইজানের পাঠকদের জন্য শেষ দিবসের প্রতি ঈমান, ঈসা (আ.)-এর অবতরণ এবং তারিখ-অনুমান খণ্ডনবিষয়ক কাজাখ ও আযারবাইজানি প্রামাণ্য পাঠ্যসংকলন।",
+      "focusI18n": {
+        "en": "Paired Kazakh and Azerbaijani IslamHouse studies covering Belief in the Last Day, refuting false date-setting for Qiyamah, the return of Isa (AS) as a Sign of the Hour, and prophetic finality.",
+        "bn": "কাজাখস্তান ও আযারবাইজানের পাঠকদের জন্য শেষ দিবসের প্রতি ঈমান, ঈসা (আ.)-এর অবতরণ এবং তারিখ-অনুমান খণ্ডনবিষয়ক কাজাখ ও আযারবাইজানি প্রামাণ্য পাঠ্যসংকলন।",
+        "ar": "مواد موثّقة باللغتين الكازاخية والأذربيجانية حول الإيمان باليوم الآخر ونزول عيسى عليه السلام وبطلان تحديد موعد الساعة.",
+        "ur": "قازقستان اور آذربائیجان کے قارئین کے لیے ایمان بالآخرت، نزولِ عیسیٰؑ اور قیامت کی تاریخ کے غلط دعووں کے رد پر مستند مضامین۔",
+        "fa": "مجموعه مقالات و کتاب‌های قزاقی و آذربایجانی درباره ایمان به آخرت، نزول عیسی به عنوان نشانه قیامت و رد تعیین زمان قیامت."
+      },
+      "access": "free",
+      "accessLabel": "ফ্রি PDF / রিড",
+      "accessNote": "Direct free resources on IslamHouse Kazakh & Azerbaijani portals.",
+      "links": [
+        {
+          "label": "Иса · Қиямет белгісі (Қазақша)",
+          "labelI18n": {
+            "en": "Isa as Sign · Kazakh",
+            "bn": "কাজাখ নিবন্ধ · IslamHouse",
+            "ar": "نزول عيسى · كازاخي",
+            "ur": "نزولِ عیسیٰؑ · قازق",
+            "fa": "نزول عیسی · قزاقی"
+          },
+          "url": "https://islamhouse.com/kk/articles/2804736/"
+        },
+        {
+          "label": "Ақырет күніне иман (Қазақша)",
+          "labelI18n": {
+            "en": "Last Day Creed · Kazakh",
+            "bn": "আখিরাত আকীদা · কাজাখ",
+            "ar": "الإيمان بالآخرة · كازاخي",
+            "ur": "عقیدۂ آخرت · قازق",
+            "fa": "ایمان به آخرت · قزاقی"
+          },
+          "url": "https://islamhouse.com/kk/articles/2779930/"
+        },
+        {
+          "label": "Azərbaycan Kitab · Qiyamət",
+          "labelI18n": {
+            "en": "Azerbaijani Book · IslamHouse",
+            "bn": "আযারবাইজানি বই · IslamHouse",
+            "ar": "كتاب أذربيجاني · IslamHouse",
+            "ur": "آذربائیجانی کتاب · IslamHouse",
+            "fa": "کتاب آذربایجانی · اسلام‌هاوس"
+          },
+          "url": "https://islamhouse.com/az/books/2836678/"
+        }
+      ],
+      "topics": [
+        "isa",
+        "signs",
+        "afterlife",
+        "methodology"
+      ],
+      "isClassical": false,
+      "related": [
+        190,
+        198,
+        199
+      ],
+      "kw": "kazakh azerbaijani qazaqsha azerbaycan qiyamet aqyret isa turkmen kyrgyz islamhouse"
     }
   ],
   "languages_ui": [
     "en",
     "bn",
     "ar",
-    "ur"
+    "ur",
+    "fa",
+    "prs",
+    "ps",
+    "dv",
+    "id",
+    "ms",
+    "tr",
+    "az",
+    "kk",
+    "ru",
+    "uz",
+    "tk",
+    "ky",
+    "tg",
+    "fr",
+    "ha",
+    "yo",
+    "ig",
+    "wo",
+    "bm",
+    "ff",
+    "dje",
+    "so",
+    "sq",
+    "bs",
+    "hr",
+    "sr"
   ],
   "credits": "This project was created with Artificial Intelligence under the direction and maintenance of Tasneem Bin Ahsan (https://github.com/tbahsan). Users are encouraged to verify references directly against primary texts.",
   "maintainer": {
     "name": "Tasneem Bin Ahsan",
     "github": "https://github.com/tbahsan",
     "repository": "https://github.com/tbahsan/AkhirahArchive"
-  }
+  },
+  "total": 200,
+  "counts_by_language": {
+    "en": 49,
+    "ar": 42,
+    "ur": 42,
+    "bn": 37,
+    "fa": 12,
+    "global": 18
+  },
+  "edition": "Global Ummah Edition",
+  "free_count": 142
 }
