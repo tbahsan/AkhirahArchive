@@ -19,6 +19,7 @@ An open-source, zero-dependency, offline-first multilingual digital library and 
 - [Catalog Overview](#catalog-overview)
 - [Quick Start & Deployment](#quick-start--deployment)
 - [Repository Structure](#repository-structure)
+- [Multilingual Subject Index & Keywords](#multilingual-subject-index--keywords)
 - [Contributing](#contributing)
 - [Credits & Maintenance](#credits--maintenance)
 - [License](#license)
@@ -117,7 +118,10 @@ python3 -m http.server 8080
 
 ```text
 .
-├── index.html                                    # Standalone v6.0 International web app (zero dependencies)
+├── index.html                                    # Standalone v6.0 International web app (zero dependencies, SEO + JSON-LD)
+├── og-preview.png                                # 1200x630 Open Graph / Twitter social preview banner
+├── robots.txt                                    # Search crawler directives
+├── sitemap.xml                                   # Multilingual XML sitemap (EN, BN, AR, UR hreflang)
 ├── data/
 │   └── books.json                                # Structured JSON dataset of all 140 verified books (4-language summaries)
 ├── catalog/
@@ -131,6 +135,17 @@ python3 -m http.server 8080
 ├── LICENSE                                       # MIT License
 └── README.md                                     # Project documentation
 ```
+
+---
+
+## Multilingual Subject Index & Keywords
+
+To aid global searchability and research discovery across English, Bengali, Arabic, and Urdu, **AkhirahArchive** covers the following core topics and classical references:
+
+- **English:** Islamic eschatology, Signs of the Hour (*Ashrat al-Sa'ah*), Minor Signs, 10 Major Signs of Qiyamah, *Fitan* and *Malahim*, *al-Masih al-Dajjal*, *Imam al-Mahdi*, Descent of *Isa ibn Maryam* (Jesus in Islam), Gog and Magog (*Ya'juj* and *Ma'juj*), *Barzakh* and the life of the grave, Day of Judgment (*Yawm al-Qiyamah*), *Akhirah*, *Jannah* and *Jahannam*, Sahih Bukhari *Kitab al-Fitan*, Sahih Muslim Book 54, *Fath al-Bari*, *Sharh al-Aqidah al-Tahawiyyah*, Hadith verification (*Tahqiq*), Islamic digital library, open-source Islamic reference.
+- **বাংলা (Bengali):** কিয়ামতের আলামত, কিয়ামতের ছোট ও বড় নিদর্শন, আখিরী জামানা, দাজ্জাল, ইমাম মাহদী, ঈসা (আ.)-এর অবতরণ, ইয়াজুজ মাজুজ, ফিতান ও মালাহিম, কবর ও বারযাখ, আখিরাত, জান্নাত ও জাহান্নাম, সহীহ হাদিসভিত্তিক বই, ইসলামিক ডিজিটাল লাইব্রেরি, ড. আব্দুল্লাহ জাহাঙ্গীর, ইবনে কাসীর, আলবানী।
+- **العربية (Arabic):** أشراط الساعة الصغرى والكبرى، علامات يوم القيامة، الفتن والملاحم، المسيح الدجال، المهدي، نزول عيسى عليه السلام، يأجوج ومأجوج، عذاب القبر وعالم البرزخ، البعث والحشر والجنة والنار، فقه أشراط الساعة، فتح الباري، شرح صحيح مسلم، شرح العقيدة الطحاوية، مكتبة إسلامية رقمية.
+- **اردو (Urdu):** علاماتِ قیامت صغریٰ و کبریٰ، قیامت کی نشانیاں، آخری زمانے کے فتن و ملاحم، فتنۂ مسیحِ دجال، امام مہدی، نزولِ عیسیٰ علیہ السلام، یاجوج و ماجوج، عذابِ قبر اور عالمِ برزخ، حشر و آخرت، جنت و جہنم، اسلامی ڈیجیٹل لائبریری، صحیح احادیث، علامہ انور شاہ کشمیری، مفتی محمد شفیع، دکتور یوسف الوابل۔
 
 ---
 
